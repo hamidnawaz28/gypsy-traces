@@ -8,7 +8,7 @@ export default function TimelineGroup() {
     return (
         <TimelineWrap>
             <Timeline>
-                hello
+                Timleline-1
             </Timeline>
         </TimelineWrap>
     );

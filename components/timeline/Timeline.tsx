@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { ReactNode } from 'react';
 import {
     TimelineItem,
     TimelineSeparator,
@@ -7,7 +7,11 @@ import {
     TimelineDot
 } from '@material-ui/lab';
 
-export default function Timeline({ children }) {
+type AppProps = {
+    children: ReactNode;
+};
+
+export default function Timeline({ children }: AppProps) {
     return (
         <TimelineItem>
             <TimelineSeparator>

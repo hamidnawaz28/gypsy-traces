@@ -16,7 +16,7 @@ const DetailsPage: NextPage = () => {
 
     return (
         <div className={styles.container}>
-            <Seo description='Home package for travel packages' title='Home' siteTitle='Gypsy Traces' />
+            <Seo description='Home package for travel packages' title='Details' siteTitle='Gypsy Traces' />
             <main className={styles.main}>
                 <h1 className={styles.title}>
                     Details Page of {city} {url}

@@ -1,7 +1,5 @@
-import React from 'react';
+import Card from './Card'
 import { makeStyles } from '@material-ui/core/styles';
-import Accordion from './Accordion'
-
 interface AppProps {
     dataArr: object[],
 }
@@ -12,12 +10,12 @@ const useStyles = makeStyles((theme) => ({
     }
 }));
 
-export default function SimpleAccordion({ dataArr }: AppProps) {
+export default function CardGroup({ dataArr }: AppProps) {
     const classes = useStyles();
 
     return (
         <div className={classes.root}>
-            {dataArr.forEach(item => <Accordion {...item} />)}
+            {dataArr.forEach(item => <Card {...item} />)}
         </div>
     );
 }

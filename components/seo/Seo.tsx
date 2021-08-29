@@ -1,11 +1,12 @@
 import Head from 'next/head'
 
-type seoProps = {
+interface SeoProps {
     description: string,
     title: string,
     siteTitle: string
 }
-export default function SEO({ description, title, siteTitle }: seoProps) {
+
+export default function SEO({ description, title, siteTitle }: SeoProps) {
     return (
         <Head>
             <title>{`${title} | ${siteTitle}`}</title>
@@ -18,6 +19,7 @@ export default function SEO({ description, title, siteTitle }: seoProps) {
             {/* <meta property="twitter:creator" content={config.social.twitter} /> */}
             <meta property="twitter:title" content={title} />
             <meta property="twitter:description" content={description} />
+            <link rel="icon" href="/favicon.ico" />
         </Head>
     )
 }

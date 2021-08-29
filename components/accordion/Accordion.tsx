@@ -7,10 +7,12 @@ import {
     Typography
 } from '@material-ui/core'
 import { ExpandMore } from '@material-ui/icons';
+
 type AccordianProps = {
     title: string,
     details: string
 }
+
 const useStyles = makeStyles((theme) => ({
     heading: {
         fontSize: theme.typography.pxToRem(15),
@@ -19,8 +21,10 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function SimpleAccordion({ title, details }: AccordianProps): JSX.Element {
+
     const classes = useStyles();
     const { heading } = classes
+
     return (
         <Accordion>
             <AccordionSummary

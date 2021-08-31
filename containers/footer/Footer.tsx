@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from '../../styles/Home.module.css'
-import { Grid, Typography } from '@material-ui/core'
+import { Grid, Typography, Icons } from '@material-ui/core'
+import { Facebook, YouTube, Instagram, Telegram } from '@material-ui/icons'
 
 const breakpoints = {
     xs: 12,
@@ -12,7 +13,7 @@ const breakpoints = {
 
 export default function Footer() {
 
-    const GridWrap = ({ children }) => <Grid {...breakpoints}>{children}</Grid>
+    const GridWrap = ({ children }) => <Grid {...breakpoints} item>{children}</Grid>
 
     return (
         <footer className={styles.footer}>
@@ -28,10 +29,10 @@ export default function Footer() {
                 </GridWrap>
                 <GridWrap>
                     <h3>Social Media</h3>
-                    <p>Facebook</p>
-                    <p>Instagram</p>
-                    <p>Youtube</p>
-                    <p>Telegram</p>
+                    <Facebook />
+                    <Instagram />
+                    <YouTube />
+                    <Telegram />
                 </GridWrap>
                 <GridWrap>
                     <h3>About Us</h3>
@@ -41,7 +42,7 @@ export default function Footer() {
                 </GridWrap>
             </Grid>
             <Typography align='center'>
-                Copyright All Rights Reserved
+                @Copyright! All Rights Reserved 2021
             </Typography>
         </footer >
     );

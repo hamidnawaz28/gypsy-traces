@@ -19,7 +19,7 @@ export default function SEO({ description, title, siteTitle }: SeoProps) {
             {/* <meta property="twitter:creator" content={config.social.twitter} /> */}
             <meta property="twitter:title" content={title} />
             <meta property="twitter:description" content={description} />
-            <link rel="icon" href="/favicon.ico" />
+            <link rel="icon" href="/logo/gypsy-traces.png" />
         </Head>
     )
 }

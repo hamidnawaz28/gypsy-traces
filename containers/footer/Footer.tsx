@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../../styles/Home.module.css'
-import { Grid, Typography, Icons } from '@material-ui/core'
+import { Grid, Typography } from '@material-ui/core'
 import { Facebook, YouTube, Instagram, Telegram } from '@material-ui/icons'
 
 const breakpoints = {

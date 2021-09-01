@@ -1,5 +1,441 @@
 {
     "translation": {
-        "title": "Welcome to React and react-i18next"
+        "title": "Welcome to React and react-i18next",
+        "packages": {
+            "culturalAndHeritage": [
+                {
+                    "title": "Ancient Silk Route",
+                    "mainImageUrl": "",
+                    "siteImagesUrl": [],
+                    "description": "The Ancient Silk route tour is crafted to show you the ancient trade route which links China with Pakistan. This tour will start from Islamabad and end at Khunjerab China Border. You will visit the legendary cities, lush green meadows, religious sites and rich museums. Moreover, you will interact with local the communities living along the ancient silk route",
+                    "days": 10,
+                    "pickup": "Islamabad",
+                    "dropOff": "Khunjerab, China Border",
+                    "itinerary": [
+                        {
+                            "day": "01",
+                            "title": "Islamabad",
+                            "activities": [
+                                "Arrival at Islamabad Airport",
+                                "Transfer to Hotel",
+                                "Half Day City Tour",
+                                "Monoment ofpakistan",
+                                "Lok Virsa museum",
+                                "Faisal Mosque",
+                                "Margilla Hills"
+                            ]
+                        },
+                        {
+                            "day": "02",
+                            "title": "Islamabad- Taxila- Peshawar",
+                            "activities": [
+                                "Taxila Museum",
+                                "Darmarajic Stupa",
+                                "Sirkup& Julian ",
+                                "Mardan (Takht Bai)",
+                                "Islamabad",
+                                "Overnight Hotel"
+                            ]
+                        },
+                        {
+                            "day": "03",
+                            "title": "Islamabad- Besham",
+                            "activities": [
+                                "Mahansehra",
+                                "Besham",
+                                "Night Stay: Hotel"
+                            ]
+                        },
+                        {
+                            "day": "04",
+                            "title": "Besham- Gilgit",
+                            "activities": [
+                                "Chilas Rock Carvings",
+                                "Nanga Parbat View Point",
+                                "Three Mountain Ranges Junction",
+                                "Gilgit",
+                                "Night Stay: Hotel"
+                            ]
+                        },
+                        {
+                            "day": "05",
+                            "title": "Gilgit",
+                            "activities": [
+                                "Kargah Buddha",
+                                "Gilgit Bazzar",
+                                "River View",
+                                "Night Stay : Hotel"
+                            ]
+                        },
+                        {
+                            "day": "06",
+                            "title": "Hunza",
+                            "activities": [
+                                "Altit Fort",
+                                "Ganesh Sattelment",
+                                "Baltit Fort",
+                                "Royal garden",
+                                "Karimabad Bazzar"
+                            ]
+                        },
+                        {
+                            "day": "07",
+                            "title": "Hunza",
+                            "activities": [
+                                "Attabad Lake",
+                                "Gulmit Village",
+                                "Bulbulik ",
+                                "Ondra Poygah"
+                            ]
+                        },
+                        {
+                            "day": "08",
+                            "title": "Hunza",
+                            "activities": [
+                                "Hussaini Suspension Bridge ",
+                                "Borith Lake",
+                                "Passu Glacier ",
+                                "Passu Cones",
+                                "Glacier Breeze"
+                            ]
+                        },
+                        {
+                            "day": "09",
+                            "title": "Hunza Community",
+                            "activities": [
+                                "Local Roaming",
+                                "Rest"
+                            ]
+                        },
+                        {
+                            "day": "10",
+                            "title": "Passu- Tashkurgan China",
+                            "activities": [
+                                "Sost",
+                                "Khunjerab Border",
+                                "Tashkurgan China"
+                            ]
+                        }
+                    ],
+                    "whatsIncluded": {
+                        "transport": "Transportation",
+                        "airportPickup": "Airport Transfers",
+                        "hotel": "Hotel Accommodation in Pakistan",
+                        "meals": "Meals (Breakfast, Lunch, Dinner)",
+                        "water": "Water",
+                        "guides": "Government Licensed expert  Guides",
+                        "staff": "Support Staff",
+                        "safety": "Basic First Aid Kit",
+                        "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+                        "certificates": "Tour Completion Certificate"
+                    },
+                    "whatsNotIncluded": {
+                        "insurance": "Personal Insurance",
+                        "visa": "Visa  ( Supporting credentials will be provided)",
+                        "personalItems": "Personal Use Items",
+                        "internationalTickets": "International Air Tickets",
+                        "tips": "Tips to guide and support staff",
+                        "items": "Miscellaneous Items",
+                        "else": "Anything not mentioned above"
+                    }
+                },
+                {
+                    "title": "Buddhist Traces",
+                    "mainImageUrl": "",
+                    "siteImagesUrl": [],
+                    "description": "The tour is crafted specifically for those who are keen to explore the rich Buddhist Traces in Pakistan.  You will be able to see the Historical Lahore City, Famous Katas Raj Temple, Beautiful Islamabad, Cradle of Buddhism Taxila, Rich Buddhist Sites of Takht e Bai, well preserved remains of Bddhists in Peshawar Museum and Lush green Buddhist Sites of Swat",
+                    "days": 10,
+                    "pickup": "Lahore Airport",
+                    "dropOff": "Islamabad Airport",
+                    "itinerary": [
+                        {
+                            "day": "01",
+                            "title": "Lahore",
+                            "activities": [
+                                "Arrival",
+                                "Transfer to Hotel",
+                                "Lahore City Tour"
+                            ]
+                        },
+                        {
+                            "day": "02",
+                            "title": "Lahore",
+                            "activities": [
+                                "Shahi Hammam",
+                                "Lahore Museum",
+                                "Badhshahi Mosque"
+                            ]
+                        },
+                        {
+                            "day": "03",
+                            "title": "Islamabad enroute Katas Raj Temple",
+                            "activities": [
+                                "Khewra Salt mine",
+                                "Katas Raj Temple",
+                                "Islamabad"
+                            ]
+                        },
+                        {
+                            "day": "04",
+                            "title": "Islamabad",
+                            "activities": [
+                                "Pakistan Monoment",
+                                "Lok Virsa Museum",
+                                "FaisalMosque",
+                                "Margilla Hills"
+                            ]
+                        },
+                        {
+                            "day": "05",
+                            "title": "Islamabad- Taxila-Peshawar",
+                            "activities": [
+                                "Taxila Archaeological Site",
+                                "Taxila Museum",
+                                "Peshawar"
+                            ]
+                        },
+                        {
+                            "day": "06",
+                            "title": "Peshawar",
+                            "activities": [
+                                "Peshawar City",
+                                "Peshawar Museum"
+                            ]
+                        },
+                        {
+                            "day": "07",
+                            "title": "Takht Bai- Swat",
+                            "activities": [
+                                "Takht Bai Buddhist Site",
+                                "Swat"
+                            ]
+                        },
+                        {
+                            "day": "08",
+                            "title": "Swat",
+                            "activities": [
+                                "Swat City",
+                                "Archeological Sites (Saidu Sharif Stupa)",
+                                "Swat Museum ",
+                                "Passu Cones",
+                                "Glacier Breeze"
+                            ]
+                        },
+                        {
+                            "day": "09",
+                            "title": "Swat",
+                            "activities": [
+                                "Murghzar (white palace)",
+                                "Islamabad"
+                            ]
+                        },
+                        {
+                            "day": "10",
+                            "title": "Departure",
+                            "activities": [
+                                "Departure from Islamabad Airport"
+                            ]
+                        }
+                    ],
+                    "whatsIncluded": {
+                        "transport": "Transportation",
+                        "airportPickup": "Airport Transfers",
+                        "hotel": "Hotel Accommodation in Pakistan",
+                        "meals": "Meals (Breakfast, Lunch, Dinner)",
+                        "water": "Water",
+                        "guides": "Government Licensed expert  Guides",
+                        "staff": "Support Staff",
+                        "safety": "Basic First Aid Kit",
+                        "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+                        "certificates": "Tour Completion Certificate"
+                    },
+                    "whatsNotIncluded": {
+                        "insurance": "Personal Insurance",
+                        "visa": "Visa  ( Supporting credentials will be provided)",
+                        "personalItems": "Personal Use Items",
+                        "internationalTickets": "International Air Tickets",
+                        "tips": "Tips to guide and support staff",
+                        "items": "Miscellaneous Items",
+                        "else": "Anything not mentioned above"
+                    }
+                }
+            ],
+            "siteseeing": [],
+            "honeymoon": [],
+            "trekking": [
+                {
+                    "title": "Batura Glacier Trek",
+                    "mainImageUrl": "",
+                    "siteImagesUrl": [],
+                    "description": "Batura Glacier Trek",
+                    "days": 17,
+                    "pickup": "Islambad Airport",
+                    "dropOff": "Islamabad Airport",
+                    "itinerary": [
+                        {
+                            "day": "01",
+                            "title": "Islamabad",
+                            "activities": [
+                                "Arrival",
+                                "Transfer to Hotel",
+                                "Half Day City Tour",
+                                "Monoment ofpakistan",
+                                "Lok Virsa museum",
+                                "Faisal Mosque",
+                                "Margilla Hills"
+                            ]
+                        },
+                        {
+                            "day": "02",
+                            "title": "Naran/ Chilas",
+                            "activities": [
+                                " Islamabad to Naran/ Chilas",
+                                "Lake Saif Ul malook/ Chilas",
+                                "Night Stay Naran/ Chilas"
+                            ]
+                        },
+                        {
+                            "day": "03",
+                            "title": "Chilas- Hunza",
+                            "activities": [
+                                "Jaglote Junction",
+                                "Rakaposhi View Point",
+                                "Hunza"
+                            ]
+                        },
+                        {
+                            "day": "04",
+                            "title": "Hunza",
+                            "activities": [
+                                "Altit Fort",
+                                "Baltit Fort",
+                                "Royal garden",
+                                "Karimabad Bazzar",
+                                "Ganish Village",
+                                "Minapin"
+                            ]
+                        },
+                        {
+                            "day": "05",
+                            "title": "Hunza",
+                            "activities": [
+                                "Attabad Lake",
+                                "Ondra Poygah",
+                                "Hussaini Suspension Bridge ",
+                                "Passu Village",
+                                "Night Stay: Hotel"
+                            ]
+                        },
+                        {
+                            "day": "06",
+                            "title": "Passu- yunzben",
+                            "activities": [
+                                "Night Stay: Dome Tent"
+                            ]
+                        },
+                        {
+                            "day": "07",
+                            "title": "Yunzben-Yashperth",
+                            "activities": [
+                                "Night Stay: Dome Tent"
+                            ]
+                        },
+                        {
+                            "day": "08",
+                            "title": "Yashperth- Guthism",
+                            "activities": [
+                                "Night Stay: Dome Tent"
+                            ]
+                        },
+                        {
+                            "day": "09",
+                            "title": "Rest Day",
+                            "activities": [
+                                "Night Stay: Dome Tent"
+                            ]
+                        },
+                        {
+                            "day": "10",
+                            "title": "Gutishm- Yashperth",
+                            "activities": [
+                                "Night Stay: Dome Tent"
+                            ]
+                        },
+                        {
+                            "day": "11",
+                            "title": "Yashperth- Yunzben",
+                            "activities": [
+                                "Night Stay: Dome Tent"
+                            ]
+                        },
+                        {
+                            "day": "12",
+                            "title": "Yunzben-Passu",
+                            "activities": [
+                                "Night Stay: Hotel"
+                            ]
+                        },
+                        {
+                            "day": "13",
+                            "title": "Passu- Karimabad",
+                            "activities": [
+                                "Night Stay: Hotel"
+                            ]
+                        },
+                        {
+                            "day": "14",
+                            "title": "Karaimabad Rest Day",
+                            "activities": [
+                                "Night Stay: Hotel"
+                            ]
+                        },
+                        {
+                            "day": "15",
+                            "title": "karimabad – Besham/ Naran",
+                            "activities": [
+                                "Night Stay: Hotel"
+                            ]
+                        },
+                        {
+                            "day": "16",
+                            "title": "Naran- Islamabad",
+                            "activities": [
+                                "Rest",
+                                "Shopping",
+                                "Night Stay: Islamabad"
+                            ]
+                        },
+                        {
+                            "day": "17",
+                            "title": "Back to Home Country",
+                            "activities": [
+                                "Airport drop"
+                            ]
+                        }
+                    ],
+                    "whatsIncluded": {
+                        "transport": "Transportation",
+                        "airportPickup": "Airport Transfers",
+                        "hotel": "Hotel Accommodation in Pakistan",
+                        "meals": "Meals (Breakfast, Lunch, Dinner)",
+                        "water": "Water",
+                        "guides": "Government Licensed expert  Guides",
+                        "staff": "Support Staff",
+                        "safety": "Basic First Aid Kit",
+                        "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+                        "certificates": "Tour Completion Certificate"
+                    },
+                    "whatsNotIncluded": {
+                        "insurance": "Personal Insurance",
+                        "visa": "Visa  ( Supporting credentials will be provided)",
+                        "personalItems": "Personal Use Items",
+                        "internationalTickets": "International Air Tickets",
+                        "tips": "Tips to guide and support staff",
+                        "items": "Miscellaneous Items",
+                        "else": "Anything not mentioned above"
+                    }
+                }
+            ]
+        }
     }
 }

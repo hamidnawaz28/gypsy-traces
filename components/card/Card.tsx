@@ -11,9 +11,12 @@ import {
 } from '@material-ui/core'
 
 import Image from 'next/image'
+
 const useStyles = makeStyles({
     root: {
         maxWidth: 345,
+        padding: 10,
+        margin: 10
     },
 });
 
@@ -33,7 +36,7 @@ export default function ImgCard({ title, details, imagePath }: ImgCardProps) {
                 <CardMedia
                     component="img"
                     alt={title}
-                    height="140"
+                    height="240"
                     image={imagePath}
                     title={title}
                 />

@@ -11,16 +11,16 @@ const Home: NextPage = () => {
   const { t, i18n } = useTranslation();
 
   return (
-    <div className={styles.container}>
-
+    <div >
       <Seo description='Home package for travel packages' title='Home' siteTitle='Gypsy Traces' />
-      <main className={styles.main}>
+      <main>
+        <img src='/homepage/world-famous-destinations.png' />
 
+        <Card imagePath="/details/thumbnail/k2-treking-trek-001.png" title='k2-trekking' details='Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
+                        across all continents except Antarctica' />
+        <Card imagePath="/details/thumbnail/k2-treking-trek-001.png" title='k2-trekking' details='Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
+                        across all continents except Antarctica' />
         <h1 className={styles.title}>
-          <Card imagePath="/details/thumbnail/k2-treking-trek-001.png" title='k2-trekking' details='Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
-                        across all continents except Antarctica' />
-          <Card imagePath="/details/thumbnail/k2-treking-trek-001.png" title='k2-trekking' details='Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
-                        across all continents except Antarctica' />
         </h1>
       </main>
       <Footer />

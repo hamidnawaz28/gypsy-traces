@@ -30,14 +30,14 @@ export default function ImgCard({ title, details, imagePath }: ImgCardProps) {
     return (
         <Card className={classes.root}>
             <CardActionArea>
-                {/* <CardMedia
+                <CardMedia
                     component="img"
-                    alt="Contemplative Reptile"
+                    alt={title}
                     height="140"
-                    image="/public/details/k2-treking-trek-001.png"
-                    title="Contemplative Reptile"
-                /> */}
-                <Image src={imagePath} width='300px' height="340" alt="Picture of the author" />
+                    image={imagePath}
+                    title={title}
+                />
+                {/* <Image src={imagePath} width='300px' height="340" alt="Picture of the author" /> */}
                 <CardContent>
                     <Typography gutterBottom variant="h5" component="h2">
                         {title}

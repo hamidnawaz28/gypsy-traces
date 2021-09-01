@@ -14,19 +14,19 @@ import Image from 'next/image'
 
 const useStyles = makeStyles({
     root: {
-        maxWidth: 345,
         padding: 10,
-        margin: 10
+        margin: 10,
+        width: "25%"
     },
 });
 
 interface ImgCardProps {
     title: string,
     details: string,
-    imagePath: string
+    imgSrc: string
 }
 
-export default function ImgCard({ title, details, imagePath }: ImgCardProps) {
+export default function ImgCard({ title, details, imgSrc }: ImgCardProps) {
 
     const classes = useStyles();
 
@@ -37,7 +37,7 @@ export default function ImgCard({ title, details, imagePath }: ImgCardProps) {
                     component="img"
                     alt={title}
                     height="240"
-                    image={imagePath}
+                    image={imgSrc}
                     title={title}
                 />
                 {/* <Image src={imagePath} width='300px' height="340" alt="Picture of the author" /> */}

@@ -7,33 +7,26 @@ import { useTranslation } from 'react-i18next';
 import { Card, CardGroup } from '../components/card'
 import { Footer } from '../containers/footer'
 import { Grid, makeStyles } from '@material-ui/core'
-
+import jsonData from '../components/internationalization/en-US.json'
 const useStyles = makeStyles({
-  trekContainer: {
-    display: 'flex',
-    flexDirection: 'row'
-  }
+  root: {}
 })
 
 const Home: NextPage = () => {
 
   const { t, i18n } = useTranslation();
-  const { trekContainer } = useStyles()
+  const { packages } = jsonData.translation
+  const { root } = useStyles()
   return (
     <div >
       <Seo description='Home package for travel packages' title='Home' siteTitle='Gypsy Traces' />
       <main>
         <img src='/homepage/world-famous-destinations.png' width="100%" />
-        <h3 >
+        <h3>
           Home Page
         </h3>
 
-        <Grid container className={trekContainer}>
-          <Card imagePath="/details/thumbnail/k2-treking-trek-001.png" title='k2-trekking' details='Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
-                        across all continents except Antarctica' />
-          <Card imagePath="/details/thumbnail/k2-treking-trek-001.png" title='k2-trekking' details='Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
-                        across all continents except Antarctica' />
-        </Grid>
+        <CardGroup dataArr={packages} />
 
       </main>
       <Footer />

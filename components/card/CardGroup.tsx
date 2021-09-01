@@ -1,21 +1,49 @@
 import Card from './Card'
-import { makeStyles } from '@material-ui/core/styles';
+import { Grid, Typography, makeStyles } from '@material-ui/core';
+
 interface AppProps {
-    dataArr: object[],
+    dataArr: object
 }
 
-const useStyles = makeStyles((theme) => ({
-    root: {
-        width: '100%',
+const useStyles = makeStyles({
+    trekContainer: {
+        display: 'flex',
+        flexDirection: 'row',
     }
-}));
+})
 
 export default function CardGroup({ dataArr }: AppProps) {
-    const classes = useStyles();
+
+    const { trekContainer } = useStyles()
+    const categories: string[] = Object.keys(dataArr)
 
     return (
-        <div className={classes.root}>
-            {dataArr.forEach(item => <Card {...item} />)}
-        </div>
+        categories.map(item => {
+            const { title, details } = dataArr[item]
+            return (
+                <Grid>
+                    {
+                        details.length > 0
+                        &&
+                        <Typography>{title}</Typography>
+                    }
+                    <Grid container className={trekContainer}>
+                        {details.map(item => {
+                            const { title: cardTitle, description, thumbnailImage } = item
+                            return (
+                                <Card
+                                    title={cardTitle}
+                                    details={description}
+                                    imgSrc={thumbnailImage}
+                                />
+                            )
+                        }
+                        )}
+                    </Grid>
+                </Grid>
+            )
+        }
+        )
+
     );
 }

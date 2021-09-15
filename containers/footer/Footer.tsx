@@ -35,10 +35,9 @@ export default function Footer() {
                     <Telegram />
                 </GridWrap>
                 <GridWrap>
-                    <h3>About Us</h3>
-                    <p>Careers</p>
-                    <p>Why Us</p>
-                    <p>News</p>
+                    <h3>More</h3>
+                    <p>About Us</p>
+                    <p>Contact</p>
                 </GridWrap>
             </Grid>
             <Typography align='center'>

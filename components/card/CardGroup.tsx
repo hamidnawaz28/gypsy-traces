@@ -9,6 +9,7 @@ const useStyles = makeStyles({
     trekContainer: {
         display: 'flex',
         flexDirection: 'row',
+        padding: 10
     }
 })
 

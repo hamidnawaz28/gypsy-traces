@@ -8,6 +8,7 @@ import { Card, CardGroup } from '../components/card'
 import { Footer } from '../containers/footer'
 import { Grid, makeStyles } from '@material-ui/core'
 import jsonData from '../components/internationalization/en-US.json'
+import { Header } from '../containers/header'
 const useStyles = makeStyles({
   root: {}
 })
@@ -21,6 +22,7 @@ const Home: NextPage = () => {
     <div >
       <Seo description='Home package for travel packages' title='Home' siteTitle='Gypsy Traces' />
       <main>
+        <Header />
         <img src='/homepage/world-famous-destinations.png' width="100%" />
         <h3>
           Home Page

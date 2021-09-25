@@ -12,11 +12,11 @@ const useStyles = makeStyles((theme) => ({
     }
 }));
 
-export default function SimpleAccordion({ dataArr }: AppProps) {
-    const classes = useStyles();
+export default function AccordianGroup({ dataArr }: AppProps) {
+    const { root } = useStyles();
 
     return (
-        <div className={classes.root}>
+        <div className={root}>
             {dataArr.forEach(item => <Accordion {...item} />)}
         </div>
     );

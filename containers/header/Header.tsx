@@ -11,6 +11,7 @@ import {
 } from "@mui/material";
 import { Menu } from "@mui/icons-material";
 import { CompanyLogo } from "../../components/icons";
+
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -23,6 +24,12 @@ const useStyles = makeStyles((theme) => ({
   title: {
     flexGrow: 1,
     color: "black",
+    "& span:nth-child(1)": {
+      color: theme.palette.primary.main,
+    },
+    "& span:nth-child(2)": {
+      color: theme.palette.secondary.main,
+    },
   },
   toolBar: {
     backgroundColor: "white",
@@ -41,10 +48,11 @@ export default function ButtonAppBar() {
             className={classes.menuButton}
             aria-label="menu"
           >
-            {/* <CompanyLogo /> */}
+            <CompanyLogo />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            Gypsy Traces
+            <span>Gypsy</span>
+            <span>Traces</span>
           </Typography>
           <Button> Services </Button>
           <Button> Contact Us </Button>

@@ -7,6 +7,7 @@ const useStyles = makeStyles((theme) => {
       textAlign: "center",
       margin: 10,
       backgroundColor: theme.palette.primary.light,
+      borderRadius: 3,
     },
   };
 });

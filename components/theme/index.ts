@@ -2,8 +2,9 @@ import { createTheme } from "@mui/material/styles";
 import {
   green,
   red,
-  deepOrange,
   orange,
+  grey,
+  deepOrange,
   lightGreen,
 } from "@mui/material/colors";
 
@@ -11,7 +12,7 @@ const primaryPalette = {
   light: "#23959661",
   main: "#239596",
   dark: "#0e8182",
-  contrastText: "#111",
+  contrastTexta: "#111",
 };
 
 const secondaryPalette = {
@@ -33,8 +34,28 @@ const theme = createTheme({
   palette: {
     primary: { ...primaryPalette },
     secondary: { ...secondaryPalette },
-    notification: { ...notificationPalette },
-    contrastThreshold: 3,
+    text: {
+      primary: "#f96a6a",
+      secondary: "#f96a6a",
+      disabled: "#f96a6a",
+    },
+    divider: grey[50],
+    // action: {
+    //   active: "#f96a6a",
+    //   hover: "#1111",
+    //   hoverOpacity: 1,
+    //   selected: "#f96a6a",
+    //   disabled: "#f96a6a",
+    //   disabledBackground: "#f96a6a",
+    // },
+    background: {
+      default: grey[200],
+    },
+
+    // error: {},
+    // success: {},
+    // warning: {},
+    // info: {},
   },
   typography: {
     fontFamily: [
@@ -49,8 +70,10 @@ const theme = createTheme({
       '"Segoe UI Emoji"',
       '"Segoe UI Symbol"',
     ].join(","),
+    fontSize: 12,
+    fontWeightRegular: 400,
   },
-  spacing: {},
-  breakpoints: {},
+  spacing: 2,
+  // breakpoints: {},
 });
 export default theme;

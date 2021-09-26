@@ -1,6 +1,7 @@
 import React from "react";
 import { makeStyles } from "@mui/styles";
 import { grey } from "@mui/material/colors";
+import { Button } from "@mui/material";
 import Image from "next/image";
 
 const useStyles = makeStyles((theme) => {
@@ -8,11 +9,31 @@ const useStyles = makeStyles((theme) => {
     root: {
       padding: 10,
       margin: 10,
-      width: "25%",
+      [theme.breakpoints.down("sm")]: {
+        width: "100%",
+      },
+      [theme.breakpoints.between("sm", "lg")]: {
+        width: "50%",
+      },
+      [theme.breakpoints.up("lg")]: {
+        width: "25%",
+      },
       border: `1px solid ${grey[200]}`,
       borderRadius: 5,
-      backgroundColor: grey[100],
-      // backgroundColor: theme.palette.primary.light,
+      backgroundColor: theme.palette.background.default,
+    },
+    cardImage: {
+      width: "100%",
+      [theme.breakpoints.down("xs")]: {
+        height: "100px",
+      },
+      [theme.breakpoints.down("sm")]: {
+        height: "150px",
+      },
+      [theme.breakpoints.up("sm")]: {
+        height: "200px",
+      },
+      borderRadius: 3,
     },
   };
 });
@@ -24,13 +45,16 @@ interface ImgCardProps {
 }
 
 export default function ImgCard({ title, details, imgSrc }: ImgCardProps) {
-  const { root } = useStyles();
+  const { root, cardImage } = useStyles();
 
   return (
     <div className={root}>
-      <img src={imgSrc} width="100%" height="200px" />
+      <img src={imgSrc} className={cardImage} />
       <h4>{title}</h4>
-      <p>{details}</p>
+      {/* <p>{details}</p> */}
+      <Button color="primary" variant="contained" fullWidth>
+        Details
+      </Button>
     </div>
   );
 }

@@ -2,6 +2,37 @@ import React from "react";
 import styles from "../../styles/Home.module.css";
 import { Grid, Typography } from "@mui/material";
 import { Facebook, YouTube, Instagram, Telegram } from "@mui/icons-material";
+import { makeStyles } from "@mui/styles";
+
+const useStyles = makeStyles((theme) => {
+  return {
+    footer: {
+      width: "100%",
+      borderTop: "1px solid #eaeaea",
+      backgroundColor: theme.palette.primary.main,
+      color: "white",
+    },
+    footerContainer: {
+      textAlign: "center",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      "& p, h3": {
+        paddding: 0,
+        margin: 5,
+        textTransform: "uppercase",
+        fontFamily: "Roboto",
+        fontSize: 12,
+        fontWeight: "medium",
+        letterSpacing: "20%",
+      },
+    },
+    copyright: {
+      textTransform: "uppercase",
+      fontSize: 10,
+    },
+  };
+});
 
 const breakpoints = {
   xs: 12,
@@ -18,17 +49,10 @@ export default function Footer() {
     </Grid>
   );
 
+  const { footer, copyright, footerContainer } = useStyles();
   return (
-    <footer className={styles.footer}>
-      <Grid
-        container
-        style={{
-          textAlign: "center",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      >
+    <footer className={footer}>
+      <Grid container className={footerContainer}>
         <GridWrap>
           <h3>Location</h3>
           <p>225/2, Gill Road</p>
@@ -47,7 +71,7 @@ export default function Footer() {
           <p>Contact</p>
         </GridWrap>
       </Grid>
-      <Typography align="center">
+      <Typography align="center" className={copyright}>
         @Copyright! All Rights Reserved 2021
       </Typography>
     </footer>

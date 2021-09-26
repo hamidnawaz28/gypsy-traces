@@ -1,63 +1,36 @@
-import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import {
-    Card,
-    CardActionArea,
-    CardActions,
-    CardContent,
-    CardMedia,
-    Button,
-    Typography
-} from '@material-ui/core'
+import React from "react";
+import { makeStyles } from "@mui/styles";
+import { grey } from "@mui/material/colors";
+import Image from "next/image";
 
-import Image from 'next/image'
-
-const useStyles = makeStyles({
+const useStyles = makeStyles((theme) => {
+  return {
     root: {
-        padding: 10,
-        margin: 10,
-        width: "25%"
+      padding: 10,
+      margin: 10,
+      width: "25%",
+      border: `1px solid ${grey[200]}`,
+      borderRadius: 5,
+      backgroundColor: grey[100],
+      // backgroundColor: theme.palette.primary.light,
     },
+  };
 });
 
 interface ImgCardProps {
-    title: string,
-    details: string,
-    imgSrc: string
+  title: string;
+  details: string;
+  imgSrc: string;
 }
 
 export default function ImgCard({ title, details, imgSrc }: ImgCardProps) {
+  const { root } = useStyles();
 
-    const classes = useStyles();
-
-    return (
-        <Card className={classes.root}>
-            <CardActionArea>
-                <CardMedia
-                    component="img"
-                    alt={title}
-                    height="240"
-                    image={imgSrc}
-                    title={title}
-                />
-                {/* <Image src={imagePath} width='300px' height="340" alt="Picture of the author" /> */}
-                <CardContent>
-                    <Typography gutterBottom variant="h5" component="h2">
-                        {title}
-                    </Typography>
-                    <Typography variant="body2" color="textSecondary" component="p">
-                        {details}
-                    </Typography>
-                </CardContent>
-            </CardActionArea>
-            {/* <CardActions>
-                <Button size="small" color="primary">
-                    Share
-                </Button>
-                <Button size="small" color="primary">
-                    Learn More
-                </Button>
-            </CardActions> */}
-        </Card>
-    );
+  return (
+    <div className={root}>
+      <img src={imgSrc} width="100%" height="200px" />
+      <h4>{title}</h4>
+      <p>{details}</p>
+    </div>
+  );
 }

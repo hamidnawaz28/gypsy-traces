@@ -1,3 +1,4 @@
+import React from "react";
 import type { NextPage } from "next";
 import styles from "../../../styles/Home.module.css";
 import { useTranslation } from "react-i18next";

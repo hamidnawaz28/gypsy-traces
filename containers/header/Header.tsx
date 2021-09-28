@@ -1,4 +1,4 @@
-import React from "react";
+import { NextPage } from "next";
 import { makeStyles } from "@mui/styles";
 
 import {
@@ -36,7 +36,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function ButtonAppBar() {
+export default function ButtonAppBar(): NextPage {
   const classes = useStyles();
 
   return (

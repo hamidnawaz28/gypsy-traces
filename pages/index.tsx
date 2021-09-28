@@ -1,4 +1,4 @@
-import type { NextPage } from "next";
+import { NextPage } from "next";
 import { Seo } from "../components/seo";
 import { useTranslation } from "react-i18next";
 import { Footer } from "../containers/footer";

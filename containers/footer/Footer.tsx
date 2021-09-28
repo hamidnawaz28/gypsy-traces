@@ -1,4 +1,3 @@
-import React from "react";
 import styles from "../../styles/Home.module.css";
 import { Grid, Typography } from "@mui/material";
 import { Facebook, YouTube, Instagram, Telegram } from "@mui/icons-material";
@@ -11,6 +10,7 @@ const useStyles = makeStyles((theme) => {
       borderTop: "1px solid #eaeaea",
       backgroundColor: theme.palette.primary.main,
       color: "white",
+      paddingTop: 10,
     },
     footerContainer: {
       textAlign: "center",

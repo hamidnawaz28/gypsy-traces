@@ -1,6 +1,7 @@
-import React from "react";
 import { makeStyles } from "@mui/styles";
 import { useTheme } from "@mui/styles";
+import { NextPage } from "next";
+
 const useStyles = makeStyles((theme) => {
   return {
     root: {
@@ -14,7 +15,7 @@ const useStyles = makeStyles((theme) => {
 interface CategoryHeaderProps {
   title: string;
 }
-const CategoryHeader = ({ title }: CategoryHeaderProps) => {
+const CategoryHeader: NextPage = ({ title }: CategoryHeaderProps) => {
   const theme = useTheme();
   const { root } = useStyles({ theme });
   return (

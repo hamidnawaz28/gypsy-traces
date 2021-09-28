@@ -1,4 +1,4 @@
-import React from "react";
+import { NextPage } from "next";
 import { makeStyles } from "@mui/styles";
 
 import {
@@ -23,9 +23,8 @@ const useStyles = makeStyles((theme) => ({
 
 export default function SimpleAccordion({
   title,
-  details,
-}: AccordianProps): JSX.Element {
-  debugger;
+  activities,
+}: AccordianProps): NextPage {
   const classes = useStyles();
   const { heading } = classes;
 
@@ -39,7 +38,7 @@ export default function SimpleAccordion({
         <Typography className={heading}>{title}</Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography>{details}</Typography>
+        <Typography>{activities}</Typography>
       </AccordionDetails>
     </Accordion>
   );

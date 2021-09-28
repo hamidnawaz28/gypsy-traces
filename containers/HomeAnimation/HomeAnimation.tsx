@@ -1,5 +1,5 @@
-import React from "react";
-const HomeAnimation = () => {
+import { NextPage } from "next";
+const HomeAnimation: NextPage = () => {
   return (
     <>
       <img src="/homepage/world-famous-destinations.png" width="100%" />

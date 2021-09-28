@@ -9,14 +9,18 @@
         "seoTitle": "Top cultural sites to visit in pakistan",
         "details": [
           {
-            "url": "ancient-sild-route",
+            "url": "ancient-silk-route",
             "title": "Ancient Silk Route",
-            "mainImageUrl": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
-            "siteImagesUrl": [],
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
             "description": "The ancient Silk route tour is crafted to show you the ancient trade route which links China with Pakistan. This tour will start from Islamabad and end at Khunjerab China Border. You will visit the legendary cities, lush green meadows, religious sites and rich museums. Moreover, you will interact with local the communities living along the ancient silk route",
             "days": 10,
-            "pickup": "Islamabad",
+            "pickUp": "Islamabad",
             "dropOff": "Khunjerab, China Border",
             "itinerary": [
               {
@@ -115,7 +119,7 @@
             ],
             "whatsIncluded": {
               "transport": "Transportation",
-              "airportPickup": "Airport Transfers",
+              "airportpickUp": "Airport Transfers",
               "hotel": "Hotel Accommodation in Pakistan",
               "meals": "Meals (Breakfast, Lunch, Dinner)",
               "water": "Water",
@@ -137,12 +141,12 @@
           },
           {
             "title": "Buddhist Traces",
-            "mainImageUrl": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [],
             "description": "The tour is crafted specifically for those who are keen to explore the rich Buddhist Traces in Pakistan.  You will be able to see the Historical Lahore City, Famous Katas Raj Temple, Beautiful Islamabad, Cradle of Buddhism Taxila, Rich Buddhist Sites of Takht e Bai, well preserved remains of Bddhists in Peshawar Museum and Lush green Buddhist Sites of Swat",
             "days": 10,
-            "pickup": "Lahore Airport",
+            "pickUp": "Lahore Airport",
             "dropOff": "Islamabad Airport",
             "itinerary": [
               {
@@ -225,7 +229,7 @@
             ],
             "whatsIncluded": {
               "transport": "Transportation",
-              "airportPickup": "Airport Transfers",
+              "airportpickUp": "Airport Transfers",
               "hotel": "Hotel Accommodation in Pakistan",
               "meals": "Meals (Breakfast, Lunch, Dinner)",
               "water": "Water",
@@ -271,7 +275,7 @@
             "siteImagesUrl": [],
             "description": "Batura Glacier Trek",
             "days": 17,
-            "pickup": "Islambad Airport",
+            "pickUp": "Islambad Airport",
             "dropOff": "Islamabad Airport",
             "itinerary": [
               {
@@ -391,7 +395,7 @@
             ],
             "whatsIncluded": {
               "transport": "Transportation",
-              "airportPickup": "Airport Transfers",
+              "airportpickUp": "Airport Transfers",
               "hotel": "Hotel Accommodation in Pakistan",
               "meals": "Meals (Breakfast, Lunch, Dinner)",
               "water": "Water",

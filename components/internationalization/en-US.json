@@ -244,6 +244,568 @@
               "items": "Miscellaneous Items",
               "else": "Anything not mentioned above"
             }
+          },
+          {
+            "title": "cultural tour south Pakistan",
+            "description": "South Pakistan Tour is a combination of Heritage, Cultural and religious sites tour. You will explore the glorious heritage sites of Pakistan. From the Cultural sites of Pakistan to the rich Islamic Architecture, from the Indus civilizations to the Gandhara remains. You will experience the perfect taste of Pakistani Culture and Heritage",
+            "days": "10",
+            "pickup": "Islamabad airport",
+            "dropOff": "Lahore airport",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Lahore",
+                "activities": [
+                  "Pickup Lahore airport",
+                  "Transfer to hotel",
+                  "city tour",
+                  "Badhshahi Mosque",
+                  "Lahore fort",
+                  "Shalimar bagh",
+                  "Miner e Pakistan",
+                  "Lahore Museum"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Lahore Multan",
+                "activities": [
+                  "Transfer to hotel",
+                  "Tomb Shah Rukn e Alam",
+                  "Tomb Shams Tabrez",
+                  "Fort Khona Qasim Garden"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Multan_ Bahawalpur",
+                "activities": [
+                  "Drive to Bahawalpur",
+                  "Noor Mehal",
+                  "Darbar Mehal",
+                  "Bahawalpur mesum"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Cholistan Desert",
+                "activities": [
+                  "Drive to Dera Nawab Sahib Fort",
+                  "Drive to Cholistan Desert and visit Derawar Fort",
+                  "Back to Rashimyar Khan"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Rashimyar khan_ Sukkur",
+                "activities": [
+                  "Drive to Sukkur",
+                  "Transfer to Hotel",
+                  "Sukkur Sightseeing including Saddhu Bela and Sukker Barrage {bind Dhoin}"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Mohan Jo Daro",
+                "activities": [
+                  "Drive to Mohan Jo Daro",
+                  "Mohan Jo Daro visit",
+                  "Back to Sukkur"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Sukkur_Hyderabad",
+                "activities": ["Hyderabad", "Sightseeing", "Rest"]
+              },
+              {
+                "day": "08",
+                "title": "Hyderabad to Karachi",
+                "activities": [
+                  "Visit Malki Hills, Shah Jahan Mosque",
+                  "Karachi",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Karachi City",
+                "activities": [
+                  "City Tour",
+                  "National Mesum",
+                  "Sea View",
+                  "Do Darya",
+                  "Mohatta Palace"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Departure",
+                "activities": ["Departure from Lahore Airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+
+          {
+            "title": "Gandhara Civilization Tour",
+            "description": "The traces of Gandhara civilization are found at the rich archeological sites of Peshawar, Taxila, Swat, Mardan, Dir, Malakand and other parts of Khyber Pakhtoonkhwa province. The Gandhara Civilization was not only the core of spiritual influence but also the cradle of Gandhara art, culture and Teachings. During the tour we will visit these rich sites and museums that give the true taste of Gandhara Civilization",
+            "days": "8",
+            "pickup": "Islambad Airport",
+            "dropOff": "Lahore Airport",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad International Airport",
+                "activities": [
+                  "Pakistan Monoment",
+                  "Lok Virsa Museum",
+                  "Lake View park",
+                  "Faisal Mosque",
+                  "Daman_e_Koh",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad_Taxila_Takth Bai_Peshawar",
+                "activities": [
+                  "Taxila Museum",
+                  "Darmarajic Stupa",
+                  "Sirkup& Julian ",
+                  "Mardan (Takht Bai)",
+                  "Peshawar",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Peshawar City",
+                "activities": [
+                  "Peshawar Museum",
+                  "Muhabbat Khan Mosque",
+                  "Qissa khawani Bazzar",
+                  "Ghanta Ghar",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Peshawar_Swat",
+                "activities": [
+                  "Swat",
+                  "Shingardar Stupa",
+                  "Barikot Ghundai",
+                  "Mingora",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Swat-Lahore",
+                "activities": [
+                  "Katas Raj Temple",
+                  "Khewra Salt mine",
+                  "Lahore",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Lahore city",
+                "activities": [
+                  "Badhshahi Mosque",
+                  "Lahore Fort",
+                  "Shahi Hammam",
+                  "Walled City Tour",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Wagah Border-Shopping Malls",
+                "activities": [
+                  "Local Foods",
+                  "Flad Hoisting Ceremony Wagah",
+                  "Transfer to Hotel"
+                ]
+              },
+              {
+                "day": 8,
+                "title": "Departure",
+                "activities": ["Departure from Lahore Airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+
+          {
+            "title": "Gandhara Civilization Tour 2",
+            "description": "The traces of Gandhara civilization are found at the rich archeological sites of Peshawar, Taxila, Swat, Mardan, Dir, Malakand and other parts of Khyber Pakhtoonkhwa province. The Gandhara Civilization was not only the core of spiritual influence but also the cradle of Gandhara art, culture and Teachings. During the tour we will visit these rich sites and museums that give the true taste of Gandhara Civilization",
+            "days": "15",
+            "pickup": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Arrival-Islamabad",
+                "activities": [
+                  "Islamabad Sightseeing",
+                  "Pakistan Monument",
+                  "Lok Virsa Museum",
+                  "Faisal Mosque",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad- Taxila- Peshawar",
+                "activities": [
+                  "Taxila Museum",
+                  "Darmarajic Stupa",
+                  "Sirkup& Julian ",
+                  "Mardan (Takht Bai)",
+                  "Peshawar",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Peshawar City",
+                "activities": [
+                  "Peshawar Museum",
+                  "Muhabbat Khan Mosque",
+                  "Qissa khawani Bazzar",
+                  "Ghanta Ghar",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Peshawar-Swat",
+                "activities": [
+                  "Swat",
+                  "Shingardar Stupa",
+                  "Barikot Ghundai",
+                  "Mingora",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Swat",
+                "activities": [
+                  "Swat Sightseeing",
+                  "Malam Jabba",
+                  "Morghzar White Palace",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Swat-Besham",
+                "activities": ["Drive to Besham via Shangla Pass"]
+              },
+              {
+                "day": "07",
+                "title": "Besham to Gilgit",
+                "activities": [
+                  "Drive on KKH",
+                  "Chilas Rock Carvings",
+                  "Gilgit city",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Gilgit City",
+                "activities": [
+                  "Visit Buddha Stupa Kargah Nala",
+                  "Danyore",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Gilgit-Hunza",
+                "activities": [
+                  "Rakaposhi View Point",
+                  "Ganish Sattelment",
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Hunza-Nagar",
+                "activities": [
+                  "Minapin",
+                  "Rest Day",
+                  "Karimabad Market",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "11",
+                "title": "Hunza-Gulmit",
+                "activities": [
+                  "Attabad Lake",
+                  "Ondra Poygah",
+                  "Old House",
+                  "Hussaini Suspension Bridge ",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": 12,
+                "title": "Hunza-Khunjerab",
+                "activities": [
+                  "Borith Lake",
+                  "Passu Glacier ",
+                  "Khunjerab Pass",
+                  "Gulmit-Overnight Hotel"
+                ]
+              },
+              {
+                "day": "13",
+                "title": "Gulmit to Gilgit/Chilas",
+                "activities": ["Overnight Hotel"]
+              },
+              {
+                "day": "14",
+                "title": "Chilas to Islamabad",
+                "activities": ["Overnight Hotel"]
+              },
+              {
+                "day": "15",
+                "title": "Departure",
+                "activities": ["Departure from Islamabad Airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "title": "Indus Civilization Tour",
+            "description": "Pakistan is a home to one of the ancient  human civilizations of the world that flourished 4500 years prior alongside the Indus river.  From the capital of Pakistan to the metropolitan city Karachi Pakistan. The Visit is a combination  of wide range of societies and ethnic groups of Pakistan with their rich customs.  The visit incorporates visits to the Museums, the minarets, tombs of saints, mosques and World Heritage Sites",
+            "days": "15",
+            "pickup": "Islamabad",
+            "dropOff": "Karachi",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Arrival Islamabad",
+                "activities": [
+                  "Islamabad City",
+                  "Pakistan Monument",
+                  "Shakar Parian",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad- Taxila",
+                "activities": [
+                  "Taxila",
+                  "UNESCO Heritage Site",
+                  "Taxila Museum",
+                  "Rawalpindi City"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Islamabad-Lahore",
+                "activities": [
+                  "Rohtas Fort",
+                  "UNESCO Heritage Site",
+                  "Shalimar Garden",
+                  "Lahore"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Lahore city",
+                "activities": [
+                  "Walled City Lahore",
+                  "Lahore Fort",
+                  "Badhshahi Mosque",
+                  "Miner e Pakistan",
+                  "Lahore Museum"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Lahore-Kartarpur",
+                "activities": ["Darbar Sahib", "Sikh Yatra", "Wagah Boeder"]
+              },
+              {
+                "day": "06",
+                "title": "Lahore-Multan",
+                "activities": ["Harrapa archeological Site", "Multan"]
+              },
+              {
+                "day": "07",
+                "title": "Multan",
+                "activities": [
+                  "Sufi Sites",
+                  " Shah Rukn e Alam",
+                  "Bahauddin Zikrya",
+                  "Shams Tabrez"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Multan_ Bahawalpur",
+                "activities": [
+                  "Cholistan Desert",
+                  "Derawar Fort",
+                  "Noor Mehal",
+                  "Bahawalpur City"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Bahawalpur-Sukkur",
+                "activities": [
+                  "Uch Sharif",
+                  "Bibi Javindi",
+                  "Baha Al Halim",
+                  "Sukkur"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Sukkur-Larkana",
+                "activities": [
+                  "Sadu Bele-Blind Dolphin",
+                  "Kot Diji Fort",
+                  "Larkana"
+                ]
+              },
+              {
+                "day": "11",
+                "title": "Larkana to Sehwan Sharif",
+                "activities": [
+                  "UNESCO Heritage Site",
+                  "Mohan Jo Daro",
+                  "Shahbez Lal Qalander Shrine",
+                  "Bhit Shah-Jamshoro"
+                ]
+              },
+              {
+                "day": "12",
+                "title": "Sehwan-Hyderabad",
+                "activities": ["Ranikot Fort", "Hirabad", "Hyderabad"]
+              },
+
+              {
+                "day": "13",
+                "title": "Hyderabad-Karachi",
+                "activities": [
+                  "Thatta Shah Jahan Mosque",
+                  "Malki Greveyard",
+                  "Karachi"
+                ]
+              },
+              {
+                "day": "14",
+                "title": "Karachi City Tour",
+                "activities": [
+                  "Quaid E Azam Mausoleum",
+                  "Tooba Mosque",
+                  "Karachi Museum",
+                  "Frare Hall",
+                  "Clifton Beach"
+                ]
+              },
+              {
+                "day": "15",
+                "title": "Departure",
+                "activities": ["Departure from Karachi"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
           }
         ]
       },

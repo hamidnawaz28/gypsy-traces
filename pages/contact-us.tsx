@@ -1,30 +1,30 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
-import { Seo } from '../components/seo'
-import { useTranslation } from 'react-i18next';
-import { Card } from '../components/card'
-import { Footer } from '../containers/footer'
+import type { NextPage } from "next";
+import Head from "next/head";
+import Image from "next/image";
+import styles from "../styles/Home.module.css";
+import { Seo } from "../components/seo";
+import { useTranslation } from "react-i18next";
+import { Card } from "../components/card";
+import { Footer } from "../containers/footer";
 
 const ContactUs: NextPage = () => {
+  const { t, i18n } = useTranslation();
 
-    const { t, i18n } = useTranslation();
+  return (
+    <div className={styles.container}>
+      <Seo
+        description="Home package for travel packages"
+        title="Home"
+        siteTitle="Gypsy Traces"
+      />
 
-    return (
-        <div className={styles.container}>
+      <main className={styles.main}>
+        <h1 className={styles.title}>Contact Us!</h1>
+      </main>
 
-            <Seo description='Home package for travel packages' title='Home' siteTitle='Gypsy Traces' />
+      <Footer />
+    </div>
+  );
+};
 
-            <main className={styles.main}>
-                <h1 className={styles.title}>
-                    Contact Us!
-                </h1>
-            </main>
-
-            <Footer />
-        </div>
-    )
-}
-
-export default ContactUs
+export default ContactUs;

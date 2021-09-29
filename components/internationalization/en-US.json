@@ -140,10 +140,15 @@
             }
           },
           {
+            "url": "buddhist-traces",
             "title": "Buddhist Traces",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
-            "siteImagesUrl": [],
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
             "description": "The tour is crafted specifically for those who are keen to explore the rich Buddhist Traces in Pakistan.  You will be able to see the Historical Lahore City, Famous Katas Raj Temple, Beautiful Islamabad, Cradle of Buddhism Taxila, Rich Buddhist Sites of Takht e Bai, well preserved remains of Bddhists in Peshawar Museum and Lush green Buddhist Sites of Swat",
             "days": 10,
             "pickUp": "Lahore Airport",
@@ -250,7 +255,15 @@
             }
           },
           {
-            "title": "cultural tour south Pakistan",
+            "url": "cultural-tour-south-pakistan",
+            "title": "Cultural Tour South Pakistan",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
             "description": "South Pakistan Tour is a combination of Heritage, Cultural and religious sites tour. You will explore the glorious heritage sites of Pakistan. From the Cultural sites of Pakistan to the rich Islamic Architecture, from the Indus civilizations to the Gandhara remains. You will experience the perfect taste of Pakistani Culture and Heritage",
             "days": "10",
             "pickup": "Islamabad airport",
@@ -372,7 +385,15 @@
           },
 
           {
+            "url": "gandhara-civilization-tour",
             "title": "Gandhara Civilization Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
             "description": "The traces of Gandhara civilization are found at the rich archeological sites of Peshawar, Taxila, Swat, Mardan, Dir, Malakand and other parts of Khyber Pakhtoonkhwa province. The Gandhara Civilization was not only the core of spiritual influence but also the cradle of Gandhara art, culture and Teachings. During the tour we will visit these rich sites and museums that give the true taste of Gandhara Civilization",
             "days": "8",
             "pickup": "Islambad Airport",
@@ -450,7 +471,7 @@
                 "title": "Wagah Border-Shopping Malls",
                 "activities": [
                   "Local Foods",
-                  "Flad Hoisting Ceremony Wagah",
+                  "Flag Hoisting Ceremony Wagah",
                   "Transfer to Hotel"
                 ]
               },
@@ -484,7 +505,15 @@
           },
 
           {
+            "url": "gandhara-civilization-tour-2",
             "title": "Gandhara Civilization Tour 2",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
             "description": "The traces of Gandhara civilization are found at the rich archeological sites of Peshawar, Taxila, Swat, Mardan, Dir, Malakand and other parts of Khyber Pakhtoonkhwa province. The Gandhara Civilization was not only the core of spiritual influence but also the cradle of Gandhara art, culture and Teachings. During the tour we will visit these rich sites and museums that give the true taste of Gandhara Civilization",
             "days": "15",
             "pickup": "Islamabad",
@@ -650,7 +679,15 @@
             }
           },
           {
+            "url": "indus-civilization-tour",
             "title": "Indus Civilization Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
             "description": "Pakistan is a home to one of the ancient  human civilizations of the world that flourished 4500 years prior alongside the Indus river.  From the capital of Pakistan to the metropolitan city Karachi Pakistan. The Visit is a combination  of wide range of societies and ethnic groups of Pakistan with their rich customs.  The visit incorporates visits to the Museums, the minarets, tombs of saints, mosques and World Heritage Sites",
             "days": "15",
             "pickup": "Islamabad",

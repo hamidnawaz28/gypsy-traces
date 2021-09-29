@@ -23,22 +23,23 @@ const Details: NextPage = () => {
   const tours = packages[typeData]?.details;
   const filteredTour = tours?.filter((item) => item.url == tour)[0];
   const {
-    whatsIncluded,
-    whatsNotIncluded,
-    itinerary,
-    description,
-    mainImageUrl,
-    siteImagesUrl,
-    days,
-    pickUp,
-    dropOff,
-  } = filteredTour;
-  const siteimages = siteImagesUrl.map((item) => {
-    return {
-      url: item,
-    };
-  });
-  debugger;
+    whatsIncluded = [],
+    whatsNotIncluded = [],
+    itinerary = [],
+    mainImageUrl = [],
+    siteImagesUrl = [],
+    days = "",
+    pickUp = "",
+    dropOff = "",
+    description = "",
+  } = filteredTour || [];
+  const siteimages =
+    siteImagesUrl?.map((item) => {
+      return {
+        url: item,
+      };
+    }) || [];
+
   return (
     <>
       <Seo
@@ -64,7 +65,7 @@ const Details: NextPage = () => {
         <Grid container>
           <Grid item sm={6}>
             <AccordionGroup dataArr={itinerary} />
-            <SimpleImageSlider width={300} height={200} images={siteimages} />
+            {/* <SimpleImageSlider width={300} height={200} images={siteimages} /> */}
           </Grid>
           <Grid item sm={6}>
             <KeyValues title="Whats Included" data={whatsIncluded} />

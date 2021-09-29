@@ -12,10 +12,10 @@ type AppProps = {
   children: ReactNode;
 };
 
-export default function Timeline({ children }: AppProps) {
+export default function Timeline({ children, day }: AppProps) {
   return (
     <TimelineItem>
-      <TimelineOppositeContent>Day</TimelineOppositeContent>
+      <TimelineOppositeContent>Day {day}</TimelineOppositeContent>
       <TimelineSeparator>
         <TimelineDot color="primary" />
         <TimelineConnector />

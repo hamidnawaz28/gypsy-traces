@@ -847,6 +847,515 @@
               "items": "Miscellaneous Items",
               "else": "Anything not mentioned above"
             }
+          },
+          {
+            "title": "Kalash Festivals",
+            "description": "There are three types of Cultural Festivals celebrated in Kalash. These festivals are; Chilam Joshi, Uchal and Choimus. Chilim Joshi is celebrated in spring (May), Uchal is Celebrated in Summer (August) and Choimus is celebrated in Winter (December). UNESCO declared the Kalash culture as Intangible Cultural Heritage. The unique culture attracts visitors from across the world",
+            "days": "17",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Islamabad City Tour",
+                  "Briefing",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad to Chitral",
+                "activities": ["Night Stay : Hotel"]
+              },
+              {
+                "day": "03",
+                "title": "Chitral Town-Rumbur Town",
+                "activities": [
+                  "Rumbur",
+                  "Uchal Festival(Music,Dance,Rituals",
+                  "Roaming Locally",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Bamburet Valley",
+                "activities": [
+                  "Local Museum",
+                  "Kalash Graveyard",
+                  "Interacting with Locals",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Chitral Town",
+                "activities": ["Chitral Museum", "Shahi Mosque", "Chitral Gol"]
+              },
+              {
+                "day": "06",
+                "title": "Chitral Town-Mastuj",
+                "activities": ["Mastuj", "Sightseeing", "Night Stay : Hotel"]
+              },
+              {
+                "day": "07",
+                "title": "Mastuj-Gupis",
+                "activities": [
+                  "Laspur",
+                  "Shandur Lake",
+                  "Shandur polo groung",
+                  "Langar",
+                  "Teru",
+                  "Phander",
+                  "Khalti",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Gupis-Gilgit City",
+                "activities": ["Gilgit city", "Rest", "Night Stay : Hotel"]
+              },
+              {
+                "day": "09",
+                "title": "Gilgit City-Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Hunza-Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
+              },
+              {
+                "day": "11",
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik ",
+                  "Ondra Poygah"
+                ]
+              },
+              {
+                "day": "12",
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge ",
+                  "Borith Lake",
+                  "Passu Glacier ",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
+              },
+              {
+                "day": "13",
+                "title": "Hunza-Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
+              },
+              {
+                "day": "14",
+                "title": "Naltar",
+                "activities": ["Naltar", "Rainbow Lake", "Naltar Pine Hills"]
+              },
+              {
+                "day": "15",
+                "title": "Naltar to Naran",
+                "activities": [
+                  "Naran",
+                  "White Water Rafting/Lake Saif Ul Malook"
+                ]
+              },
+              {
+                "day": "16",
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
+              },
+              {
+                "day": "17",
+                "title": "Departure"
+              }
+            ]
+          },
+          {
+            "title": "Chilam Joshi Festival",
+            "month": "May",
+            "days": "17",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad city Tour",
+                "activities": [
+                  "Islamabad City Tour",
+                  "Briefing",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad to Chitral",
+                "activities": ["Night Stay : Hotel"]
+              },
+              {
+                "day": "03",
+                "title": "Chitral Town-Rumbur Kalash",
+                "activities": [
+                  "Rumbur",
+                  "Uchal Festival(Music,Dance,Rituals",
+                  "Roaming Locally",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Bamburet Valley",
+                "activities": [
+                  "Local Museum",
+                  "Kalash Graveyard",
+                  "Interacting with Locals",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Chitral Town",
+                "activities": ["Chitral Museum", "Shahi Mosque", "Chitral Gol"]
+              },
+              {
+                "day": "06",
+                "title": "Chitral Town-Mastuj",
+                "activities": ["Mastuj", "Sightseeing", "Night Stay : Hotel"]
+              },
+              {
+                "day": "07",
+                "title": "Mastuj-Gupis",
+                "activities": [
+                  "Laspur",
+                  "Shandur Lake",
+                  "Shandur polo groung",
+                  "Langar",
+                  "Teru",
+                  "Phander",
+                  "Khalti",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Gupis-Gilgit City",
+                "activities": ["Gilgit city", "Rest", "Night Stay : Hotel"]
+              },
+              {
+                "day": "09",
+                "title": "Gilgit City-Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Hunza-Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
+              },
+              {
+                "day": "11",
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik ",
+                  "Ondra Poygah"
+                ]
+              },
+              {
+                "day": "12",
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge ",
+                  "Borith Lake",
+                  "Passu Glacier ",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
+              },
+              {
+                "day": "13",
+                "title": "Hunza-Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
+              },
+              {
+                "day": "14",
+                "title": "Naltar",
+                "activities": ["Naltar", "Rainbow Lake", "Naltar Pine Hills"]
+              },
+              {
+                "day": "15",
+                "title": "Naltar to Naran",
+                "activities": [
+                  "Naran",
+                  "White Water Rafting/Lake Saif Ul Malook"
+                ]
+              },
+              {
+                "day": "16",
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
+              },
+              {
+                "day": "17",
+                "title": "Departure"
+              }
+            ]
+          },
+          {
+            "title": "Choimus Festival",
+            "month": "December",
+            "days": "08",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Islamabad City Tour",
+                  "Briefing",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad to Chitral",
+                "activities": ["Night Stay : Hotel"]
+              },
+              {
+                "day": "03",
+                "title": "Chitral Town-Rumbur Kalash",
+                "activities": [
+                  "Rumbur",
+                  "Uchal Festival(Music,Dance,Rituals",
+                  "Roaming Locally",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Bamburet Valley",
+                "activities": [
+                  "Local Museum",
+                  "Kalash Graveyard",
+                  "Interacting with Locals",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Chitral Town",
+                "activities": [
+                  "Chitral Museum",
+                  "Shahi Mosque",
+                  "Chitral Gol",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Chitral-swat",
+                "activities": [
+                  "Swat Museum ",
+                  "Malam Jabba",
+                  "Night Stay : Hotel"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Swat-Islamabad",
+                "activities": ["Islamabad", "Rest"]
+              },
+              {
+                "day": "08",
+                "title": "Departure to Home Country"
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportpickUp": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "title": "Pakistan Heritage Sites Tour",
+            "description": "Pakistan is known for its rich cultural history. UNESCO declared the top cultural sites as its heritage. Our Clients can explore the rich Cultural traces of Pakistan which includes; Taxila Heritage Sites, Rohtas Fort, Lahore Fort, Harappa,  Mohan Jo Dero and Makli Hills",
+            "days": "15",
+            "Arrival": "Islamabad",
+            "Departure": "Karachi",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Pickup Islamabad Airport",
+                  "Transfer to Hotel",
+                  "City Tour",
+                  "Pakistan Monument",
+                  "Lok Virsa Museum",
+                  "Shah Faisal Mosque"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad- Taxila",
+                "activities": [
+                  "Taxila Museum",
+                  "Taxila Heritage Sites",
+                  "Hassanabdal",
+                  "Gurdwara Panja Sahib"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Islamabad-Lahore",
+                "activities": ["Khewra Salt mine", "Katas Raj Tample", "lahore"]
+              },
+              {
+                "day": "04",
+                "title": "Lahore city",
+                "activities": [
+                  "Walled City Lahore",
+                  "Anarkali Bazar",
+                  "Badhshahi Mosque",
+                  "Miner e Pakistan"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Lahore city",
+                "activities": [
+                  "Wazir Khan Mosque",
+                  "Shahi Hammam",
+                  "Lahore Fort",
+                  "Wagah border(optional)"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Kartarpur Corridor",
+                "activities": [
+                  "Drive Kartarpur",
+                  "Visit Gurdwara Darbar Sahib",
+                  "Drive Back to Lahore"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Lahore Multan",
+                "activities": [
+                  "Drive to Harrapa Hertiage Site",
+                  "Multan",
+                  "Overnight Hotel"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Multan-Bahawalpur",
+                "activities": [
+                  "Visit Shrines",
+                  " Shah Rukn e Alam",
+                  "Shams Tabrizi",
+                  "Drive to Bahawalpur"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Bahawalpur",
+                "activities": [
+                  "Visit Noor Mehal",
+                  "Darbar Mehal",
+                  "Derawar Fort",
+                  "Overnight Hotel Bahawalpur"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Bahawalpur to Sukkur",
+                "activities": ["Drive to Sukkur", "Rest", "Overnight Hotel"]
+              },
+              {
+                "day": "11",
+                "title": "Sukkur to Mohanjo Daro",
+                "activities": [
+                  "Mohan Jo Daro",
+                  "Sehwan Sharif",
+                  "Sufi Music Sehwan"
+                ]
+              },
+              {
+                "day": "12",
+                "title": "Sehwan-Hyderabad",
+                "activities": [
+                  "Mausoleum of Lal Shahbez Qalandar",
+                  "Mausoleum of Shah Abdul Latif Bithai",
+                  "Hyderabad"
+                ]
+              },
+              {
+                "day": "13",
+                "title": "Hyderabad to Karachi",
+                "activities": ["Thatta", "Makli Hills", "Karachi"]
+              },
+              {
+                "day": "14",
+                "title": "Karachi City",
+                "activities": ["Sea View", "Do Darya", "City Tour"]
+              },
+              {
+                "day": "15",
+                "title": "Departure",
+                "activities": ["Departure from Karachi Airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportpickUp": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
           }
         ]
       },

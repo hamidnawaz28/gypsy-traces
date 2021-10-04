@@ -23,19 +23,26 @@ export default function CardGroup({ dataArr }: AppProps) {
   const categories: string[] = Object.keys(dataArr);
 
   return categories.map((item) => {
-    const { title, details } = dataArr[item];
+    const { title, url: typeUrl, details } = dataArr[item];
 
     return (
       <Grid className={root}>
         {details.length > 0 && <CategoryHeader title={title} />}
         <Grid container className={trekContainer}>
           {details.map((item) => {
-            const { title: cardTitle, description, thumbnailImage } = item;
+            const {
+              title: cardTitle,
+              description,
+              thumbnailImage,
+              url: packageUrl,
+            } = item;
             return (
               <Card
                 title={cardTitle}
                 details={description}
                 imgSrc={thumbnailImage}
+                typeUrl={typeUrl}
+                packageUrl={packageUrl}
               />
             );
           })}

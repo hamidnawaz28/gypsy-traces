@@ -8,6 +8,7 @@ import {
   Button,
   IconButton,
   SvgIcon,
+  Link,
 } from "@mui/material";
 import { Menu } from "@mui/icons-material";
 import { CompanyLogo } from "../../components/icons";
@@ -51,17 +52,23 @@ export default function ButtonAppBar(): NextPage {
             <CompanyLogo />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            <span>Gypsy</span>
-            <span>Traces</span>
+            <Link href="/" underline="none">
+              <span>Gypsy</span>
+              <span>Traces</span>
+            </Link>
           </Typography>
-          <Button> Services </Button>
-          <Button> Contact Us </Button>
-          <Button> About Us </Button>
+          <Link href="/" underline="none">
+            <Button to="/">Services</Button>
+          </Link>
+          <Link href="/contact-us" underline="none">
+            <Button>About Us</Button>
+          </Link>
 
-          <Button style={{ backgroundColor: "#F27171", color: "white" }}>
-            {" "}
-            Book Now
-          </Button>
+          <Link href="/about-us" underline="none">
+            <Button style={{ backgroundColor: "#F27171", color: "white" }}>
+              Book Now
+            </Button>
+          </Link>
         </Toolbar>
       </AppBar>
     </div>

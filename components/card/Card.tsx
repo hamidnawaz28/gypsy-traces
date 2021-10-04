@@ -1,7 +1,7 @@
 import { NextPage } from "next";
 import { makeStyles } from "@mui/styles";
 import { grey } from "@mui/material/colors";
-import { Button } from "@mui/material";
+import { Button, Link } from "@mui/material";
 import Image from "next/image";
 
 const useStyles = makeStyles((theme) => {
@@ -44,7 +44,13 @@ interface ImgCardProps {
   imgSrc: string;
 }
 
-export default function ImgCard({ title, details, imgSrc }: ImgCardProps) {
+export default function ImgCard({
+  title,
+  details,
+  imgSrc,
+  typeUrl,
+  packageUrl,
+}: ImgCardProps) {
   const { root, cardImage } = useStyles();
 
   return (
@@ -52,9 +58,10 @@ export default function ImgCard({ title, details, imgSrc }: ImgCardProps) {
       <img src={imgSrc} className={cardImage} />
       <h4>{title}</h4>
       {/* <p>{details}</p> */}
+      <Link href={`/details/${typeUrl}/${packageUrl}`}>
       <Button color="primary" variant="contained" fullWidth>
         Details
-      </Button>
+      </Button></Link>
     </div>
   );
 }

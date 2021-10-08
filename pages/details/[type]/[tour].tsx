@@ -10,6 +10,7 @@ import enUS from "../../../components/internationalization/en-US.json";
 import { Grid } from "@mui/material";
 import { KeyValues } from "../../../components/keyValues";
 import SimpleImageSlider from "react-simple-image-slider";
+import { MainImage } from "../../../components/main-image";
 
 const Details: NextPage = () => {
   const { t, i18n } = useTranslation();
@@ -32,6 +33,7 @@ const Details: NextPage = () => {
     pickUp = "",
     dropOff = "",
     description = "",
+    title = "",
   } = filteredTour || [];
   const siteimages =
     siteImagesUrl?.map((item) => {
@@ -45,10 +47,10 @@ const Details: NextPage = () => {
       <Seo
         description="Home package for travel packages"
         title="Home"
-        siteTitle="Gypsy Traces"
+        siteTitle={title}
       />
       <main>
-        <img src={mainImageUrl} width="100%" />
+        <MainImage src={mainImageUrl} title={title} />
         <Grid container>
           <Grid item sm={8}>
             <h3>Overview</h3>

@@ -35,9 +35,9 @@ const theme = createTheme({
     primary: { ...primaryPalette },
     secondary: { ...secondaryPalette },
     text: {
-      primary: "#f96a6a",
-      secondary: "#f96a6a",
-      disabled: "#f96a6a",
+      primary: "#141414",
+      secondary: "#ffffff",
+      disabled: "#cccccc",
     },
     divider: grey[50],
     // action: {
@@ -72,6 +72,9 @@ const theme = createTheme({
     ].join(","),
     fontSize: 12,
     fontWeightRegular: 400,
+    fontWeightLight: 500,
+    fontWeightMedium: 600,
+    fontWeightBold: 700,
   },
   spacing: 2,
   // breakpoints: {},

@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function ButtonAppBar(): NextPage {
+export default function ButtonAppBar() {
   const classes = useStyles();
 
   return (
@@ -58,13 +58,13 @@ export default function ButtonAppBar(): NextPage {
             </Link>
           </Typography>
           <Link href="/" underline="none">
-            <Button to="/">Services</Button>
+            <Button>Services</Button>
           </Link>
-          <Link href="/contact-us" underline="none">
+          <Link href="/about-us" underline="none">
             <Button>About Us</Button>
           </Link>
 
-          <Link href="/about-us" underline="none">
+          <Link href="/contact-us" underline="none">
             <Button style={{ backgroundColor: "#F27171", color: "white" }}>
               Book Now
             </Button>

@@ -22,6 +22,14 @@ const useStyles = makeStyles((theme) => {
     },
     overview: {
       padding: "0px  20px",
+      "& p": {
+        textAlign: "justify",
+      },
+    },
+    packageDetails: {
+      [theme.breakpoints.down("sm")]: {
+        padding: 20,
+      },
     },
   };
 });
@@ -32,7 +40,7 @@ const Details: NextPage = () => {
   const router = useRouter();
   const { type, tour } = router.query;
   const packages = enUS.translation.packages;
-  const { overview, detailContainer } = useStyles();
+  const { overview, detailContainer, packageDetails } = useStyles();
 
   const typeData = Object.keys(packages).filter(
     (item) => packages[item].url == type
@@ -70,11 +78,11 @@ const Details: NextPage = () => {
         <MainImage src={mainImageUrl} title={title} />
 
         <Grid container className={detailContainer}>
-          <Grid item sm={8} className={overview}>
+          <Grid item xs={12} sm={12} md={8} lg={8} xl={8} className={overview}>
             <h3>Overview</h3>
             <p>{description}</p>
           </Grid>
-          <Grid item sm={4}>
+          <Grid item xs={12} sm={12} md={4} lg={4} xl={4}>
             <Snapshot days={days} from={pickUp} to={dropOff} />
           </Grid>
         </Grid>
@@ -83,7 +91,7 @@ const Details: NextPage = () => {
             <AccordionGroup dataArr={itinerary} />
             {/* <SimpleImageSlider width={300} height={200} images={siteimages} /> */}
           </Grid>
-          <Grid item sm={6} style={{ marginLeft: "auto" }}>
+          <Grid item sm={6} className={packageDetails}>
             <KeyValues
               title="Whats Included"
               data={whatsIncluded}

@@ -6,6 +6,10 @@ const useStyles = makeStyles((theme) => {
     root: {
       borderRadius: 5,
       width: "90%",
+      [theme.breakpoints.down("sm")]: {
+        width: "100%",
+        padding: "0px 20px",
+      },
       textAlign: "center",
       color: theme.palette.text.primary,
     },

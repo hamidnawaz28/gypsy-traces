@@ -9,7 +9,12 @@ interface AppProps {
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    width: "70%",
+    [theme.breakpoints.down("sm")]: {
+      width: "100%",
+    },
+    [theme.breakpoints.up("sm")]: {
+      width: "70%",
+    },
     margin: "auto",
     "@global": {
       ".MuiTimelineOppositeContent-positionRight": {

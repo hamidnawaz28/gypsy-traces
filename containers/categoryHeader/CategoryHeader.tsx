@@ -6,7 +6,9 @@ const useStyles = makeStyles((theme) => {
   return {
     root: {
       textAlign: "center",
-      margin: 10,
+      [theme.breakpoints.up("sm")]: {
+        margin: 10,
+      },
       backgroundColor: theme.palette.primary.light,
       borderRadius: 3,
       padding: 10,

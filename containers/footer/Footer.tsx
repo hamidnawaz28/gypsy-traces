@@ -1,6 +1,12 @@
 import styles from "../../styles/Home.module.css";
 import { Grid, Typography, Link } from "@mui/material";
-import { Facebook, YouTube, Instagram, Telegram } from "@mui/icons-material";
+import {
+  Facebook,
+  YouTube,
+  Instagram,
+  Telegram,
+  WhatsApp,
+} from "@mui/icons-material";
 import { makeStyles } from "@mui/styles";
 
 const useStyles = makeStyles((theme) => {
@@ -64,8 +70,8 @@ export default function Footer() {
       <Grid container className={footerContainer}>
         <GridWrap>
           <h3>Location</h3>
-          <p>225/2, Gill Road</p>
-          <p>Punjab Pakistan</p>
+          <p>Office xxx, Example Town</p>
+          <p>Islamabad (ICT) Pakistan</p>
         </GridWrap>
         <GridWrap>
           <h3>Social Media</h3>
@@ -82,8 +88,12 @@ export default function Footer() {
           <Link href="http://www.youtube.com" target="_blank" className={link}>
             <YouTube />
           </Link>
-          <Link href="http://www.telegram.com" target="_blank" className={link}>
-            <Telegram />
+          <Link
+            href="https://wa.me/qr/I37QMGAGKDOOA1"
+            target="_blank"
+            className={link}
+          >
+            <WhatsApp />
           </Link>
         </GridWrap>
         <GridWrap>
@@ -110,8 +120,11 @@ export default function Footer() {
           </p>
         </GridWrap>
         <GridWrap>
-          <h3>More</h3>
-          <img src="/others/qr-code.png" alt="" width="60px" height="60px" />
+          <h3>Contact</h3>
+          <a href="https://wa.me/qr/I37QMGAGKDOOA1" target="_black">
+            <img src="/others/qr-code.jpeg" alt="" width="60px" height="60px" />
+          </a>
+          <p style={{ textDecoration: "none" }}>sales@grpsytraces.pk</p>
         </GridWrap>
       </Grid>
       <Typography align="center" className={copyright}>

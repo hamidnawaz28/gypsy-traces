@@ -9,6 +9,8 @@ const useStyles = makeStyles((theme) => {
       margin: 10,
       backgroundColor: theme.palette.primary.light,
       borderRadius: 3,
+      padding: 10,
+      textTransform: "uppercase",
     },
   };
 });

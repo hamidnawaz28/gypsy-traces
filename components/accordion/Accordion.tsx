@@ -24,6 +24,7 @@ const useStyles = makeStyles((theme) => ({
 export default function SimpleAccordion({
   title,
   activities,
+  day,
 }: AccordianProps): NextPage {
   const classes = useStyles();
   const { heading } = classes;
@@ -35,10 +36,20 @@ export default function SimpleAccordion({
         aria-controls="panel1a-content"
         id="panel1a-header"
       >
-        <Typography className={heading}>{title}</Typography>
+        <Typography className={heading}>
+          {`Day ${day}: `}
+          {title}
+        </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography>{activities}</Typography>
+        {activities.map((item) => {
+          return (
+            <Typography>
+              {"• "}
+              {item}
+            </Typography>
+          );
+        })}
       </AccordionDetails>
     </Accordion>
   );

@@ -3,15 +3,25 @@ import { Grid, Typography } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import { CategoryHeader } from "../../containers/categoryHeader";
 
-const useStyles = makeStyles({
-  root: {
-    padding: "20px 0px",
-  },
-  trekContainer: {
-    display: "flex",
-    flexDirection: "row",
-    padding: 10,
-  },
+const useStyles = makeStyles((theme) => {
+  return {
+    root: {
+      padding: "20px 0px",
+    },
+    trekContainer: {
+      display: "grid",
+      [theme.breakpoints.down("sm")]: {
+        gridTemplateColumns: "auto",
+      },
+      [theme.breakpoints.between("sm", "lg")]: {
+        gridTemplateColumns: "auto auto auto",
+      },
+      [theme.breakpoints.up("lg")]: {
+        gridTemplateColumns: "25% 25% 25% 25%",
+      },
+      padding: 10,
+    },
+  };
 });
 
 interface AppProps {
@@ -34,6 +44,7 @@ export default function CardGroup({ dataArr }: AppProps) {
               title: cardTitle,
               description,
               thumbnailImage,
+              days,
               url: packageUrl,
             } = item;
             return (
@@ -43,6 +54,7 @@ export default function CardGroup({ dataArr }: AppProps) {
                 imgSrc={thumbnailImage}
                 typeUrl={typeUrl}
                 packageUrl={packageUrl}
+                days={days}
               />
             );
           })}

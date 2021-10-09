@@ -9,9 +9,10 @@ interface AppProps {
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    width: "100%",
+    width: "70%",
+    margin: "auto",
     "@global": {
-      MuiTimelineOppositeContent: {
+      ".MuiTimelineOppositeContent-positionRight": {
         display: "none",
       },
     },
@@ -30,6 +31,7 @@ export default function AccordianGroup({ dataArr }: AppProps) {
               title={item.title}
               activities={item.activities}
               id={key}
+              day={item.day}
             />
           </Timeline>
         ))}

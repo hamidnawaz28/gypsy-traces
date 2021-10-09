@@ -31,25 +31,34 @@ const useStyles = makeStyles((theme) => {
       textTransform: "uppercase",
       fontSize: 10,
     },
+    link: {
+      color: "white",
+    },
+    grid: {
+      [theme.breakpoints.down("sm")]: {
+        padding: 10,
+      },
+    },
   };
 });
 
 const breakpoints = {
-  xs: 12,
-  sm: 4,
-  md: 4,
-  lg: 4,
-  xl: 4,
+  xs: 6,
+  sm: 6,
+  md: 3,
+  lg: 3,
+  xl: 3,
 };
 
 export default function Footer() {
+  const { grid } = useStyles();
   const GridWrap = ({ children }) => (
-    <Grid {...breakpoints} item>
+    <Grid {...breakpoints} item className={grid}>
       {children}
     </Grid>
   );
 
-  const { footer, copyright, footerContainer } = useStyles();
+  const { footer, copyright, footerContainer, link } = useStyles();
   return (
     <footer className={footer}>
       <Grid container className={footerContainer}>
@@ -60,15 +69,49 @@ export default function Footer() {
         </GridWrap>
         <GridWrap>
           <h3>Social Media</h3>
-          <Facebook />
-          <Instagram />
-          <YouTube />
-          <Telegram />
+          <Link href="http://www.facebook.com" target="_blank" className={link}>
+            <Facebook />
+          </Link>
+          <Link
+            href="http://www.instagram.com"
+            target="_blank"
+            className={link}
+          >
+            <Instagram />
+          </Link>
+          <Link href="http://www.youtube.com" target="_blank" className={link}>
+            <YouTube />
+          </Link>
+          <Link href="http://www.telegram.com" target="_blank" className={link}>
+            <Telegram />
+          </Link>
+        </GridWrap>
+        <GridWrap>
+          <h3>Links</h3>
+          <p>
+            <Link
+              href="/about-us"
+              target="_blank"
+              className={link}
+              underline="none"
+            >
+              About Us
+            </Link>
+          </p>
+          <p>
+            <Link
+              href="/contact-us"
+              target="_blank"
+              className={link}
+              underline="none"
+            >
+              Contact
+            </Link>
+          </p>
         </GridWrap>
         <GridWrap>
           <h3>More</h3>
-          <p>About Us</p>
-          <p>Contact</p>
+          <img src="/others/qr-code.png" alt="" width="60px" height="60px" />
         </GridWrap>
       </Grid>
       <Typography align="center" className={copyright}>

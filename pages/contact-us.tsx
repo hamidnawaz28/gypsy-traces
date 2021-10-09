@@ -14,7 +14,7 @@ const ContactUs: NextPage = () => {
     <div className={styles.container}>
       <Seo
         description="Home package for travel packages"
-        title="Home"
+        title="Contact"
         siteTitle="Gypsy Traces"
       />
 

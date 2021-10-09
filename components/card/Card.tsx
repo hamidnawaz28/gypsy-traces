@@ -7,20 +7,16 @@ import Image from "next/image";
 const useStyles = makeStyles((theme) => {
   return {
     root: {
-      padding: 10,
       margin: 10,
-      [theme.breakpoints.down("sm")]: {
-        width: "100%",
-      },
-      [theme.breakpoints.between("sm", "lg")]: {
-        width: "50%",
-      },
-      [theme.breakpoints.up("lg")]: {
-        width: "25%",
-      },
       border: `1px solid ${grey[200]}`,
       borderRadius: 5,
-      backgroundColor: theme.palette.background.default,
+    },
+    content: {
+      padding: 10,
+      "& p": {
+        padding: 0,
+        margin: 0,
+      },
     },
     cardImage: {
       width: "100%",
@@ -33,7 +29,7 @@ const useStyles = makeStyles((theme) => {
       [theme.breakpoints.up("sm")]: {
         height: "200px",
       },
-      borderRadius: 3,
+      borderRadius: "5px 5px 0px 0px",
     },
   };
 });
@@ -50,18 +46,25 @@ export default function ImgCard({
   imgSrc,
   typeUrl,
   packageUrl,
+  days,
 }: ImgCardProps) {
-  const { root, cardImage } = useStyles();
+  const { root, cardImage, content } = useStyles();
 
   return (
     <div className={root}>
       <img src={imgSrc} className={cardImage} />
-      <h4>{title}</h4>
-      {/* <p>{details}</p> */}
-      <Link href={`/details/${typeUrl}/${packageUrl}`}>
-      <Button color="primary" variant="contained" fullWidth>
-        Details
-      </Button></Link>
+      <div className={content}>
+        <p>
+          {"Days. "}
+          {days}
+        </p>
+        <h4>{title}</h4>
+        <Link href={`/details/${typeUrl}/${packageUrl}`} target={"_blank"}>
+          <Button color="primary" variant="contained" fullWidth>
+            Details
+          </Button>
+        </Link>
+      </div>
     </div>
   );
 }

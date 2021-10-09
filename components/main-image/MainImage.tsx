@@ -1,5 +1,6 @@
 import { makeStyles } from "@mui/styles";
 import { Typography } from "@mui/material";
+import globalClasses from "../theme/globalClasses";
 const useStyles = makeStyles((theme) => {
   return {
     root: {
@@ -14,16 +15,6 @@ const useStyles = makeStyles((theme) => {
       color: theme.palette.text.secondary,
       backgroundColor: "rgb(0,0,0,0.5)",
       textAlign: "center",
-      [theme.breakpoints.down("sm")]: {
-        fontSize: 14,
-        fontWeight: theme.typography.fontWeightRegular,
-        padding: 1,
-      },
-      [theme.breakpoints.up("sm")]: {
-        fontSize: 18,
-        fontWeight: theme.typography.fontWeightLight,
-        padding: 15,
-      },
     },
   };
 });
@@ -35,10 +26,13 @@ interface ImageInterface {
 
 const MainImage = ({ src, title }: ImageInterface) => {
   const { root, imageTitle } = useStyles();
+  const { headingText } = globalClasses();
   return (
     <div className={root}>
       <img src={src} width="100%"></img>
-      <Typography className={imageTitle}>{title}</Typography>
+      <Typography className={[imageTitle, headingText].join(" ")}>
+        {title}
+      </Typography>
     </div>
   );
 };

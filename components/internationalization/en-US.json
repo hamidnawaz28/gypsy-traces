@@ -2091,8 +2091,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "Chitral Jeep Safari",
+            "title": "Chitral Jeep Safari",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -2100,110 +2100,132 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Chitral Jeep Safari",
+            "days": "17",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Islamabad City Tour",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Islamabad to Chitral",
+                "activities": ["Night Stay: Hotel"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Chitral Town- Rumbur Kalash",
+                "activities": ["Rumbur", "Roaming locally", "Night Stay: Hotel"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Bamburet Valley",
+                "activities": [
+                  "Local Museum",
+                  "Kalash Graveyard",
+                  "Interacting with Locals",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Chitral Town",
+                "activities": ["Chitral Museum", "Shahi Mosque", "Chitral Gol"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Chitral Town- Mastuj",
+                "activities": ["Mastuj", "Sightseeing", "Night Stay: Hotel"]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Mastuj- Gupis",
+                "activities": [
+                  "Laspur",
+                  "Shandur Lake",
+                  "Shandur Polo ground ",
+                  "Langar",
+                  "Teru",
+                  "Phander",
+                  "Khalti",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Gupis- Gilgit City",
+                "activities": ["Gilgit City", "Rest", "Local Food"]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Gilgit City- Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik ",
+                  "Ondra Poygah"
+                ]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier ",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
+                "title": "Ghulkin- Naltar",
+                "activities": ["Naltar", "Rainbow lake", "Naltar Pine Hills"]
               },
               {
                 "day": "15",
-                "title": "",
-                "activities": []
+                "title": "Naltar to Naran",
+                "activities": [
+                  "Naran",
+                  "White water Rafting/lake Saif Ul Malook"
+                ]
               },
               {
                 "day": "16",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
               },
               {
                 "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Airport"]
               }
             ],
             "whatsIncluded": {
@@ -2229,8 +2251,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "chitral-tour",
+            "title": "Chitral Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -2238,110 +2260,49 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Chitral Tour",
+            "days": "07",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Islamabad City Tour",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": " Islamabad to Chitral",
+                "activities": ["Night Stay: Hotel"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Chitral Town- Kalash",
+                "activities": ["Bamburate kalash", "Night Stay: Hotel"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Kalash-  Garam Cheshma",
+                "activities": ["Garam cheshma", "Night Stay: Hotel"]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Garam Cheshma- Ayun",
+                "activities": ["Sightseeing/ Rest", "Night Stay: Hotel"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Ayun- Islamabad",
+                "activities": ["Night Stay: Hotel"]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "08",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "09",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "10",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Airport"]
               }
             ],
             "whatsIncluded": {
@@ -2367,8 +2328,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "fairy-meadows",
+            "title": "Fairy Meadows",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -2376,110 +2337,71 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Fairy Meadows",
+            "days": "08",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Arrival Islamabad",
+                "activities": [
+                  "Group Briefing",
+                  "Welcome Dinner",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Islamabad – Chilas",
+                "activities": [
+                  "Karakoram Highway/Babusar",
+                  "Chilas",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Chilas- Fairy Meadows",
+                "activities": [
+                  "4x4 Jeep Drive",
+                  "Trek to Fairy Meadows",
+                  "Night Stay: Hotel/ Dome Ten"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": " Rest Day",
+                "activities": ["Sightseeing", "Night Stay: hotel"]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Fairy Meadows- Besham/ Naran",
+                "activities": [
+                  "Raikot Bridge",
+                  "Besham/Naran",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Behshm/Naran- Islamabad",
+                "activities": ["Islamabad", "Rest", "Night Stay: Hotel"]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Islamabad City Tour",
+                "activities": [
+                  "Shakarparian",
+                  "Lok Virsa",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "09",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "10",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Departure to Home Country"]
               }
             ],
             "whatsIncluded": {
@@ -2505,8 +2427,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "Hunza Valley Tour",
+            "title": "Hunza Valley Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -2514,110 +2436,98 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Hunza Valley Tour",
+            "days": "12",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "Night Stay Naran"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Hunza"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah"
+                ]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Gilgit City",
+                "activities": ["Kargah", "Buddha Stupa", "NLI Market"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Gilgit to Naran",
+                "activities": ["Naran", "White water Rafting"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Airport"]
               }
             ],
             "whatsIncluded": {
@@ -2643,8 +2553,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "hunza-cherry-blossom-tour",
+            "title": "Hunza Cherry Blossom Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -2652,110 +2562,89 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Hunza Cherry Blossom Tour",
+            "days": "11",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Chilas",
+                "activities": ["Chilas"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Hunza"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah"
+                ]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge ",
+                  "Borith Lake",
+                  "Passu Glacier ",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Hunzat to Chilas",
+                "activities": ["Chilas"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Airport"]
               }
             ],
             "whatsIncluded": {
@@ -2781,8 +2670,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "hunza-jeep-safari",
+            "title": "Hunza Jeep Safari",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -2790,110 +2679,98 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Hunza Jeep Safari",
+            "days": "12",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "Night Stay Naran"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Hunza"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah"
+                ]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Gilgit City",
+                "activities": ["Kargah", "Buddha Stupa", "NLI Market"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Gilgit to Naran",
+                "activities": ["Naran", "White water Rafting"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Departure"]
               }
             ],
             "whatsIncluded": {
@@ -2919,8 +2796,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "hunza-phander-skardu",
+            "title": "Hunza Phander Skardu",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -2928,110 +2805,129 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Hunza Phander Skardu",
+            "days": "15",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "Night Stay Naran"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Hunza"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar",
+                  "Ganish Village",
+                  "Minapin",
+                  "Summayar"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah",
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake"
+                ]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": [
+                  "Passu Glacier",
+                  "Passu Cones",
+                  "Sost",
+                  "Khunjerab Border",
+                  "Ghulkin Village",
+                  "Karimabad"
+                ]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Karimabad- Khalti",
+                "activities": ["Kargah", "Khalt"]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Khalti- Phander- Ghakuch",
+                "activities": [
+                  "Langer",
+                  "Teru",
+                  "Khalti",
+                  "Ghakuch",
+                  "Night Stayl: Ghakuch Hotel"
+                ]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Ghakuch- Skardu",
+                "activities": ["Skardu City", "Organic Village"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Deosai Plains",
+                "activities": [
+                  "Sadpara Lake",
+                  "Deosai Plains",
+                  "Upper Kachura Lake"
+                ]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Shiger",
+                "activities": ["Shiger Fort", "Sarfaranga Desert"]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Khapulu",
+                "activities": ["Bara Village", "Khapulu Fort"]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": "Skardu- Chilas/Naran",
+                "activities": ["Chilas/Lake Saiful Malook", "Chilas/Naran"]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
+                "title": " Chilas/Naran- Islamabad",
+                "activities": ["Islamabad"]
               },
               {
                 "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Departure from airport"]
               }
             ],
             "whatsIncluded": {
@@ -3057,8 +2953,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "hunza-skardu-tour",
+            "title": "Hunza Skardu Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -3066,110 +2962,127 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Hunza SkarduTour",
+            "days": "14",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "Night Stay Naran"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Hunza"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar",
+                  "Ganish Village",
+                  "Minapin",
+                  "Summayar"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah",
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier"
+                ]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": [
+                  "Sost",
+                  "Khunjerab Border",
+                  "Passu Cones",
+                  "Glacier Breeze",
+                  "Ghulkin Village"
+                ]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Gilgit City",
+                "activities": ["Kargah", "Buddha Stupa", "NLI Market"]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Gilgit- Skardu",
+                "activities": ["Astak", "Skardu", "Kharpocho Fort"]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Skardu",
+                "activities": [
+                  "Shangrila lake",
+                  "Upper Kachura Lake",
+                  "Sadpara Lake",
+                  "Organic Village"
+                ]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Shigar Valley",
+                "activities": [
+                  "Shigar Valley",
+                  "Shigar Fort",
+                  "Sarfaranga Desert"
+                ]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Khapulu Fort",
+                "activities": ["Barah Village", "Mantokha waterfall"]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "White Water Rafting (optional)"
+                ]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": " Islamabad/ Rest Day",
+                "activities": ["Islamabad Markets", "Shopping"]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Departure from airport"]
               }
             ],
             "whatsIncluded": {
@@ -3195,8 +3108,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "hunza-valley-tour",
+            "title": "HunzaValley Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -3204,110 +3117,103 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "HunzaValley Tour",
+            "days": "13",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "Night Stay Naran"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Hunza"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah"
+                ]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Naltar",
+                "activities": ["Naltar", "Rainbow lake", "Naltar Pine Hills"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Gilgit City",
+                "activities": ["Kargah", "Buddha Stupa", "NLI Market"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Gilgit to Naran",
+                "activities": ["Naran", "White water Rafting"]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Departure from airport"]
               }
             ],
             "whatsIncluded": {
@@ -3333,8 +3239,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "hunza-phander-tour",
+            "title": "Hunza Phander Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -3342,110 +3248,108 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Hunza Phander Tour",
+            "days": "14",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "Night Stay Naran"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Ghakuch"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Ghakuch-Phander",
+                "activities": ["Phander lake", "Phander Valley"]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Ghakuch-  Gilgit City",
+                "activities": ["Kargah", "Buddah Stupa", "NLI Market"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Gilgit Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah"
+                ]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier ",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Hunza- Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Gilgit City",
+                "activities": ["Kargah", "Buddha Stupa", "NLI Market"]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Gilgit to Naran",
+                "activities": ["Naran", "White water Rafting"]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Departure from airport"]
               }
             ],
             "whatsIncluded": {
@@ -3471,8 +3375,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "lahore-city-tour",
+            "title": "Lahore City Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -3480,110 +3384,29 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
-            "pickUp": "Islamabad",
-            "dropOff": "Islamabad",
+            "description": "Lahore City Tour",
+            "days": "02",
+            "pickUp": "Lahore",
+            "dropOff": "Lahore",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Lahore",
+                "activities": [
+                  "Shalimar Garden",
+                  "Walled City",
+                  "Anarkali",
+                  "Lahore Fort",
+                  "Wazir Khan Mosque",
+                  "Badshahi Mosque",
+                  "Minar e Pakistan",
+                  "Lahore Museum"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "03",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "04",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "05",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "06",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "07",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "08",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "09",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "10",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Lahore- Kartarpur",
+                "activities": ["Darbar Sahib", "Sikh Yatra", "Wagah Border"]
               }
             ],
             "whatsIncluded": {
@@ -3609,8 +3432,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "kashmir-tour",
+            "title": "Kashmir Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -3618,110 +3441,41 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Kashmir Tour",
+            "days": "05",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": " Islamabad- Neelam",
+                "activities": [
+                  "Kohala",
+                  "Muzaffarabad",
+                  "Neelam River",
+                  "Keran",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Keran- Sharda",
+                "activities": ["Sightseeing", "Photography", "Sharda"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Sharda- Kel",
+                "activities": ["Kel", "Arang Kel", "Night Stay: Hotel"]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Kel- Sharda",
+                "activities": ["Sightseeing Kel", "Sharda", "Night stay: Hotel"]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "06",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "07",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "08",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "09",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "10",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Sharda- Islamabad",
+                "activities": ["Kutton waterfall", "Islamabad"]
               }
             ],
             "whatsIncluded": {
@@ -3747,8 +3501,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "naran-kaghan-tour",
+            "title": "Naran Kaghan Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -3756,110 +3510,49 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Naran Kaghan Tour",
+            "days": "05",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad- Naran",
+                "activities": ["Sightseeing", "Naran", "Night Stay: Hotel"]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": " Naran- lake Saif Ul Malook",
+                "activities": [
+                  "Jeep Drive Saif Ul Malook",
+                  "Sightseeing",
+                  "Naran",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Naran- Babusar Top",
+                "activities": [
+                  "Lulusar Lake",
+                  "Babusar Top",
+                  "Naran",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": " Naran- Shogran",
+                "activities": [
+                  "Shogran",
+                  "Siri Paye Hike (Optional)",
+                  "Night Stay: Shogran"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "06",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "07",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "08",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "09",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "10",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Shogran- Islamabad",
+                "activities": ["Travel"]
               }
             ],
             "whatsIncluded": {
@@ -3885,8 +3578,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "rawalpindi-islamabad-tour",
+            "title": "Rawalpindi- Islamabad Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -3894,110 +3587,53 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Rawalpindi- Islamabad Tour",
+            "days": "05",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Constitution Avenue",
+                  "Shakar parian",
+                  "Monument of Pakistan",
+                  "Lok Virsa Museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Islamabad- Taxila",
+                "activities": [
+                  "Taxila Museum",
+                  "Taxila Archeological Sites",
+                  "Khanpur Dam",
+                  "Islamabad"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Rawalpindi",
+                "activities": [
+                  "Sarafa Bazaar",
+                  "Raja Bazaar",
+                  "Saddar",
+                  "Truck Art"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "05",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "06",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "07",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "08",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "09",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "10",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Saidpur Village",
+                  "Bari Imam",
+                  "Lake View park",
+                  "Birds Park",
+                  "Rawal Lake"
+                ]
               }
             ],
             "whatsIncluded": {
@@ -4023,8 +3659,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "swat-tour",
+            "title": "Swat Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -4032,110 +3668,53 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Swat Tour",
+            "days": "05",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad- Swat",
+                "activities": [
+                  "Swat Mingora",
+                  "Swat Museum",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Swat (Murghzar)- Malamjabba",
+                "activities": [
+                  "White Palace",
+                  "Malam Jabba",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Malam jabba- Behrain-Kalam",
+                "activities": [
+                  "Behrain",
+                  "Kalam",
+                  "Night Stay Kalam",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Kalam- Mahodand Lake",
+                "activities": [
+                  "Boating",
+                  "Sightseeing",
+                  "Kalam",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "06",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "07",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "08",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "09",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "10",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "11",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "12",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "13",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "14",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "15",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "16",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Kalam- Islamabad",
+                "activities": ["Islamabad"]
               }
             ],
             "whatsIncluded": {
@@ -6589,7 +6168,7 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
             "description": "The Big 5 8000m Base Camps",
-            "days": "25",
+            "days": "30",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [

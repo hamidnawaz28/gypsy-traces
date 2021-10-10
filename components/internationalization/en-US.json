@@ -6146,8 +6146,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "snow-lake-trek",
+            "title": "Snow Lake Trek",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -6155,110 +6155,173 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Snow Lake Trek",
+            "days": "24",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Transfer to Hotel",
+                  "Rest",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Islamabad to Skardu",
+                "activities": ["Flight", "Free Day", "Night Stay: Hotel"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Skardu",
+                "activities": [
+                  "Kharpocho Fort",
+                  "Organic Village",
+                  "Shangrila Lake",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Skardu- Askoli",
+                "activities": [
+                  "Shigar",
+                  "Jeep drive to Askoli",
+                  "6-8 Hours Drive",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Askoli- Namla",
+                "activities": [
+                  "Biafo Glacier",
+                  "Namla",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Namla- Shikonfon",
+                "activities": ["Mango", "Shikonfon", "Night Stay: Dome Tent"]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Shikonfon- Baintha",
+                "activities": ["Baintha", "Night Stay: Dome Tent"]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Baintha",
+                "activities": [
+                  "Rest/ Acclimatization Day",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Baintha- Morfogoro",
+                "activities": ["Morfogoro", "Night Stay: Dome Tent"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Morfogoro- Hisper La Base Camp",
+                "activities": [
+                  "Snow lake",
+                  "Hisper La Base Camp",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Snow lake- Hisper La",
+                "activities": [
+                  "Crossing Snow lake",
+                  "Hisper La",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": " Hisper La- Kani Basa",
+                "activities": ["Kani Basa", "Night Stay: Dome Tent"]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": "Kani Basa- Jutmal",
+                "activities": ["Jutmal", "Night Stay: Dome Tent"]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
+                "title": "Jutmal- Bitanmal",
+                "activities": ["Bitanmal", "Night Stay: Dome Tent"]
               },
               {
                 "day": "15",
-                "title": "",
-                "activities": []
+                "title": " Bitanmal- Falaling Chhish",
+                "activities": ["Falaling Chhish", "Night Stay: Dome Tent"]
               },
               {
                 "day": "16",
-                "title": "",
-                "activities": []
+                "title": "Falaling Chhish- Hisper Village",
+                "activities": ["Hisper Village", "Night Stay: Dome Tent"]
               },
               {
                 "day": "17",
-                "title": "",
-                "activities": []
+                "title": "Hisper- Karimabad",
+                "activities": ["Karimabad", "Night Stay: Hotel"]
               },
               {
                 "day": "18",
-                "title": "",
-                "activities": []
+                "title": "Karimabad",
+                "activities": ["Rest Day", "Night Stay: Hotel"]
               },
               {
                 "day": "19",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Sightseeing",
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Duikar",
+                  "Attabad Lake",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Hunza",
+                "activities": [
+                  "Ondra Poygah",
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "21",
+                "title": "Hunza- Naran/Besham",
+                "activities": ["Naran/Besham", "Night Stay: Hotel"]
+              },
+              {
+                "day": "22",
+                "title": "Naran/besham- Islamabad",
+                "activities": ["Islamabad", "Night Stay: Hotel"]
+              },
+              {
+                "day": "23",
+                "title": "Islamabad",
+                "activities": ["Sightseeeing", "Shopping"]
+              },
+              {
+                "day": "24",
+                "title": "Departure",
+                "activities": ["Back to Home Country"]
               }
             ],
             "whatsIncluded": {
@@ -6284,8 +6347,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "the-big-4-8000m-base-camps",
+            "title": "The Big 4 8000m Base Camps",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -6293,110 +6356,204 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "The Big 4 8000m Base Camps",
+            "days": "25",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Transfer to Hotel",
+                  "Rest",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Islamabad to Skardu",
+                "activities": ["Flight", "Free Day", "Night Stay: Hotel"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Skardu",
+                "activities": [
+                  "Kharpocho Fort",
+                  "Organic Village",
+                  "Shangrila Lake",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Skardu- Askoli",
+                "activities": [
+                  "Shigar",
+                  "Jeep drive to Askoli",
+                  "6-8 Hours Drive",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Askoli- Jhola",
+                "activities": [
+                  "Trek to Jhola",
+                  "Biafo Glacier",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Jhola – Paiju",
+                "activities": ["Paiju"]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Paiju",
+                "activities": [
+                  "Acclimatization Walk",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Paiju- Khoburste",
+                "activities": [
+                  "Baltoro Glacier",
+                  "Khoburste",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Khoburste- Urdukus",
+                "activities": ["Urdukas", "Night Stay: Dome Tent"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Urdukus – Goro-II",
+                "activities": ["Goro-II", "Night Stay: Dome Tent"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Goro-II – Concordia",
+                "activities": [
+                  "K2 Base Camp Trek",
+                  "Concordia",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Concordia- Broad Peak Base Camp and K2 Base Camp",
+                "activities": [
+                  "Trek to Broad Peak Base Camp",
+                  "Art Gilkey Memorial ",
+                  "K2 Base Camp",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": "K2 Base Camp- Concordia",
+                "activities": [
+                  "Trek to Concordia",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
+                "title": " Concordia- Upper Baltoro Glacier- Sharing",
+                "activities": [
+                  "Upper Baltoro Glacier- Shahring ",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "15",
-                "title": "",
-                "activities": []
+                "title": "Shahring- Gasherbrum I- II Base Camp",
+                "activities": [
+                  "Gasherbrum I-II Base Camp.",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "16",
-                "title": "",
-                "activities": []
+                "title": "Gasherbrum I- II Base Camp – Concordia",
+                "activities": ["Concordia", "Rest", "Night Stay: Dome Tent"]
               },
               {
                 "day": "17",
-                "title": "",
-                "activities": []
+                "title": "Concordia- Ali Camp",
+                "activities": [
+                  "Ali Camp",
+                  "Gondgoro La crossing Briefing",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "18",
-                "title": "",
-                "activities": []
+                "title": "Ali Camp- Gondgoro La",
+                "activities": [
+                  "Gondgoro La",
+                  "Gondgoro Glacier",
+                  "Trinity Glacier (Khuispang)",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "19",
-                "title": "",
-                "activities": []
+                "title": "Trinity Glacier- Siacho",
+                "activities": ["Trek to Siacho", "Night Stay: Dome Tent"]
               },
               {
                 "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Siacho- Hushe- Skardu",
+                "activities": [
+                  "Trek to Hushe",
+                  "Drive to Skardu",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "21",
+                "title": " Rest Day",
+                "activities": ["Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "22",
+                "title": "Skardu - Besham/Naran",
+                "activities": ["Naran/Besham", "Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "23",
+                "title": "Naran/Besham- Islamabad",
+                "activities": [
+                  "Islamabad",
+                  "Islamabad city drive",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "24",
+                "title": " Islamabad Tour",
+                "activities": [
+                  "Margilla Hills",
+                  "Faisal Mosque",
+                  "Pakistan Monument",
+                  "Lok Virsa Museum",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "25",
+                "title": "Departure",
+                "activities": ["Departure to Home Country"]
               }
             ],
             "whatsIncluded": {
@@ -6422,8 +6579,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "the-big-5-8000m-base-camps",
+            "title": "The Big 5 8000m Base Camps",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -6431,110 +6588,238 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "The Big 5 8000m Base Camps",
+            "days": "25",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Transfer to Hotel",
+                  "Rest",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": "Islamabad to Skardu",
+                "activities": ["Flight", "Free Day", "Night Stay: Hotel"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Skardu",
+                "activities": [
+                  "Kharpocho Fort",
+                  "Organic Village",
+                  "Shangrila Lake",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Skardu- Askoli",
+                "activities": [
+                  "Shigar",
+                  "Jeep drive to Askoli",
+                  "6-8 Hours Drive",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Askoli- Jhola",
+                "activities": [
+                  "Trek to Jhola",
+                  "Biafo Glacier",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Jhola – Paiju",
+                "activities": ["Paiju"]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Paiju",
+                "activities": [
+                  "Acclimatization Walk",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Paiju- Khoburste",
+                "activities": [
+                  "Baltoro Glacier",
+                  "Khoburste",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Khoburste- Urdukus",
+                "activities": ["Urdukas", "Night Stay: Dome Tent"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": " Urdukus – Goro-II",
+                "activities": ["Goro-II", "Night Stay: Dome Tent"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Goro-II – Concordia",
+                "activities": [
+                  "K2 Base Camp Trek",
+                  "Concordia",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Concordia- Broad Peak Base Camp and K2 Base Camp",
+                "activities": [
+                  "Trek to Broad Peak Base Camp",
+                  "Art Gilkey Memorial ",
+                  "Shigar",
+                  "K2 Base Camp",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": "K2 Base Camp- Concordia",
+                "activities": [
+                  "Trek to Concordia",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
+                "title": "Concordia- Upper Baltoro Glacier- Sharing",
+                "activities": [
+                  "Upper Baltoro Glacier- Shahring",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "15",
-                "title": "",
-                "activities": []
+                "title": "Shahring- Gasherbrum I- II Base Camp",
+                "activities": [
+                  "Gasherbrum I-II Base Camp.",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "16",
-                "title": "",
-                "activities": []
+                "title": "Gasherbrum I- II Base Camp – Concordia",
+                "activities": ["Concordia", "Rest", "Night Stay: Dome Tent"]
               },
               {
                 "day": "17",
-                "title": "",
-                "activities": []
+                "title": "Concordia- Ali Camp",
+                "activities": [
+                  "Ali Camp",
+                  "Gondgoro La crossing Briefing",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "18",
-                "title": "",
-                "activities": []
+                "title": "Ali Camp- Gondgoro La",
+                "activities": [
+                  "Gondgoro La",
+                  "Gondgoro Glacier",
+                  "Trinity Glacier (Khuispang)",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "19",
-                "title": "",
-                "activities": []
+                "title": " Trinity Glacier- Siacho",
+                "activities": ["Trek to Siacho", "Night Stay: Dome Tent"]
               },
               {
                 "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Siacho- Hushe- Skardu",
+                "activities": [
+                  "Trek to Hushe",
+                  "Drive to Skardu",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "21",
+                "title": "Rest Day ",
+                "activities": ["Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "22",
+                "title": "Skardu – Chilas/ Raikot",
+                "activities": ["Chilas/ Raikot", "Night Stay: Hotel"]
+              },
+              {
+                "day": "23",
+                "title": "Chilas- Fairy Meadows",
+                "activities": [
+                  "4x4 Jeep Drive to Tatu",
+                  "Trek to Fairy Meadows",
+                  "Sightseeing",
+                  "Night Stay: Hotel/ Dome Tent"
+                ]
+              },
+              {
+                "day": "24",
+                "title": "Fairy Medows- Biyal Camp ",
+                "activities": ["Biyal Camp", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "25",
+                "title": "Biyal Camp – Nanga Parbat Base Camp",
+                "activities": [
+                  "Nanga Parbat Base Camp",
+                  "Night Stay: Hotel/ Dome Tent"
+                ]
+              },
+              {
+                "day": "26",
+                "title": "Nanga Parbat Base Camp- Fairy Meadows",
+                "activities": ["Fairy Meadows", "Night Stay: hotel/Dome Tent"]
+              },
+              {
+                "day": "27",
+                "title": "Fairy Meadows - Besham/Naran",
+                "activities": ["Naran/Besham", "Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "28",
+                "title": "Naran/Besham- Islamabad",
+                "activities": [
+                  "Islamabad",
+                  "Islamabad city drive",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "29",
+                "title": "Islamabad Tour",
+                "activities": [
+                  "Margilla Hills",
+                  "Faisal Mosque",
+                  "Pakistan Monument",
+                  "Lok Virsa Museum",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "30",
+                "title": "Departure",
+                "activities": ["Departure to  Home Country"]
               }
             ],
             "whatsIncluded": {
@@ -6560,8 +6845,8 @@
             }
           },
           {
-            "url": "",
-            "title": "",
+            "url": "tirch-mir-base-camp-trek",
+            "title": "Tirch Mir Base Camp Trek",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -6569,110 +6854,112 @@
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
               "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
             ],
-            "description": "",
-            "days": "",
+            "description": "Tirch Mir Base Camp Trek",
+            "days": "17",
             "pickUp": "Islamabad",
             "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": [
+                  "Islamabad City Tour",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
               },
               {
                 "day": "02",
-                "title": "",
-                "activities": []
+                "title": " Islamabad to Chitral",
+                "activities": ["Night Stay: Hotel"]
               },
               {
                 "day": "03",
-                "title": "",
-                "activities": []
+                "title": "Chitral- Shagraom",
+                "activities": [
+                  "Drive to Zani Pass",
+                  "Trek toShagraom",
+                  "Night Stay: Guest House/DomeTent"
+                ]
               },
               {
                 "day": "04",
-                "title": "",
-                "activities": []
+                "title": "Shagroam- Sheniak",
+                "activities": ["Sheniak 3540 m", "Night Stay: DomeTent"]
               },
               {
                 "day": "05",
-                "title": "",
-                "activities": []
+                "title": "Sheniak- Shughur Baisun",
+                "activities": ["Shugur Baisun  4038 m", "Night Stay Dome Tent"]
               },
               {
                 "day": "06",
-                "title": "",
-                "activities": []
+                "title": "Shughur Baisun- Tirich Mir Base Cam",
+                "activities": ["Tirich Glacier", "Night Stay: Dome Tent"]
               },
               {
                 "day": "07",
-                "title": "",
-                "activities": []
+                "title": "Tirich Mir Base Camp",
+                "activities": [
+                  "Photography",
+                  "Sightseeing",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
               },
               {
                 "day": "08",
-                "title": "",
-                "activities": []
+                "title": "Tirich Mir Base Camp - Shughur Baisun",
+                "activities": ["Shughur Baisun", "Night Stay: Dome Tent"]
               },
               {
                 "day": "09",
-                "title": "",
-                "activities": []
+                "title": "Shughur Baisun- Sheniak",
+                "activities": ["Night Stay:Dome Tent"]
               },
               {
                 "day": "10",
-                "title": "",
-                "activities": []
+                "title": "Sheniak- Shagrom",
+                "activities": ["Night Stay: Dome Tent"]
               },
               {
                 "day": "11",
-                "title": "",
-                "activities": []
+                "title": "Shagrom- Chitral",
+                "activities": ["Zani Pass", "Chitral", "Night Stay: Hotel"]
               },
               {
                 "day": "12",
-                "title": "",
-                "activities": []
+                "title": "Kalash visit",
+                "activities": ["Bireer and Ramboor", "Night Stay:Hotel"]
               },
               {
                 "day": "13",
-                "title": "",
-                "activities": []
+                "title": "Chitral- Swat",
+                "activities": ["Swat Museum", "Swat Archeological Sites"]
               },
               {
                 "day": "14",
-                "title": "",
-                "activities": []
+                "title": "Swat- Peshawar",
+                "activities": [
+                  "Takht Bai Mardan",
+                  "Peshawar",
+                  "Peshawar Museum"
+                ]
               },
               {
                 "day": "15",
-                "title": "",
-                "activities": []
+                "title": " Peshawar- Islamabad",
+                "activities": ["Islamabad", "Sightseeing Islamabad"]
               },
               {
                 "day": "16",
-                "title": "",
-                "activities": []
+                "title": "Islamabad",
+                "activities": ["Rest Day", "Shopping Day"]
               },
               {
                 "day": "17",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "18",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "19",
-                "title": "",
-                "activities": []
-              },
-              {
-                "day": "20",
-                "title": "",
-                "activities": []
+                "title": "Departure",
+                "activities": ["Return to Home Country"]
               }
             ],
             "whatsIncluded": {

@@ -6,7 +6,7 @@
       "culturalAndHeritage": {
         "title": "Cultural And Heritage",
         "url": "cultural-and-heritage",
-        "seoTitle": "Top cultural sites to visit in pakistan",
+        "seoTitle": "Top cultural sites to visit in Pakistan",
         "details": [
           {
             "url": "ancient-silk-route",
@@ -2089,14 +2089,7 @@
               "items": "Miscellaneous Items",
               "else": "Anything not mentioned above"
             }
-          }
-        ]
-      },
-      "honeymoon": {
-        "title": "Honeymoon",
-        "url": "honeymoon",
-        "seoTitle": "top cultural sites in pakistan",
-        "details": [
+          },
           {
             "url": "",
             "title": "",
@@ -2109,8 +2102,8 @@
             ],
             "description": "",
             "days": "",
-            "pickUp": "",
-            "dropOff": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
@@ -2247,8 +2240,1802 @@
             ],
             "description": "",
             "days": "",
-            "pickUp": "",
-            "dropOff": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
@@ -2375,10 +4162,738 @@
           }
         ]
       },
+      "honeymoon": {
+        "title": "Honeymoon",
+        "url": "honeymoon",
+        "seoTitle": "Top honeymoon distination in Pakistan",
+        "details": [
+          {
+            "url": "chitral-tour",
+            "title": "Chitral Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Chitral Tour",
+            "days": "07",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Islamabad City Tour",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad to Chitral",
+                "activities": ["Night Stay: Hotel"]
+              },
+              {
+                "day": "03",
+                "title": "Chitral Town- Kalash",
+                "activities": ["Bamburate kalash", "Night Stay: Hotel"]
+              },
+              {
+                "day": "04",
+                "title": " Kalash-  Garam Cheshma",
+                "activities": ["Garam cheshma", "Night Stay: Hotel"]
+              },
+              {
+                "day": "05",
+                "title": "Garam Cheshma- Ayun",
+                "activities": ["Sightseeing/ Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "06",
+                "title": "Ayun- Islamabad",
+                "activities": ["Night Stay: Hotel"]
+              },
+              {
+                "day": "07",
+                "title": "Departure",
+                "activities": ["Islmbad Airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "fairy-meadows-tour",
+            "title": "Fairy Meadows Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Fairy Meadows Tour",
+            "days": "08",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Arrival Islamabad",
+                "activities": [
+                  ",Group Briefing",
+                  "Welcome Dinner",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad – Chilas",
+                "activities": [
+                  "Karakoram Highway/Babusar",
+                  "Chilas",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Chilas- Fairy Meadows",
+                "activities": [
+                  "4x4 Jeep Drive",
+                  "Trek to Fairy Meadows",
+                  "Night Stay: Hotel/ Dome Tent"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Rest Day",
+                "activities": ["Sightseeing", "Night Stay: hotel"]
+              },
+              {
+                "day": "05",
+                "title": " Fairy Meadows- Besham/ Naran",
+                "activities": [
+                  "Raikot Bridge",
+                  "Besham/Naran",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Behshm/Naran- Islamabad",
+                "activities": [",Islamabad", "Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "07",
+                "title": " Islamabad City Tour",
+                "activities": [
+                  ",Shakarparian",
+                  "Lok Virsa",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Departure",
+                "activities": ["Departure to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "hunza-valley-tour",
+            "title": "Hunza Valley Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Hunza Valley Tour",
+            "days": "13",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monoment of Pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Naran",
+                "activities": [
+                  "Naran",
+                  "Lake Saif Ul malook",
+                  "Night Stay Naran"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Hunza",
+                "activities": ["Babusar Top", "Jaglote Junction", "Hunza"]
+              },
+              {
+                "day": "04",
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Hunza- Nagar",
+                "activities": ["Ganish Village", "Minapin", "Summayar"]
+              },
+              {
+                "day": "06",
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Gulmit Village",
+                  "Bulbulik",
+                  "Ondra Poygah"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Hunza",
+                "activities": [
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier",
+                  "Passu Cones",
+                  "Glacier Breeze"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Hunza- Khunjerab",
+                "activities": ["Sost", "Khunjerab Border", "Ghulkin Village"]
+              },
+              {
+                "day": "09",
+                "title": "Naltar",
+                "activities": ["Naltar", "Rainbow lake", "Naltar Pine Hills"]
+              },
+              {
+                "day": "10",
+                "title": "Gilgit City",
+                "activities": ["Kargah", "Buddha Stupa", "NLI Market"]
+              },
+              {
+                "day": "11",
+                "title": "Gilgit to Naran",
+                "activities": ["Naran", "White water Rafting"]
+              },
+              {
+                "day": "12",
+                "title": "Islamabad",
+                "activities": ["Islamabad", "Rawalpindi City Tour"]
+              },
+              {
+                "day": "13",
+                "title": "Departure",
+                "activities": ["Departure from airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "kashmir-tour",
+            "title": "Kashmir Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Kashmir Tour",
+            "days": "05",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad- Neelam",
+                "activities": [
+                  "Kohala",
+                  "Muzaffarabad",
+                  "Neelam River",
+                  "Keran",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Keran- Sharda",
+                "activities": ["Sightseeing", "Photography", "Sharda"]
+              },
+              {
+                "day": "03",
+                "title": "Sharda- Kel",
+                "activities": ["Kel", "Arang Kel", "Night Stay: Hotel"]
+              },
+              {
+                "day": "04",
+                "title": "Kel- Sharda",
+                "activities": ["Sightseeing Kel", "Sharda", "Night stay: Hotel"]
+              },
+              {
+                "day": "05",
+                "title": "Sharda- Islamabad",
+                "activities": ["Kutton waterfall", "Islamabad"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "murree-nathiagali-tour",
+            "title": "Murree Nathiagali Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Murree Nathiagali Tour",
+            "days": "04",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad Tour",
+                "activities": [
+                  "Monument of Pakistan",
+                  "Lok Virsa Museum",
+                  "Faisal Mosque",
+                  "Margilla Hills",
+                  "Monal",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad- Murree",
+                "activities": [
+                  "Patriata Chair Lift",
+                  "Mall Road",
+                  "Bhurban",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Murree- Nathiagali",
+                "activities": [
+                  "Pipeline Trek",
+                  "Ghora Dhaka",
+                  "Night Stay:Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Nathiagali – Islamabad",
+                "activities": ["Abbottabad", "Islamabad"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "naran-kaghan-tour",
+            "title": "Naran Kaghan Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Naran Kaghan Tour",
+            "days": "05",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad- Naran",
+                "activities": ["Sightseeing", "Naran", "Night Stay: Hotel"]
+              },
+              {
+                "day": "02",
+                "title": "Naran- lake Saif Ul Malook",
+                "activities": [
+                  "Jeep Drive Saif Ul Malook",
+                  "Sightseeing",
+                  "Naran",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Naran- Babusar Top",
+                "activities": [
+                  "Lulusar Lake",
+                  "Babusar Top",
+                  "Naran",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Naran- Shogran",
+                "activities": [
+                  "Shogran",
+                  "Siri Paye Hike (Optional)",
+                  "Night Stay: Shogran"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Shogran- Islamabad",
+                "activities": ["Travel"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "skardu-tour",
+            "title": "Skardu Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Skardu Tour",
+            "days": "10",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half-Day City Tour",
+                  "Monument of Pakistan",
+                  "Lok Virsa museum",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Naran",
+                "activities": [
+                  "Naran/ Chilas",
+                  "Lake Saif Ul malook/Chilas",
+                  "Night Stay Naran/Chilas"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Skardu",
+                "activities": [
+                  "Skardu City",
+                  "Organic Village",
+                  "Kharpocho Fort"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Deosai Plains",
+                "activities": [
+                  "Sadpara Lake",
+                  "Deosai Plains",
+                  "Upper Kachura Lake"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Shiger",
+                "activities": ["Shiger Fort", "Sarfaranga Desert"]
+              },
+              {
+                "day": "06",
+                "title": "Khapulu",
+                "activities": ["Bara Village", "Khapulu Fort"]
+              },
+              {
+                "day": "07",
+                "title": "Skardu",
+                "activities": ["Mantokha Waterfall", "Rest"]
+              },
+              {
+                "day": "08",
+                "title": "Skardu- Chilas/Naran",
+                "activities": ["Chilas/Lake Saiful Malook", "Chilas/Naran"]
+              },
+              {
+                "day": "09",
+                "title": "Chilas/Naran- Islamabad",
+                "activities": ["Islamabad"]
+              },
+              {
+                "day": "10",
+                "title": "Departure",
+                "activities": ["Departure from airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "swat-tour",
+            "title": "Swat Tour",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Swat Tour",
+            "days": "05",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad- Swat",
+                "activities": [
+                  "Swat Mingora",
+                  "Swat Museum",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Swat (Murghzar)- Malamjabba",
+                "activities": [
+                  "White Palace",
+                  "Malam Jabba",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Malam jabba- Behrain-Kalam",
+                "activities": [
+                  "Behrain",
+                  "Kalam",
+                  "Night Stay Kalam",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Kalam- Mahodand Lake",
+                "activities": [
+                  "Boating",
+                  "Sightseeing",
+                  "Kalam",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Kalam- Islamabad",
+                "activities": ["Travel"]
+              },
+              {
+                "day": "06",
+                "title": "Departure",
+                "activities": ["Departure from airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          }
+        ]
+      },
       "trekking": {
         "title": "Trekking",
         "url": "trekking",
-        "seoTitle": "top cultural sites in pakistan",
+        "seoTitle": "Top destinations to travel for trekking in Pakistan",
         "details": [
           {
             "url": "batura-glacier-trek",
@@ -2529,6 +5044,1108 @@
             }
           },
           {
+            "url": "fairy-meadows-base-camp",
+            "title": "Fairy Meadows Base Camp",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Fairy Meadows Base Camp",
+            "days": "09",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Arrival Islamabad",
+                "activities": [
+                  "Group Briefing",
+                  "Welcome Dinner",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": " Islamabad – Chilas",
+                "activities": ["Karakoram Highway", "Chilas"]
+              },
+              {
+                "day": "03",
+                "title": "Chilas- Fairy Meadows",
+                "activities": [
+                  "4x4 Jeep Drive",
+                  "Trek to Fairy Meadows",
+                  "Night Stay: Hotel/ Dome Tent"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Fairy Medows- Nanga Parbat Base Camp",
+                "activities": [
+                  "Biyal Camp",
+                  "Base Camp",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Base Camp- Fairy Meadows",
+                "activities": ["Fairy Meadows", "Night Stay: Hotel/ Dome Tent"]
+              },
+              {
+                "day": "06",
+                "title": "Fairy Meadows- Besham/ Naran",
+                "activities": [
+                  "Raikot Bridge",
+                  "Besham/Naran",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Behshm/Naran- Islamabad",
+                "activities": ["Islamabad", "Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "08",
+                "title": "Islamabad City Tour",
+                "activities": [
+                  "Shakarparian",
+                  "Lok Virsa",
+                  "Faisal Mosque",
+                  "Margilla Hills"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Departure",
+                "activities": ["Departure to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "k2-base-camp-gondgorola-circular-trek",
+            "title": "K2 Base Camp Gondgorola Circular  Trek",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "K2 Base Camp Gondgorola Circular  Trek",
+            "days": "21",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Transfer to Hotel",
+                  "Rest",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad to Skardu",
+                "activities": ["Flight", "Free Day", "Night Stay: Hotel"]
+              },
+              {
+                "day": "03",
+                "title": "Skardu",
+                "activities": [
+                  "Kharpocho Fort",
+                  "Organic Village",
+                  "Shangrila Lake",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": " Skardu- Askoli",
+                "activities": [
+                  "Shigar",
+                  "Jeep drive to Askoli",
+                  "6-8 Hours Drive",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Askoli- Jhola",
+                "activities": [
+                  "Trek to Jhola",
+                  "Biafo Glacier",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Jhola – Paiju",
+                "activities": ["Paiju"]
+              },
+              {
+                "day": "07",
+                "title": "Paiju",
+                "activities": [
+                  "Acclimatization Walk",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "08",
+                "title": " Paiju- Khoburste",
+                "activities": [
+                  "Baltoro Glacier",
+                  "Khoburste",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Khoburste- Urdukus",
+                "activities": ["Urdukas", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "10",
+                "title": "Urdukus – Goro-II",
+                "activities": ["Goro-II", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "11",
+                "title": "Goro-II – Concordia",
+                "activities": [
+                  "K2 Base Camp Trek",
+                  "Concordia",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "12",
+                "title": " K2 Base Camp",
+                "activities": [
+                  "Trek to K2 Base Camp",
+                  "Art Gilkey Memorial ",
+                  "K2 Base Camp",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "13",
+                "title": " K2 Base Camp- Concordia",
+                "activities": [
+                  "Trek Back to Concordia and Rest",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "14",
+                "title": "Concordia- Ali Camp",
+                "activities": [
+                  "Ali Camp",
+                  "Gondgoro La crossing Briefing",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "15",
+                "title": "Ali Camp- Gondgoro La",
+                "activities": [
+                  "Gondgoro La",
+                  "Gondgoro Glacier",
+                  "Trinity Glacier",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "16",
+                "title": "Trinity Glacier- Siacho",
+                "activities": ["Trek to Siacho", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "17",
+                "title": "Siacho- Hushe- Skardu",
+                "activities": [
+                  "Trek to Hushe",
+                  "Drive to Skardu",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "18",
+                "title": "Rest Day ",
+                "activities": ["Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "19",
+                "title": " Fly to Islamabad/ Drive to Chilas",
+                "activities": ["Islamabad Market/Chilas"]
+              },
+              {
+                "day": "20",
+                "title": "Islamabd",
+                "activities": [
+                  "Chilas to Islamabad",
+                  "Sightseeing in Islamabad"
+                ]
+              },
+              {
+                "day": "21",
+                "title": "Departure",
+                "activities": ["Departure to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "All domestic flights and road transfers including airport transfers",
+              "airportPickup": "Airport Transfers",
+              "hotel": "All hotel accommodation in Pakistan (twin sharing room)",
+              "tent": "All trekking accommodation in Pakistan (twin sharing dome tent)",
+              "campingFee": "All camping site fees and bridge fees",
+              "trekingLogistics": "All trekking logistics (all tents, non-personal equipment and tools etc)",
+              "meals": "All meals (breakfast, lunch & dinner) and beverages/water during meals",
+              "snacks": "Snacks including dry fruits and tea/coffee during the trek",
+              "water": "Refills of boiled drinking water on the trek",
+              "guides": "Licensed professional guide (government requirement)",
+              "trekPermits": "Government trekking permit fees and paperwork",
+              "wasteManagementFee": "Waste management fees (government requirement)",
+              "staff": "Support staff (cook, assistant(s) etc)",
+              "porter": "Porter for personal luggage (14kgs) and mountaineering equipment (8kgs)",
+              "satellitePhone": "Satellite phone for emergencies",
+              "safety": "Basic First Aid Kit",
+              "certificates": "Trekking map and trip achievement certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "tickets": "International airfare",
+              "personalItems": "Personal equipment (e.g. trekking shoes, down jacket, walking sticks etc)",
+              "mountainItems": "Personal mountain equipment (crampon, mountaineering boot, ice axe, harness, two carabiners, helmet etc)",
+              "extraStay": "Extra nights in Islamabad (hotel check in/out is 12pm) - additional USD 49 per night",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips/gratuities for guides, porters, staff etc",
+              "items": "Miscellaneous (minibar, bottled water, phone calls, laundry, souvenir etc)",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "k2-base-camp-trek",
+            "title": "K2 Base Camp Trek",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "K2 Base Camp Trek",
+            "days": "21",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Transfer to Hotel",
+                  "Rest",
+                  "Briefing",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Islamabad to Skardu",
+                "activities": ["Flight", "Free Day", "Night Stay: Hotel"]
+              },
+              {
+                "day": "03",
+                "title": "Skardu",
+                "activities": [
+                  "Kharpocho Fort",
+                  "Organic Village",
+                  "Shangrila Lake",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Skardu- Askoli",
+                "activities": [
+                  "Shigar",
+                  "Jeep drive to Askoli",
+                  "6-8 Hours Drive",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Askoli- Jhola",
+                "activities": [
+                  "Trek to Jhola",
+                  "Biafo Glacier",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "06",
+                "title": " Jhola – Paiju",
+                "activities": ["Paiju"]
+              },
+              {
+                "day": "07",
+                "title": "Paiju",
+                "activities": [
+                  "Acclimatization Walk",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Paiju- Khoburste",
+                "activities": [
+                  "Baltoro Glacier",
+                  "Khoburste",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Khoburste- Urdukus",
+                "activities": ["Urdukas", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "10",
+                "title": "Urdukus – Goro-II",
+                "activities": ["Goro-II", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "11",
+                "title": "Goro-II – Concordia",
+                "activities": [
+                  "K2 Base Camp Trek",
+                  "Concordia",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "12",
+                "title": "K2 Base Camp",
+                "activities": [
+                  "Trek to K2 Base Camp",
+                  "Art Gilkey Memorial ",
+                  "Back to Concordia",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "13",
+                "title": "Concordia- Goro-I",
+                "activities": ["Trek to Goro-I", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "14",
+                "title": "Goro-I -  Khoburste",
+                "activities": ["Trango Tower View", "Night  Stay:Dome Tent"]
+              },
+              {
+                "day": "15",
+                "title": "Khoburste – Paiju",
+                "activities": ["Trek Back to Paiju", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "16",
+                "title": "Paiju- Jhola",
+                "activities": ["Trek back to Jhola", "Night Stay:  Dome Tent"]
+              },
+              {
+                "day": "17",
+                "title": "Jhola- Aslole- Skardu",
+                "activities": [
+                  "Trek to Askole",
+                  "Jeep drive to Skardu",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "18",
+                "title": "Rest Day ",
+                "activities": ["Rest", "Night Stay: Hotel"]
+              },
+              {
+                "day": "19",
+                "title": "Fly to Islamabad/ Drive to Chilas",
+                "activities": ["Islamabad Market/Chilas"]
+              },
+              {
+                "day": "20",
+                "title": "Islamabd",
+                "activities": [
+                  "Chilas to Islamabad",
+                  "Sightseeing in Islamabad"
+                ]
+              },
+              {
+                "day": "21",
+                "title": "Departure",
+                "activities": ["Departure to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "All domestic flights and road transfers including airport transfers",
+              "airportPickup": "Airport Transfers",
+              "hotel": "All hotel accommodation in Pakistan (twin sharing room)",
+              "tent": "All trekking accommodation in Pakistan (twin sharing dome tent)",
+              "campingFee": "All camping site fees and bridge fees",
+              "trekingLogistics": "All trekking logistics (all tents, non-personal equipment and tools etc)",
+              "meals": "All meals (breakfast, lunch & dinner) and beverages/water during meals",
+              "snacks": "Snacks including dry fruits and tea/coffee during the trek",
+              "water": "Refills of boiled drinking water on the trek",
+              "guides": "Licensed professional guide (government requirement)",
+              "trekPermits": "Government trekking permit fees and paperwork",
+              "wasteManagementFee": "Waste management fees (government requirement)",
+              "staff": "Support staff (cook, assistant(s) etc)",
+              "porter": "Porter for personal luggage (14kgs) and mountaineering equipment (8kgs)",
+              "satellitePhone": "Satellite phone for emergencies",
+              "safety": "Basic First Aid Kit",
+              "certificates": "Trekking map and trip achievement certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "tickets": "International airfare",
+              "personalItems": "Personal equipment (e.g. trekking shoes, down jacket, walking sticks etc)",
+              "mountainItems": "Personal mountain equipment (crampon, mountaineering boot, ice axe, harness, two carabiners, helmet etc)",
+              "extraStay": "Extra nights in Islamabad (hotel check in/out is 12pm) - additional USD 49 per night",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips/gratuities for guides, porters, staff etc",
+              "items": "Miscellaneous (minibar, bottled water, phone calls, laundry, souvenir etc)",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "patundas-trek",
+            "title": "Patundas Trek",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Patundas Trek",
+            "days": "15",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monument of Pakistan",
+                  "Lok Virsa Museum",
+                  "Faisal Mosque",
+                  "Margilla Hills",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Naran/Chilas",
+                "activities": [
+                  "Naran/ Chilas",
+                  "Lake Saif Ul malook/ Chilas",
+                  "Night Stay Naran/ Chilas"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Chilas- Hunza",
+                "activities": [
+                  "Jaglote Junction",
+                  "Rakaposhi View Point",
+                  "Hunza"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazzar",
+                  "Ganish Village",
+                  "Minapin"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Hunza",
+                "activities": [
+                  "Attabad Lake",
+                  "Ondra Poygah",
+                  "Hussaini Suspension Bridge",
+                  "Ghulkin Village",
+                  "Night Stay: Guest House"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Ghulkin- Passughar",
+                "activities": [
+                  "Borith Lake",
+                  "Passu Ghar",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Passu Ghar- Luzhdur",
+                "activities": [
+                  "Crossing Passu Glacier",
+                  "Luzhdur",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Luzhdur to Patundas",
+                "activities": [
+                  "Patundas",
+                  "Yourch",
+                  "Passu Peak Base Camp",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Patundas",
+                "activities": [
+                  "Rest day",
+                  "Photography",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Patundas-  Passu Ghar",
+                "activities": ["Night Stay: Dome Tent"]
+              },
+              {
+                "day": "11",
+                "title": "Passu Ghar- Ghulkin",
+                "activities": ["Night Stay: Guest House"]
+              },
+              {
+                "day": "12",
+                "title": "Ghulkin – Ultar Glacier",
+                "activities": ["Ultar Glacier", "Night Stay: Hotel karimabad"]
+              },
+              {
+                "day": "13",
+                "title": "karimabad – Besham/ Naran",
+                "activities": ["Night Stay: Hotel"]
+              },
+              {
+                "day": "14",
+                "title": "Naran- Islamabad",
+                "activities": ["Rest", "Shopping", "Night Stay: Islamabad"]
+              },
+              {
+                "day": "15",
+                "title": "Departure",
+                "activities": ["Back to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "diran-peak-rakaposhi-peak-base-camp-trek",
+            "title": "Diran Peak- Rakaposhi Peak Base Camp Trek",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Diran Peak- Rakaposhi Peak Base Camp Trek",
+            "days": "14",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monument of Pakistan",
+                  "Lok Virsa Museum",
+                  "Faisal Mosque",
+                  "Margilla Hills",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": " Naran/Chilas",
+                "activities": [
+                  "Naran/ Chilas",
+                  "Lake Saif Ul Malook/ Chilas",
+                  "Night Stay:  Naran/ Chilas Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Naran/Chilas- Minapin",
+                "activities": [
+                  "Jaglote Junction",
+                  "Rakaposhi View Point",
+                  "Minapin",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Minapin- Hapakun",
+                "activities": ["Hapakun", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "05",
+                "title": "Hapakun- Rakaposhi Peak Base Camp",
+                "activities": ["Rakaposhi Base Camp", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "06",
+                "title": "Rakaposhi Peak Base Camp- Diran Peak Base Camp",
+                "activities": ["Diran Peak", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "07",
+                "title": "Diran Base Camp- Rakaposhi Base Camp",
+                "activities": ["Rakaposhi Base Camp", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "08",
+                "title": "Rakaposhi Base Camp- Minapin",
+                "activities": ["Minapin"]
+              },
+              {
+                "day": "09",
+                "title": "Minapin- Hunza",
+                "activities": [
+                  "Sightseeing",
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Duikar",
+                  "Attabad Lake",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Hunza",
+                "activities": [
+                  "Ondra Poygah",
+                  "Hussaini Suspension Bridge",
+                  "Borith Lake",
+                  "Passu Glacier",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "11",
+                "title": "Hunza- Naran/Besham",
+                "activities": ["Naran/Besham", "Night Stay: Hotel"]
+              },
+              {
+                "day": "12",
+                "title": "Naran/besham- Islamabad",
+                "activities": ["Islamabad", "Night Stay: Hotel"]
+              },
+              {
+                "day": "13",
+                "title": " Islamabad",
+                "activities": ["Sightseeeing", "Shopping"]
+              },
+              {
+                "day": "14",
+                "title": "Departure",
+                "activities": ["Back to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "Rush Lake Trek",
+            "title": "Rush Lake Trek",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Rush Lake Trek",
+            "days": "14",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monument of Pakistan",
+                  "Lok Virsa Museum",
+                  "Faisal Mosque",
+                  "Margilla Hills",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Naran/Chilas",
+                "activities": [
+                  "Naran/ Chilas",
+                  "Lake Saif Ul Malook/ Chilas",
+                  "Night Stay:  Naran/ Chilas Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Naran/Chilas- Hunza",
+                "activities": [
+                  "Jaglote Junction",
+                  "Rakaposhi View Point",
+                  "Hunza",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazaar",
+                  "Ganish Village",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Hunza- Hopper",
+                "activities": ["Hopper", "Bericho Kor", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "06",
+                "title": "Bericho Kor- Chidin Herai",
+                "activities": ["Night Stay: Dome Tent"]
+              },
+              {
+                "day": "07",
+                "title": "Chidin Herai- Rush Lake",
+                "activities": ["Rush lake", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "08",
+                "title": "Rush Lake-Phahi Phari",
+                "activities": ["Pahai Pari", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "09",
+                "title": "Pahai Phari- Hamdar",
+                "activities": ["Hamdar", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "10",
+                "title": "Hamdar – Karaimabad",
+                "activities": ["Hopper", "Karaimabad", "Night Stay: Hotel"]
+              },
+              {
+                "day": "11",
+                "title": "Rest Day",
+                "activities": ["Night Stay: Hotel"]
+              },
+              {
+                "day": "12",
+                "title": "Karimabad – Besham/ Naran",
+                "activities": ["Night Stay: Hotel"]
+              },
+              {
+                "day": "13",
+                "title": "Naran- Islamabad",
+                "activities": ["Rest", "Shopping", "Night Stay: Islamabad"]
+              },
+              {
+                "day": "14",
+                "title": "Departure",
+                "activities": ["Back to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "shimshal-pass-trek",
+            "title": "Shimshal Pass Trek",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "Shimshal Pass Trek",
+            "days": "19",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival at Islamabad Airport",
+                  "Transfer to Hotel",
+                  "Half Day City Tour",
+                  "Monument of Pakistan",
+                  "Lok Virsa Museum",
+                  "Faisal Mosque",
+                  "Margilla Hills",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Naran/Chilas",
+                "activities": [
+                  "Naran/ Chilas",
+                  "Lake Saif Ul Malook/ Chilas",
+                  "Night Stay:  Naran/ Chilas Hotel"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Naran/Chilas- Hunza",
+                "activities": [
+                  "Jaglote Junction",
+                  "Rakaposhi View Point",
+                  "Hunza",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "04",
+                "title": "Hunza",
+                "activities": [
+                  "Altit Fort",
+                  "Baltit Fort",
+                  "Royal garden",
+                  "Karimabad Bazaar",
+                  "Ganish Village",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "05",
+                "title": "Hunza- Shimshal",
+                "activities": ["Jeep Drive", "Night Stay: Guest House"]
+              },
+              {
+                "day": "06",
+                "title": "Shimshal",
+                "activities": [
+                  "Rest Day",
+                  "Briefing",
+                  "Night Stay: Guest House"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Shimshal- Furzain",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "08",
+                "title": "Furzin- Arbob Purien",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "09",
+                "title": " Arbob Purien- Shu Jerav",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "10",
+                "title": "Shu Jerav- Shimshal Pass",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "11",
+                "title": "Shimshal Pass- Minglik Sar",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "12",
+                "title": "Rest Day",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "13",
+                "title": "Shimshal Pass- Arbob purien",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "14",
+                "title": "Arbob purien- Furzin",
+                "activities": ["Night Stay: Dome tent"]
+              },
+              {
+                "day": "15",
+                "title": "Furzin- Shimshal",
+                "activities": ["Night Stay: Guest House"]
+              },
+              {
+                "day": "16",
+                "title": "Shimshal- Karimabad",
+                "activities": ["Night Stay: Hotel"]
+              },
+              {
+                "day": "17",
+                "title": "karimabad – Besham/ Naran",
+                "activities": ["Night Stay: Hotel"]
+              },
+              {
+                "day": "18",
+                "title": "Naran- Islamabad",
+                "activities": ["Rest", "Shopping", "Night Stay: Islamabad"]
+              },
+              {
+                "day": "19",
+                "title": "Departure",
+                "activities": ["Back to Home Country"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
             "url": "",
             "title": "",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
@@ -2540,8 +6157,8 @@
             ],
             "description": "",
             "days": "",
-            "pickUp": "",
-            "dropOff": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
             "itinerary": [
               {
                 "day": "01",
@@ -2643,7 +6260,442 @@
                 "title": "",
                 "activities": []
               }
-            ]
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
+            "url": "",
+            "title": "",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "",
+            "days": "",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "02",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "03",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "04",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "05",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "06",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "07",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "08",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "09",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "10",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "11",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "12",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "13",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "14",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "15",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "16",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "17",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "18",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "19",
+                "title": "",
+                "activities": []
+              },
+              {
+                "day": "20",
+                "title": "",
+                "activities": []
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "insurance": "Personal Insurance",
+              "visa": "Visa  ( Supporting credentials will be provided)",
+              "personalItems": "Personal Use Items",
+              "internationalTickets": "International Air Tickets",
+              "tips": "Tips to guide and support staff",
+              "items": "Miscellaneous Items",
+              "else": "Anything not mentioned above"
+            }
           }
         ]
       }

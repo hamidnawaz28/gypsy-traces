@@ -10,6 +10,7 @@ const useStyles = makeStyles((theme) => {
       margin: 10,
       border: `1px solid ${grey[200]}`,
       borderRadius: 5,
+      paddingBottom: 10,
     },
     content: {
       padding: 10,

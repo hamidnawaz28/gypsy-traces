@@ -7,6 +7,7 @@ import { useTranslation } from "react-i18next";
 import { Card } from "../components/card";
 import { Footer } from "../containers/footer";
 import { makeStyles } from "@mui/styles";
+import { Team } from "../components/card";
 
 const useStyles = makeStyles((theme) => {
   return {
@@ -38,6 +39,21 @@ const AboutUs: NextPage = () => {
   const { t, i18n } = useTranslation();
   const { root, title } = useStyles();
 
+  const teamDetails = [
+    {
+      img: "bakhsh-ur-rehman.jpg",
+      name: "Bakhsh Ur Rehman",
+      designation: "CEO",
+      linkedin: "bakhsh-ur-rehman",
+    },
+    {
+      img: "hamid-nawaz.jpg",
+      name: "Hamid Nawaz",
+      designation: "Tech / Marketing",
+      linkedin: "hamidnawaz-",
+    },
+  ];
+
   return (
     <div>
       <Seo
@@ -66,6 +82,8 @@ const AboutUs: NextPage = () => {
           To facilitate our worthy clients in exploring the cultural and natural
           richness of Pakistan in eco friendly and cost effective manner.
         </p>
+        <h5 className={title}>Team</h5>
+        <Team team={teamDetails} />
       </main>
 
       <Footer />

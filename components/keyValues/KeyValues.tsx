@@ -1,6 +1,6 @@
 import tourLogos from "../icons/tourLogos";
+
 const KeyValues = ({ title, data, logo }) => {
-  console.log("----logos--", tourLogos);
   return (
     <div>
       <h3>

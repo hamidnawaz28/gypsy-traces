@@ -10,7 +10,6 @@ const useStyles = makeStyles((theme) => {
       margin: 10,
       border: `1px solid ${grey[200]}`,
       borderRadius: 5,
-      paddingBottom: 10,
     },
     content: {
       padding: 10,
@@ -39,6 +38,8 @@ interface ImgCardProps {
   title: string;
   details: string;
   imgSrc: string;
+  typeUrl: string;
+  packageUrl: string;
 }
 
 export default function ImgCard({
@@ -50,22 +51,19 @@ export default function ImgCard({
   days,
 }: ImgCardProps) {
   const { root, cardImage, content } = useStyles();
-
+  const url = `/details/${typeUrl}/${packageUrl}`;
   return (
-    <div className={root}>
-      <img src={imgSrc} className={cardImage} />
-      <div className={content}>
-        <p>
-          {"Days. "}
-          {days}
-        </p>
-        <h4>{title}</h4>
-        <Link href={`/details/${typeUrl}/${packageUrl}`} target={"_blank"}>
-          <Button color="primary" variant="contained" fullWidth>
-            Details
-          </Button>
-        </Link>
+    <Link href={url} target={"_blank"} underline="none" color="inherit">
+      <div className={root}>
+        <img src={imgSrc} className={cardImage} />
+        <div className={content}>
+          <p>
+            {"Days. "}
+            {days}
+          </p>
+          <h4>{title}</h4>
+        </div>
       </div>
-    </div>
+    </Link>
   );
 }

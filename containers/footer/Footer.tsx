@@ -70,8 +70,8 @@ export default function Footer() {
       <Grid container className={footerContainer}>
         <GridWrap>
           <h3>Location</h3>
-          <p>Office xxx, Example Town</p>
-          <p>Islamabad (ICT) Pakistan</p>
+          <p>Flat 6D/1, Askari Towers-II</p>
+          <p>Sector D, DHA-II, Islamabad Pakistan</p>
         </GridWrap>
         <GridWrap>
           <h3>Social Media</h3>
@@ -89,7 +89,7 @@ export default function Footer() {
             <YouTube />
           </Link>
           <Link
-            href="https://wa.me/qr/I37QMGAGKDOOA1"
+            href="https://wa.me/message/BQNERPAFPKHYE1"
             target="_blank"
             className={link}
           >
@@ -121,10 +121,10 @@ export default function Footer() {
         </GridWrap>
         <GridWrap>
           <h3>Contact</h3>
-          <a href="https://wa.me/qr/I37QMGAGKDOOA1" target="_black">
-            <img src="/others/qr-code.jpeg" alt="" width="60px" height="60px" />
+          <a href="https://wa.me/message/BQNERPAFPKHYE1" target="_black">
+            <img src="/others/qr-code.png" alt="" width="60px" height="60px" />
           </a>
-          <p style={{ textDecoration: "none" }}>sales@grpsytraces.pk</p>
+          <p style={{ textDecoration: "none" }}>info.grpsytours@gmail.pk</p>
         </GridWrap>
       </Grid>
       <Typography align="center" className={copyright}>

@@ -24,6 +24,7 @@ const useStyles = makeStyles((theme) => ({
   },
   title: {
     flexGrow: 1,
+    fontFamily: "Aller",
     color: "black",
     "& span:nth-child(1)": {
       color: theme.palette.primary.main,

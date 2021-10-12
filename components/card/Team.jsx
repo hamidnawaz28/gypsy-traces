@@ -11,8 +11,14 @@ const useStyles = makeStyles((theme) => {
     },
     image: {
       borderRadius: "50%",
-      width: 100,
-      height: 100,
+      [theme.breakpoints.down("sm")]: {
+        width: 60,
+        height: 60,
+      },
+      [theme.breakpoints.up("sm")]: {
+        width: 100,
+        height: 100,
+      },
     },
   };
 });

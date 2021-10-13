@@ -8,7 +8,7 @@ import { Card } from "../components/card";
 import { Footer } from "../containers/footer";
 import { makeStyles } from "@mui/styles";
 import { Team } from "../components/card";
-import { Typography } from "@mui/material";
+import { Typography, Link } from "@mui/material";
 
 const useStyles = makeStyles((theme: any) => {
   return {
@@ -51,6 +51,28 @@ const teamDetails = [
   },
 ];
 
+const affiliations = [
+  {
+    label: "FBR",
+    imgUrl: "FBR.png",
+    siteLink: "https://www.fbr.gov.pk",
+  },
+  {
+    label: "PATO",
+    imgUrl: "PATO.png",
+    siteLink: "https://www.pato.org.pk",
+  },
+  {
+    label: "SECP",
+    imgUrl: "secp.png",
+    siteLink: "https://www.secp.gov.pk",
+  },
+  {
+    label: "DTS",
+    imgUrl: "gov-pakistan.png",
+    siteLink: "https://www.dts.gov.pk",
+  },
+];
 const paraData = [
   {
     label: "CEO Message",
@@ -90,6 +112,25 @@ const AboutUs: NextPage = () => {
 
         <h5 className={title}>Team</h5>
         <Team team={teamDetails} />
+        <h5 className={title}>Our Affiliations</h5>
+        <div style={{ display: "flex", justifyContent: "space-around" }}>
+          {affiliations.map((el, id) => {
+            const imgSrc = `/affiliations/${el.imgUrl}`;
+            const label = el.label;
+            const siteLink = el.siteLink;
+            return (
+              <Link
+                href={siteLink}
+                key={id}
+                underline="none"
+                style={{ textAlign: "center" }}
+              >
+                <img src={imgSrc} alt={label} width="100px" />
+                <p>{label}</p>
+              </Link>
+            );
+          })}
+        </div>
       </main>
 
       <Footer />

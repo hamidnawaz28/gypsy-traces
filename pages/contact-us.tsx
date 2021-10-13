@@ -19,9 +19,16 @@ const useStyles = makeStyles((theme) => {
     },
   };
 });
+
 const ContactUs: NextPage = () => {
   const { t, i18n } = useTranslation();
   const { root, contact } = useStyles();
+
+  const whatsAppLink = "https://wa.me/qr/I37QMGAGKDOOA1";
+  const wAQrUrl = "/others/qr-code.png";
+  const mail = "info.gypsytours@gmail.pk";
+  const mapUrl = "/others/pakistan-map.png";
+  const contacts = ["+923005429539", "+923129936266"];
 
   return (
     <div>
@@ -31,23 +38,27 @@ const ContactUs: NextPage = () => {
         siteTitle="Gypsy Traces"
       />
       <main>
-        <img src="/others/pakistan-map.png" width="100%" alt="Pakistan Map" />
+        <img src={mapUrl} width="100%" alt="Pakistan Map" />
         <div className={root}>
           <h1>Contact Us!</h1>
           <div>
             <div>
-              <a href="https://wa.me/qr/I37QMGAGKDOOA1" target="_black">
+              <a href={whatsAppLink} target="_black">
                 <h4>WhatsApp</h4>
-                <img src="/others/qr-code.jpeg" alt="" width="300px" />
+                <img src={wAQrUrl} alt="" width="300px" />
               </a>
             </div>
             <div>
               <h4>Email</h4>
-              <p>sales@grpsytraces.pk</p>
+              <p>{mail}</p>
             </div>
             <div>
               <h4>Call</h4>
-              <p>+92xx-xxxxxxx</p>
+              {contacts.map((item, id) => (
+                <p key={id}>{item}</p>
+              ))}
+              <p></p>
+              <p></p>
             </div>
           </div>
         </div>

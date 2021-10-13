@@ -3,6 +3,7 @@ import { makeStyles } from "@mui/styles";
 import { grey } from "@mui/material/colors";
 import { Button, Link } from "@mui/material";
 import Image from "next/image";
+import { Typography } from "@mui/material";
 
 const useStyles = makeStyles((theme) => {
   return {
@@ -10,6 +11,9 @@ const useStyles = makeStyles((theme) => {
       margin: 10,
       border: `1px solid ${grey[200]}`,
       borderRadius: 5,
+      "&:hover": {
+        transform: "scale(1.05)",
+      },
     },
     content: {
       padding: 10,
@@ -20,6 +24,7 @@ const useStyles = makeStyles((theme) => {
     },
     cardImage: {
       width: "100%",
+
       [theme.breakpoints.down("xs")]: {
         height: "100px",
       },
@@ -40,6 +45,7 @@ interface ImgCardProps {
   imgSrc: string;
   typeUrl: string;
   packageUrl: string;
+  days: string;
 }
 
 export default function ImgCard({
@@ -53,17 +59,17 @@ export default function ImgCard({
   const { root, cardImage, content } = useStyles();
   const url = `/details/${typeUrl}/${packageUrl}`;
   return (
-    <Link href={url} target={"_blank"} underline="none" color="inherit">
-      <div className={root}>
+    <div className={root}>
+      <Link href={url} target={"_blank"} underline="none" color="inherit">
         <img src={imgSrc} className={cardImage} />
         <div className={content}>
-          <p>
+          <Typography variant="body2">
             {"Days. "}
             {days}
-          </p>
-          <h4>{title}</h4>
+          </Typography>
+          <Typography variant="body1">{title}</Typography>
         </div>
-      </div>
-    </Link>
+      </Link>
+    </div>
   );
 }

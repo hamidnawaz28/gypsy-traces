@@ -25,11 +25,11 @@ const ContactUs: NextPage = () => {
   const { root, contact } = useStyles();
 
   const whatsAppLink = "https://wa.me/qr/I37QMGAGKDOOA1";
+  const waMessage = "scan or click";
   const wAQrUrl = "/others/qr-code.png";
   const mail = "info.gypsytours@gmail.pk";
   const mapUrl = "/others/pakistan-map.png";
   const contacts = ["+923005429539", "+923129936266"];
-
   return (
     <div>
       <Seo
@@ -46,6 +46,7 @@ const ContactUs: NextPage = () => {
               <a href={whatsAppLink} target="_black">
                 <h4>WhatsApp</h4>
                 <img src={wAQrUrl} alt="" width="300px" />
+                <p>{waMessage}</p>
               </a>
             </div>
             <div>

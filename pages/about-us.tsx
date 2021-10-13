@@ -58,11 +58,6 @@ const affiliations = [
     siteLink: "https://www.fbr.gov.pk",
   },
   {
-    label: "PATO",
-    imgUrl: "PATO.png",
-    siteLink: "https://www.pato.org.pk",
-  },
-  {
     label: "SECP",
     imgUrl: "secp.png",
     siteLink: "https://www.secp.gov.pk",
@@ -71,6 +66,11 @@ const affiliations = [
     label: "DTS",
     imgUrl: "gov-pakistan.png",
     siteLink: "https://www.dts.gov.pk",
+  },
+  {
+    label: "PATO",
+    imgUrl: "PATO.png",
+    siteLink: "https://www.pato.org.pk",
   },
 ];
 const paraData = [

@@ -14,6 +14,9 @@ const useStyles = makeStyles((theme: any) => {
   return {
     root: {
       padding: "5% 20%",
+      "& p": {
+        textAlign: "justify",
+      },
     },
     title: {
       textAlign: "center",
@@ -113,6 +116,7 @@ const AboutUs: NextPage = () => {
         <h5 className={title}>Team</h5>
         <Team team={teamDetails} />
         <h5 className={title}>Our Affiliations</h5>
+        <p style={{ textAlign: "center" }}>We love to be authentic!</p>
         <div style={{ display: "flex", justifyContent: "space-around" }}>
           {affiliations.map((el, id) => {
             const imgSrc = `/affiliations/${el.imgUrl}`;

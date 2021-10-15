@@ -1,14 +1,8 @@
 import { NextPage } from "next";
-import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
 import { Seo } from "../components/seo";
 import { useTranslation } from "react-i18next";
-import { Card } from "../components/card";
 import { Footer } from "../containers/footer";
 import { makeStyles } from "@mui/styles";
-import { Team } from "../components/card";
-import { Typography, Link } from "@mui/material";
 
 const useStyles = makeStyles((theme: any) => {
   return {
@@ -28,7 +22,7 @@ const FAQs: NextPage = () => {
         siteTitle="Gypsy Traces"
       />
 
-      <main className={root}></main>
+      <main className={root}>FAQs</main>
 
       <Footer />
     </div>

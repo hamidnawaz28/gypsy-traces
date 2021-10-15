@@ -66,6 +66,10 @@ const siteLinks: any = [
     label: "Contact",
     href: "/contact-us",
   },
+  {
+    label: "FAQ's",
+    href: "/faqs",
+  },
 ];
 
 const email = "info.grpsytours@gmail.pk";

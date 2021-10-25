@@ -4,7 +4,7 @@ interface SeoProps {
   title: string;
   description: string;
   siteTitle: string;
-  tags?: Array<string> | [];
+  //   tags?: Array<string> | [''];
   imageUrl?: string | "";
   twitterUserName?: string | "";
   contentType?: string | "";
@@ -20,7 +20,7 @@ export default function SEO({
   title,
   siteTitle,
   description,
-  tags,
+  //   tags,
   imageUrl,
   contentType,
   twitterUserName,
@@ -31,7 +31,7 @@ export default function SEO({
   siteUrl,
   fbId,
 }: SeoProps) {
-  const allTags = tags.join(",");
+  //   const allTags = tags.join(",");
   return (
     <Head>
       <title>{`${title}`}</title>
@@ -46,7 +46,7 @@ export default function SEO({
 
       {/* Web SEO */}
       <title>{`${title} | ${siteTitle}`}</title>
-      <meta name="keywords" content={allTags} />
+      {/* <meta name="keywords" content={allTags} /> */}
       <meta name="description" content={description} />
 
       {/* FB SEO */}

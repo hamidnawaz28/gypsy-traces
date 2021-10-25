@@ -58,10 +58,12 @@ export default function ImgCard({
 }: ImgCardProps) {
   const { root, cardImage, content } = useStyles();
   const url = `/details/${typeUrl}/${packageUrl}`;
+  const imgPath = `/details/${typeUrl}/${packageUrl}/thumbnail.png`;
+
   return (
     <div className={root}>
       <Link href={url} target={"_blank"} underline="none" color="inherit">
-        <img src={imgSrc} className={cardImage} />
+        <img src={imgPath} className={cardImage} />
         <div className={content}>
           <Typography variant="body2">
             {"Days. "}

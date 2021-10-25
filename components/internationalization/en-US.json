@@ -385,8 +385,8 @@
           },
 
           {
-            "url": "gandhara-civilization-tour",
-            "title": "Gandhara Civilization Tour",
+            "url": "gandhara-civilization-tour-1",
+            "title": "Gandhara Civilization Tour 1",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -1238,8 +1238,8 @@
             }
           },
           {
-            "url": "pakistan-heritage-sites-tour",
-            "title": "Pakistan Heritage Sites Tour",
+            "url": "pakistan-heritage-sites-tour-1",
+            "title": "Pakistan Heritage Sites Tour 1",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -1813,9 +1813,9 @@
           }
         ]
       },
-      "siteseeing": {
-        "title": "Siteseeing",
-        "url": "siteseeing",
+      "sightseeing": {
+        "title": "Sightseeing",
+        "url": "sightseeing",
         "seoTitle": "top cultural sites in pakistan",
         "details": [
           {
@@ -2091,7 +2091,7 @@
             }
           },
           {
-            "url": "Chitral Jeep Safari",
+            "url": "chitral-jeep-safari",
             "title": "Chitral Jeep Safari",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
@@ -2427,7 +2427,7 @@
             }
           },
           {
-            "url": "Hunza Valley Tour",
+            "url": "hunza-valley-tour",
             "title": "Hunza Valley Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
@@ -3109,7 +3109,7 @@
           },
           {
             "url": "hunza-valley-tour",
-            "title": "HunzaValley Tour",
+            "title": "Hunza Valley Tour",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
             "siteImagesUrl": [
@@ -5430,7 +5430,7 @@
             }
           },
           {
-            "url": "Rush Lake Trek",
+            "url": "rush-lake-trek",
             "title": "Rush Lake Trek",
             "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
             "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",

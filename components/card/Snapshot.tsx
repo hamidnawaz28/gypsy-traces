@@ -1,7 +1,8 @@
 import { makeStyles } from "@mui/styles";
 import { CalendarToday, ArrowForwardIos } from "@mui/icons-material";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {
       borderRadius: 5,
@@ -43,7 +44,7 @@ const SnapShot = ({ days, from, to }: SnapShotInterface) => {
           <span
             style={{
               verticalAlign: "top",
-              paddingleft: 10,
+              padding: "0px 0px 0px 10px",
               textDecoration: "underline",
             }}
           >

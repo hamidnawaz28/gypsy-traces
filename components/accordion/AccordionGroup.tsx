@@ -3,11 +3,13 @@ import Accordion from "./Accordion";
 import { ExpandMore } from "@mui/icons-material";
 import { Timeline } from "../timeline";
 import { Timeline as TimelineWrap } from "@mui/lab";
+import { Theme } from "@mui/system";
+
 interface AppProps {
   dataArr: object[];
 }
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles((theme: Theme) => ({
   root: {
     [theme.breakpoints.down("sm")]: {
       width: "100%",
@@ -30,12 +32,12 @@ export default function AccordianGroup({ dataArr }: AppProps) {
   return (
     <div className={root}>
       <TimelineWrap position="right">
-        {dataArr?.map((item, key) => (
+        {dataArr?.map((item: any, key: number) => (
           <Timeline key={key} day={item.day}>
             <Accordion
               title={item.title}
               activities={item.activities}
-              id={key}
+              key={key}
               day={item.day}
             />
           </Timeline>

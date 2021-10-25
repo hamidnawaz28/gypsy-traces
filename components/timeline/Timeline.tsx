@@ -10,6 +10,7 @@ import {
 
 type AppProps = {
   children: ReactNode;
+  day?: number | string;
 };
 
 export default function Timeline({ children, day }: AppProps) {

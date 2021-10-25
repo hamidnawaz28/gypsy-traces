@@ -7,15 +7,15 @@ import {
   Typography,
 } from "@mui/material";
 import { ExpandMore } from "@mui/icons-material";
+import { Theme } from "@mui/system";
 
 type AccordianProps = {
   title: string;
-  details: string;
   activities: any;
   day: any;
 };
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles((theme: Theme) => ({
   heading: {
     // fontSize: theme.typography.pxToRem(15),
     // fontWeight: theme.typography.fontWeightRegular,
@@ -43,9 +43,9 @@ export default function SimpleAccordion({
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        {activities.map((item) => {
+        {activities.map((item, id) => {
           return (
-            <Typography>
+            <Typography key={id}>
               {"• "}
               {item}
             </Typography>

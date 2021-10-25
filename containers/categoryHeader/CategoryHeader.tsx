@@ -1,7 +1,8 @@
 import { makeStyles } from "@mui/styles";
 import { useTheme } from "@mui/styles";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {
       textAlign: "center",

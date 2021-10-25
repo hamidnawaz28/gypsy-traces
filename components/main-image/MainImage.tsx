@@ -1,7 +1,9 @@
 import { makeStyles } from "@mui/styles";
 import { Typography } from "@mui/material";
 import globalClasses from "../theme/globalClasses";
-const useStyles = makeStyles((theme) => {
+import { Theme } from "@mui/system";
+
+const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {
       position: "relative",

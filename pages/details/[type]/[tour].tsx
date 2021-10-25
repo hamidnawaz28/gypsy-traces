@@ -14,8 +14,9 @@ import { MainImage } from "../../../components/main-image";
 import { CheckCircle, Cancel } from "@mui/icons-material";
 import { Snapshot } from "../../../components/card";
 import { makeStyles } from "@mui/styles";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     detailContainer: {
       padding: "1% 2%",

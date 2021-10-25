@@ -3,8 +3,9 @@ import { Seo } from "../components/seo";
 import { useTranslation } from "react-i18next";
 import { Footer } from "../containers/footer";
 import { makeStyles } from "@mui/styles";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme: any) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {},
   };

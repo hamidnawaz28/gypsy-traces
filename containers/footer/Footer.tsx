@@ -2,8 +2,9 @@ import styles from "../../styles/Home.module.css";
 import { Grid, Typography, Link } from "@mui/material";
 import { Facebook, YouTube, Instagram, WhatsApp } from "@mui/icons-material";
 import { makeStyles } from "@mui/styles";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme: any) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     footer: {
       width: "100%",
@@ -42,14 +43,6 @@ const useStyles = makeStyles((theme: any) => {
   };
 });
 
-const breakpoints = {
-  xs: 6,
-  sm: 6,
-  md: 3,
-  lg: 3,
-  xl: 3,
-};
-
 const links: any = {
   facebook: "http://www.facebook.com",
   instagram: "http://www.instagram.com",
@@ -84,12 +77,6 @@ const address = [
 export default function Footer() {
   const { grid, footer, copyright, footerContainer, link } = useStyles();
 
-  const GridWrap = ({ children }: any) => (
-    <Grid {...breakpoints} item className={grid}>
-      {children}
-    </Grid>
-  );
-
   const icons: any = {
     facebook: <Facebook />,
     instagram: <Instagram />,
@@ -100,13 +87,13 @@ export default function Footer() {
   return (
     <footer className={footer}>
       <Grid container className={footerContainer}>
-        <GridWrap>
+        <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Location</h3>
           {address.map((el, id) => (
             <p key={id}>{el}</p>
           ))}
-        </GridWrap>
-        <GridWrap>
+        </Grid>
+        <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Social Media</h3>
           {Object.keys(links).map((item: any, id: number) => {
             const url = links[item];
@@ -116,8 +103,8 @@ export default function Footer() {
               </Link>
             );
           })}
-        </GridWrap>
-        <GridWrap>
+        </Grid>
+        <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Links</h3>
           {siteLinks.map((item: any, id: number) => {
             return (
@@ -133,14 +120,14 @@ export default function Footer() {
               </p>
             );
           })}
-        </GridWrap>
-        <GridWrap>
+        </Grid>
+        <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Contact</h3>
           <a href={waLink} target="_black">
             <img src={qrUrl} alt={qrAlt} width="60px" height="60px" />
           </a>
           <p style={{ textDecoration: "none" }}>{email}</p>
-        </GridWrap>
+        </Grid>
       </Grid>
       <Typography align="center" className={copyright}>
         @Copyright! All Rights Reserved 2021

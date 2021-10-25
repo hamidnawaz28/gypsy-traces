@@ -11,8 +11,9 @@ import {
 } from "@mui/material";
 import { Menu } from "@mui/icons-material";
 import { CompanyLogo } from "../../components/icons";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles((theme: Theme) => ({
   root: {
     flexGrow: 1,
     backgroundColor: "white",

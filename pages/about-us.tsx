@@ -9,8 +9,9 @@ import { Footer } from "../containers/footer";
 import { makeStyles } from "@mui/styles";
 import { Team } from "../components/card";
 import { Typography, Link } from "@mui/material";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme: any) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {
       padding: "5% 20%",

@@ -1,7 +1,8 @@
 import { makeStyles } from "@mui/styles";
 import { LinkedIn } from "@mui/icons-material";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {
       textAlign: "center",
@@ -27,10 +28,10 @@ const Team = ({ team }) => {
   const { root, image } = useStyles();
   return (
     <div className={root}>
-      {team.map((item) => {
+      {team.map((item, id) => {
         const { img, name, designation, linkedin } = item;
         return (
-          <div>
+          <div key={id}>
             <img src={`/team/${img}`} alt={name} className={image} />
             <h3>{name}</h3>
             <p>{designation}</p>

@@ -3,8 +3,9 @@ import { grey } from "@mui/material/colors";
 import { Button, Link } from "@mui/material";
 import Image from "next/image";
 import { Typography } from "@mui/material";
+import { Theme } from "@mui/system";
 
-const useStyles = makeStyles((theme) => {
+const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {
       margin: 10,

@@ -1,6 +1,7 @@
 import { makeStyles } from "@mui/styles";
+import { Theme } from "@mui/system";
 
-const globalClasses = makeStyles((theme) => {
+const globalClasses = makeStyles((theme: any) => {
   return {
     button: {
       backgroundColor: theme.palette.secondary.main,

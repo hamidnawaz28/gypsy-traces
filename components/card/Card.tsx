@@ -1,4 +1,3 @@
-import { NextPage } from "next";
 import { makeStyles } from "@mui/styles";
 import { grey } from "@mui/material/colors";
 import { Button, Link } from "@mui/material";

@@ -1,5 +1,4 @@
-import { NextPage } from "next";
-const HomeAnimation: NextPage = () => {
+const HomeAnimation = () => {
   return (
     <>
       <img src="/homepage/world-famous-destinations.png" width="100%" />

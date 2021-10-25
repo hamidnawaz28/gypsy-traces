@@ -1,4 +1,3 @@
-import { NextPage } from "next";
 import { makeStyles } from "@mui/styles";
 
 import {
@@ -13,6 +12,7 @@ type AccordianProps = {
   title: string;
   details: string;
   activities: any;
+  day: any;
 };
 
 const useStyles = makeStyles((theme) => ({
@@ -26,7 +26,7 @@ export default function SimpleAccordion({
   title,
   activities,
   day,
-}: AccordianProps): NextPage {
+}: AccordianProps) {
   const classes = useStyles();
   const { heading } = classes;
 

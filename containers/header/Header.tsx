@@ -1,4 +1,3 @@
-import { NextPage } from "next";
 import { makeStyles } from "@mui/styles";
 
 import {

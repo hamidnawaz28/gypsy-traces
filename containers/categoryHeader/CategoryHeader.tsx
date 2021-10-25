@@ -1,6 +1,5 @@
 import { makeStyles } from "@mui/styles";
 import { useTheme } from "@mui/styles";
-import { NextPage } from "next";
 
 const useStyles = makeStyles((theme) => {
   return {
@@ -19,7 +18,7 @@ const useStyles = makeStyles((theme) => {
 interface CategoryHeaderProps {
   title: string;
 }
-const CategoryHeader: NextPage = ({ title }: CategoryHeaderProps) => {
+const CategoryHeader = ({ title }: CategoryHeaderProps) => {
   const theme = useTheme();
   const { root } = useStyles({ theme });
   return (

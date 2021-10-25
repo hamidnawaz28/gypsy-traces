@@ -33,7 +33,7 @@ const useStyles = makeStyles((theme: Theme) => {
       [theme.breakpoints.between("lg", "xl")]: {
         fontSize: 40,
       },
-      [theme.breakpoints.up("xl", "")]: {
+      [theme.breakpoints.up("xl")]: {
         fontSize: 50,
       },
     },

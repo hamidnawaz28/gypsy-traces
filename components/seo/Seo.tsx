@@ -62,14 +62,14 @@ export default function SEO({
       <meta property="og:image" content={imageUrl} />
 
       {/* Twitter SEO */}
-      <meta name="twitter:site" value={twitterUserName} />
-      <meta name="twitter:title" value={title} />
-      <meta property="twitter:card" value="summary" />
-      <meta property="twitter:description" value={description} />
-      <meta name="twitter:image" value={imageUrl} />
-      <meta name="twitter:creator" value={twitterUserName} />
-      <meta name="twitter:domain" value={siteUrl} />
-      <meta name="twitter:url" value={pageUrl} />
+      <meta name="twitter:site" content={twitterUserName} />
+      <meta name="twitter:title" content={title} />
+      <meta property="twitter:card" content="summary" />
+      <meta property="twitter:description" content={description} />
+      <meta name="twitter:image" content={imageUrl} />
+      <meta name="twitter:creator" content={twitterUserName} />
+      <meta name="twitter:domain" content={siteUrl} />
+      <meta name="twitter:url" content={pageUrl} />
 
       {/* Company Logo */}
       <link rel="icon" href={companyLogo} />

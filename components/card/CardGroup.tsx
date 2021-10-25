@@ -33,35 +33,39 @@ export default function CardGroup({ dataArr }: AppProps) {
   const { root, trekContainer } = useStyles();
   const categories: string[] = Object.keys(dataArr);
 
-  return categories.map((item, key) => {
-    const { title, url: typeUrl, details } = dataArr[item];
+  return (
+    <>
+      {categories.map((item, key) => {
+        const { title, url: typeUrl, details } = dataArr[item];
 
-    return (
-      <Grid className={root} key={key}>
-        {details.length > 0 && <CategoryHeader title={title} />}
-        <Grid container className={trekContainer}>
-          {details.map((item, id: number) => {
-            const {
-              title: cardTitle,
-              description,
-              thumbnailImage,
-              days,
-              url: packageUrl,
-            } = item;
-            return (
-              <Card
-                key={id}
-                title={cardTitle}
-                details={description}
-                imgSrc={thumbnailImage}
-                typeUrl={typeUrl}
-                packageUrl={packageUrl}
-                days={days}
-              />
-            );
-          })}
-        </Grid>
-      </Grid>
-    );
-  });
+        return (
+          <Grid className={root} key={key}>
+            {details.length > 0 && <CategoryHeader title={title} />}
+            <Grid container className={trekContainer}>
+              {details.map((item, id: number) => {
+                const {
+                  title: cardTitle,
+                  description,
+                  thumbnailImage,
+                  days,
+                  url: packageUrl,
+                } = item;
+                return (
+                  <Card
+                    key={id}
+                    title={cardTitle}
+                    details={description}
+                    imgSrc={thumbnailImage}
+                    typeUrl={typeUrl}
+                    packageUrl={packageUrl}
+                    days={days}
+                  />
+                );
+              })}
+            </Grid>
+          </Grid>
+        );
+      })}
+    </>
+  );
 }

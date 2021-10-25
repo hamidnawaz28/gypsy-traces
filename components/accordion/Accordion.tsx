@@ -12,6 +12,7 @@ import { ExpandMore } from "@mui/icons-material";
 type AccordianProps = {
   title: string;
   details: string;
+  activities: any;
 };
 
 const useStyles = makeStyles((theme) => ({

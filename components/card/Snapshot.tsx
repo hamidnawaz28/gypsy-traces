@@ -54,16 +54,12 @@ const SnapShot = ({ days, from, to }: SnapShotInterface) => {
         </div>
         <div className={destination}>
           <div>
-            <div></div>
-            <div>From</div>
             <div>{from}</div>
           </div>
           <div style={{ margin: "auto" }}>
             <ArrowForwardIos color="secondary" />
           </div>
           <div>
-            <div></div>
-            <div>To</div>
             <div>{to}</div>
           </div>
         </div>

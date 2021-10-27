@@ -55,7 +55,7 @@ export default function ButtonAppBar() {
           <Typography variant="h6" className={classes.title}>
             <Link href="/" underline="none">
               <span>Gypsy</span>
-              <span>Traces</span>
+              <span>Tours</span>
             </Link>
           </Typography>
           <Link href="/" underline="none">

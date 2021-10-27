@@ -25,7 +25,7 @@ const ContactUs: NextPage = () => {
   const { t, i18n } = useTranslation();
   const { root, contact } = useStyles();
 
-  const whatsAppLink = "https://wa.me/qr/I37QMGAGKDOOA1";
+  const whatsAppLink = "https://wa.me/message/BQNERPAFPKHYE1";
   const waMessage = "scan or click";
   const wAQrUrl = "/others/qr-code.png";
   const mail = "info.gypsytours@gmail.pk";

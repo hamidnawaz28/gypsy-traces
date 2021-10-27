@@ -79,6 +79,13 @@ const affiliations = [
 ];
 const paraData = [
   {
+    label: "About Us",
+    para: `“Gypsy Traces & Tours Private Limited” is a purpose-built tour operating company that helps our worthy clients in searching for inner peace through exploring the hidden traces of happiness in mother nature. Women/men is by nature ‘gypsy’ with the innate sense of exploring nature and  extending the frontiers of self satisfaction. Our team is trained to help you in exploring the ‘gypsy’ in you and liberate you from the clutches of the orderly  to the vastness of free nature. 
+  Pakistan is blessed with the richness of nature, climate and cultural heritage. The high mountains of the North, green foothills around Khyber Pakhtunkhwa, Kashmir and Potohar, cultivated plains of Punjab and Sindh, and the rugged deserts of Balochistan. The crossroad of Indus Civilization and Gandara Civilization make Pakistan rich in cultural traces. We sincerely try to show our clients their places of choice in Pakistan with the help of our experienced and well-groomed tour staff.
+  Our team of Directors is a blend of professionals who bring unique experiences to our business and provide valuable input for better planning of our customized tours. A retired security management expert, a medical specialist, a senior lawyer, a retired teacher, a financial professional and a young tour organizer make up our core team. This team is available for hands on consultation on issues of mutual benefit/concern.
+ Cultural tourism, religious tourism, ecological tourism, educational tourism, health tourism and alpine tracking are our domain of activities. We are visible on all types of social media platforms for information and easy contact.`,
+  },
+  {
     label: "CEO Message",
     para: `Humans are nomadic specie in search of inner peace and happiness. He/She enjoys exploring his/her seld in the context of the physical traces of the past nomadic envoironment and the extents of mother nature. Me and my team at gypsy Traces & Tours private limited will make an endeavour to assist you in realization of your inner peace and real happiness.`,
   },

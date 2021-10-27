@@ -42,9 +42,15 @@ const useStyles = makeStyles((theme: Theme) => {
 
 const teamDetails = [
   {
+    img: "zahid-hussain.jpeg",
+    name: "Zahid Hussain",
+    designation: "CEO",
+    linkedin: "zahid-hussain-a9860464",
+  },
+  {
     img: "bakhsh-ur-rehman.jpg",
     name: "Bakhsh Ur Rehman",
-    designation: "CEO",
+    designation: "Director Operations",
     linkedin: "bakhsh-ur-rehman",
   },
   {

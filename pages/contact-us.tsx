@@ -29,7 +29,7 @@ const ContactUs: NextPage = () => {
   const waMessage = "scan or click";
   const wAQrUrl = "./others/qr-code.jpg";
   const mail = "info.gypsytours@gmail.pk";
-  const mapUrl = "./others/pakistan-map.png";
+  const mapUrl = "./others/pakistan-map.PNG";
   const contacts = ["+923005429539", "+923129936266"];
   return (
     <div>

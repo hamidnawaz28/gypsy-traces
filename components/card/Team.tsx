@@ -33,8 +33,8 @@ const Team = ({ team }) => {
         return (
           <div key={id}>
             <img src={`/team/${img}`} alt={name} className={image} />
-            <h3>{name}</h3>
-            <p>{designation}</p>
+            <h3 style={{ textAlign: "center" }}>{name}</h3>
+            <p style={{ textAlign: "center" }}>{designation}</p>
             <a href={`https://www.linkedin.com/in/${linkedin}/`}>
               <LinkedIn style={{ fontSize: 30, color: "blue" }} />
             </a>

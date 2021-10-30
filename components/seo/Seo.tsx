@@ -72,7 +72,7 @@ export default function SEO({
       <meta name="twitter:url" content={pageUrl} />
 
       {/* Company Logo */}
-      <link rel="icon" href={companyLogo} />
+      <link rel="icon" href={"./logo/gypsy-tours.png"} />
     </Head>
   );
 }

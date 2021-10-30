@@ -16,7 +16,7 @@ const useStyles = makeStyles((theme: Theme) => {
     root: {
       padding: "5% 20%",
       [theme.breakpoints.down("sm")]: {
-        padding: "5% 2%",
+        padding: "5% 5%",
       },
       "& p": {
         textAlign: "justify",
@@ -60,13 +60,13 @@ const teamDetails = [
   {
     img: "bakhsh-ur-rehman.jpg",
     name: "Bakhsh Ur Rehman",
-    designation: "Director Operations",
+    designation: "Dir. Opera",
     linkedin: "bakhsh-ur-rehman",
   },
   {
     img: "hamid-nawaz.jpg",
     name: "Hamid Nawaz",
-    designation: "Tech / Marketing",
+    designation: "Tech / Mark.",
     linkedin: "hamidnawaz-",
   },
 ];

@@ -1,6 +1,13 @@
 import styles from "../../styles/Home.module.css";
 import { Grid, Typography, Link } from "@mui/material";
-import { Facebook, YouTube, Instagram, WhatsApp } from "@mui/icons-material";
+import {
+  Facebook,
+  YouTube,
+  Instagram,
+  WhatsApp,
+  LinkedIn,
+  Twitter,
+} from "@mui/icons-material";
 import { makeStyles } from "@mui/styles";
 import { Theme } from "@mui/system";
 
@@ -43,13 +50,6 @@ const useStyles = makeStyles((theme: Theme) => {
   };
 });
 
-const links: any = {
-  facebook: "http://www.facebook.com",
-  instagram: "http://www.instagram.com",
-  whatsapp: "https://wa.me/message/BQNERPAFPKHYE1",
-  youtube: "http://www.youtube.com",
-};
-
 const siteLinks: any = [
   {
     label: "About Us",
@@ -77,12 +77,32 @@ const address = [
 export default function Footer() {
   const { grid, footer, copyright, footerContainer, link } = useStyles();
 
-  const icons: any = {
-    facebook: <Facebook fontSize="large" />,
-    instagram: <Instagram fontSize="large" />,
-    whatsapp: <WhatsApp fontSize="large" />,
-    youtube: <YouTube fontSize="large" />,
-  };
+  const icons: any = [
+    {
+      icon: <Facebook fontSize="large" />,
+      url: "https://www.facebook.com/GypsyTracesAndTours",
+    },
+    {
+      icon: <Instagram fontSize="large" />,
+      url: "http://www.instagram.com/gypsytours.pk",
+    },
+    {
+      icon: <WhatsApp fontSize="large" />,
+      url: "https://wa.me/message/BQNERPAFPKHYE1",
+    },
+    {
+      icon: <YouTube fontSize="large" />,
+      url: "https://www.youtube.com/channel/UC8-2Mh1V_U5LHWFrMZbAPvw",
+    },
+    {
+      icon: <LinkedIn fontSize="large" />,
+      url: "https://www.linkedin.com/in/gypsy-traces-and-tours-b9269b222/",
+    },
+    {
+      icon: <Twitter fontSize="large" />,
+      url: "https://twitter.com/GypsyTourspk",
+    },
+  ];
 
   return (
     <footer className={footer}>
@@ -95,11 +115,11 @@ export default function Footer() {
         </Grid>
         <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Social Media</h3>
-          {Object.keys(links).map((item: any, id: number) => {
-            const url = links[item];
+          {icons.map((el: any, id: number) => {
+            const { url, icon } = el;
             return (
               <Link href={url} target="_blank" className={link} key={id}>
-                {icons[item]}
+                {icon}
               </Link>
             );
           })}

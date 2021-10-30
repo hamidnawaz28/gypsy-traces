@@ -7,7 +7,7 @@ const useStyles = makeStyles((theme: Theme) => {
     root: {
       textAlign: "center",
       display: "flex",
-      justifyContent: "space-around",
+      justifyContent: "space-between",
       padding: 20,
     },
     image: {

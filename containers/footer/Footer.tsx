@@ -67,7 +67,7 @@ const siteLinks: any = [
 
 const email = "info.grpsytours@gmail.pk";
 const waLink = "https://wa.me/message/BQNERPAFPKHYE1";
-const qrUrl = "/others/qr-code.png";
+const qrUrl = "./others/qr-code.jpg";
 const qrAlt = "Gypsy Traces QR";
 const address = [
   "Flat 6D/1, Askari Towers-II",
@@ -78,10 +78,10 @@ export default function Footer() {
   const { grid, footer, copyright, footerContainer, link } = useStyles();
 
   const icons: any = {
-    facebook: <Facebook />,
-    instagram: <Instagram />,
-    whatsapp: <WhatsApp />,
-    youtube: <YouTube />,
+    facebook: <Facebook fontSize="large" />,
+    instagram: <Instagram fontSize="large" />,
+    whatsapp: <WhatsApp fontSize="large" />,
+    youtube: <YouTube fontSize="large" />,
   };
 
   return (

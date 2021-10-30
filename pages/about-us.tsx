@@ -37,12 +37,19 @@ const useStyles = makeStyles((theme: Theme) => {
         fontSize: 50,
       },
     },
+    affiliation: {
+      display: "grid",
+      gridTemplateColumns: "repeat(4,1fr)",
+      [theme.breakpoints.down("sm")]: {
+        gridTemplateColumns: "repeat(2,1fr)",
+      },
+    },
   };
 });
 
 const teamDetails = [
   {
-    img: "zahid-hussain.jpeg",
+    img: "zahid-hussain.jpg",
     name: "Zahid Hussain",
     designation: "CEO",
     linkedin: "zahid-hussain-a9860464",
@@ -107,7 +114,7 @@ const paraData = [
 
 const AboutUs: NextPage = () => {
   const { t, i18n } = useTranslation();
-  const { root, title } = useStyles();
+  const { root, title, affiliation } = useStyles();
 
   return (
     <div>
@@ -131,7 +138,7 @@ const AboutUs: NextPage = () => {
         <Team team={teamDetails} />
         <h5 className={title}>Our Affiliations</h5>
         <p style={{ textAlign: "center" }}>We love to be authentic!</p>
-        <div style={{ display: "flex", justifyContent: "space-around" }}>
+        <div className={affiliation}>
           {affiliations.map((el, id) => {
             const imgSrc = `/affiliations/${el.imgUrl}`;
             const label = el.label;
@@ -141,7 +148,13 @@ const AboutUs: NextPage = () => {
                 href={siteLink}
                 key={id}
                 underline="none"
-                style={{ textAlign: "center" }}
+                style={{
+                  textAlign: "center",
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems: "center",
+                  justifyContent: "end",
+                }}
               >
                 <img src={imgSrc} alt={label} width="100px" />
                 <p>{label}</p>

@@ -26,7 +26,7 @@ export default function SEO({
   const siteData = {
     twitterUserName: "@GypsyTourspk",
     companyLogo: "./logo/gypsy-tours.png",
-    fbId: "https://www.facebook.com/GypsyTracesAndTours",
+    fbId: "438310884342555",
     siteName: "Gypsy Tours",
     siteUrl: "https://www.gypsytours.pk/",
   };

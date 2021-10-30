@@ -35,8 +35,9 @@ const ContactUs: NextPage = () => {
     <div>
       <Seo
         description="Home package for travel packages"
-        title="Contact"
-        siteTitle="Gypsy Traces"
+        pageTitle="Contact"
+        contentTitle={"Contact page of gypsy tours"}
+        pageUrl={`contact-us`}
       />
       <main>
         <img src={mapUrl} width="100%" alt="Pakistan Map" />

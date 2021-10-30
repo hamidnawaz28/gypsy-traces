@@ -19,8 +19,11 @@ const FAQs: NextPage = () => {
     <div>
       <Seo
         description="Home package for travel packages"
-        title="FAQ's"
-        siteTitle="Gypsy Traces"
+        pageTitle="FAQ"
+        contentTitle={
+          "FAQ about gypsy tours, traveling to Pakistan and our tour packages."
+        }
+        pageUrl={`faqs`}
       />
 
       <main className={root}>FAQs</main>

@@ -25,8 +25,9 @@ const Home: NextPage = () => {
     <div>
       <Seo
         description="Home package for travel packages"
-        title="Home"
-        siteTitle="Gypsy Traces"
+        pageTitle="Home"
+        contentTitle={"Top destinations to travel in Pakistan"}
+        pageUrl={``}
       />
       <main>
         <HomeAnimation />

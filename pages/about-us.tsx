@@ -123,8 +123,9 @@ const AboutUs: NextPage = () => {
     <div>
       <Seo
         description="Home package for travel packages"
-        title="About Us"
-        siteTitle="Gypsy Traces"
+        pageTitle="About Us"
+        contentTitle={"About us page of gypsy tours"}
+        pageUrl={`about-us`}
       />
 
       <main className={root}>

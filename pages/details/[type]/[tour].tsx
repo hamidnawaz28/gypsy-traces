@@ -71,9 +71,11 @@ const Details: NextPage = () => {
   return (
     <>
       <Seo
-        description="Home package for travel packages"
-        title="Details"
-        siteTitle={title}
+        description={description}
+        pageTitle="Details"
+        contentTitle={title}
+        pageUrl={`details/${type}/${tour}`}
+        imageUrl={mainImageUrl}
       />
       <main>
         <MainImage src={mainImageUrl} title={title} />

@@ -1,40 +1,39 @@
 import Head from "next/head";
 
 interface SeoProps {
-  title: string;
+  pageTitle: string;
+  contentTitle: string;
   description: string;
-  siteTitle: string;
-  //   tags?: Array<string> | [''];
+  tags?: Array<string> | [""];
   imageUrl?: string | "";
-  twitterUserName?: string | "";
   contentType?: string | "";
-  pageUrl?: string | "";
-  siteName?: string | "";
-  companyLogo?: string | "";
-  language?: string | "";
-  siteUrl?: string | "";
-  fbId?: string | "";
+  pageUrl: string | "";
+  language?: string | "en";
 }
 
 export default function SEO({
-  title,
-  siteTitle,
+  pageTitle,
+  contentTitle,
   description,
-  //   tags,
+  tags,
   imageUrl,
   contentType,
-  twitterUserName,
   pageUrl,
-  siteName,
-  companyLogo,
   language,
-  siteUrl,
-  fbId,
 }: SeoProps) {
-  //   const allTags = tags.join(",");
+  const allTags = tags?.join(",");
+
+  const siteData = {
+    twitterUserName: "@GypsyTourspk",
+    companyLogo: "./logo/gypsy-tours.png",
+    fbId: "https://www.facebook.com/GypsyTracesAndTours",
+    siteName: "Gypsy Tours",
+    siteUrl: "https://www.gypsytours.pk/",
+  };
+  const url = `${siteData.siteUrl}${pageUrl}`;
+
   return (
     <Head>
-      <title>{`${title}`}</title>
       <meta charSet="UTF-8" />
       <meta
         name="viewport"
@@ -45,34 +44,32 @@ export default function SEO({
       <meta name="robots" content="noodp" />
 
       {/* Web SEO */}
-      <title>{`${title} | ${siteTitle}`}</title>
+      <title>{`${pageTitle} | ${siteData.siteName}`}</title>
       {/* <meta name="keywords" content={allTags} /> */}
       <meta name="description" content={description} />
 
       {/* FB SEO */}
-      <meta property="fb:app_id" content={fbId} />
       <meta property="og:type" content={contentType || "article"} />
-      <meta property="og:title" content={title} />
+      <meta property="og:site_name" content={siteData.siteName} />
+      <meta property="og:title" content={contentTitle} />
       <meta property="og:description" content={description} />
-
-      <meta property="og:url" content={pageUrl} />
-
-      <meta property="og:site_name" content={siteName} />
-      <meta property="og:locale" content={language} />
+      <meta property="og:url" content={url} />
       <meta property="og:image" content={imageUrl} />
+      <meta property="fb:app_id" content={siteData.fbId} />
+      <meta property="og:locale" content={language} />
 
       {/* Twitter SEO */}
-      <meta name="twitter:site" content={twitterUserName} />
-      <meta name="twitter:title" content={title} />
-      <meta property="twitter:card" content="summary" />
+      <meta name="twitter:site" content={siteData.twitterUserName} />
+      <meta name="twitter:title" content={contentTitle} />
       <meta property="twitter:description" content={description} />
+      <meta name="twitter:url" content={url} />
       <meta name="twitter:image" content={imageUrl} />
-      <meta name="twitter:creator" content={twitterUserName} />
-      <meta name="twitter:domain" content={siteUrl} />
-      <meta name="twitter:url" content={pageUrl} />
+      <meta name="twitter:creator" content={siteData.twitterUserName} />
+      <meta name="twitter:domain" content={siteData.siteUrl} />
+      <meta property="twitter:card" content="summary" />
 
       {/* Company Logo */}
-      <link rel="icon" href={"./logo/gypsy-tours.png"} />
+      <link rel="icon" href={siteData.companyLogo} />
     </Head>
   );
 }

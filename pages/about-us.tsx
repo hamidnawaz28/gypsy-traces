@@ -15,6 +15,9 @@ const useStyles = makeStyles((theme: Theme) => {
   return {
     root: {
       padding: "5% 20%",
+      [theme.breakpoints.down("sm")]: {
+        padding: "5% 2%",
+      },
       "& p": {
         textAlign: "justify",
       },

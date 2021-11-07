@@ -3,11 +3,13 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import { Seo } from "../components/seo";
+import { Link } from "@mui/material";
 import { useTranslation } from "react-i18next";
 import { Card } from "../components/card";
 import { Footer } from "../containers/footer";
 import { makeStyles } from "@mui/styles";
 import { Theme } from "@mui/system";
+import { WhatsApp } from "@mui/icons-material";
 
 const useStyles = makeStyles((theme: Theme) => {
   return {
@@ -50,6 +52,27 @@ const ContactUs: NextPage = () => {
                 <img src={wAQrUrl} alt="" width="300px" />
                 <p>{waMessage}</p>
               </a>
+              <div
+                style={{
+                  color: "#06d755",
+                  padding: "5px 10px",
+                  border: "2px solid #06d755",
+                  borderRadius: "5px",
+                  width: "170px",
+                }}
+              >
+                <Link
+                  href={whatsAppLink}
+                  underline="none"
+                  color="inherit"
+                  target="_blank"
+                >
+                  Open WhatsApp{"  "}
+                  <WhatsApp
+                    style={{ verticalAlign: "middle", color: "#06d755" }}
+                  />
+                </Link>
+              </div>
             </div>
             <div>
               <h4>Email</h4>

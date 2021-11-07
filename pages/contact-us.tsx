@@ -13,6 +13,12 @@ import { WhatsApp } from "@mui/icons-material";
 
 const useStyles = makeStyles((theme: Theme) => {
   return {
+    centerAll: {
+      display: "flex",
+      flexDirection: "column",
+      justifyContent: "center",
+      alignItems: "center",
+    },
     root: {
       textAlign: "center",
     },
@@ -25,10 +31,10 @@ const useStyles = makeStyles((theme: Theme) => {
 
 const ContactUs: NextPage = () => {
   const { t, i18n } = useTranslation();
-  const { root, contact } = useStyles();
+  const { root, contact, centerAll } = useStyles();
 
   const whatsAppLink = "https://wa.me/message/BQNERPAFPKHYE1";
-  const waMessage = "scan or click";
+  const waMessage = "Scan or click below!";
   const wAQrUrl = "./others/qr-code.jpg";
   const mail = "info.gypsytours@gmail.pk";
   const mapUrl = "./others/pakistan-map.PNG";
@@ -46,7 +52,7 @@ const ContactUs: NextPage = () => {
         <div className={root}>
           <h1>Contact Us!</h1>
           <div>
-            <div>
+            <div className={centerAll}>
               <a href={whatsAppLink} target="_black">
                 <h4>WhatsApp</h4>
                 <img src={wAQrUrl} alt="" width="300px" />

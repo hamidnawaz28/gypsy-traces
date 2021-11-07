@@ -38,6 +38,18 @@ class MyDocument extends Document {
               }
             `}
           </style>
+          <script
+            async
+            src="https://www.jscache.com/wejs?wtype=rated&amp;uniq=722&amp;locationId=23722322&amp;lang=en_US&amp;display_version=2"
+            data-loadtrk
+            onLoad="this.loadtrk=true"
+          ></script>
+          <script
+            async
+            src="https://www.jscache.com/wejs?wtype=socialButtonBubbles&amp;uniq=662&amp;locationId=23722322&amp;color=green&amp;size=rect&amp;lang=en_US&amp;display_version=2"
+            data-loadtrk
+            onLoad="this.loadtrk=true"
+          ></script>
         </Head>
         <body>
           <Main />

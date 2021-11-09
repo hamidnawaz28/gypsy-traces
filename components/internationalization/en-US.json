@@ -4475,6 +4475,238 @@
         "seoTitle": "Top destinations to travel for trekking in Pakistan",
         "details": [
           {
+            "url": "k2-expedition–the-savage-mountain",
+            "title": "K2 Expedition – The Savage Mountain",
+            "mainImageUrl": "/details/thumbnail/k2-treking-trek-001.png",
+            "thumbnailImage": "/details/thumbnail/k2-treking-trek-001.png",
+            "siteImagesUrl": [
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png",
+              "http://localhost:3000/public/details/thumbnail/k2-treking-trek-001.png"
+            ],
+            "description": "The mighty K2 8611m is ranked as the second highest mountain in the world. The mountain is heaven for climbers because of its unique existence and standing among the mountains. Climbing K2 is considered as a crucial challenge by the high skilled and most experienced climbers. Gypsy Traces and Tours is offering you the opportunity to test your limits. The tour is designed by the most experienced Tourism professionals, K2 expedition itinerary consists of 65 days. We will start our journey from Islamabad International Airport, our dedicated and professional team will look after all the requirements, which includes airport transfers, briefing, domestic travels, treks, base camp, porters, Tour leader and other things mentioned in the itinerary. It is very important to note that Climbing K2 depends upon the personal capacity and fitness level of our worthy climbers. There are some unforeseen circumstances which can extend the number of days, such as weather conditions. However, our team will make sure to meet your every requirement (as agreed upon) during your K2 Expedition.",
+            "days": "60",
+            "pickUp": "Islamabad",
+            "dropOff": "Islamabad",
+            "itinerary": [
+              {
+                "day": "01",
+                "title": "Islamabad",
+                "activities": [
+                  "Arrival Islamabad international Airport",
+                  "Transfer to hotel"
+                ]
+              },
+              {
+                "day": "02",
+                "title": "Briefing",
+                "activities": [
+                  "Briefing at Tourism Ministry",
+                  "Meeting with Liaison Officer",
+                  "City tour"
+                ]
+              },
+              {
+                "day": "03",
+                "title": "Islamabad- Skardu/ Drive to Chilas",
+                "activities": ["Skardu/ Chilas", "Free Day"]
+              },
+              {
+                "day": "04",
+                "title": "Skardu",
+                "activities": ["Free Day/ Drive from Chilas- Skardu"]
+              },
+              {
+                "day": "05",
+                "title": "Skardu",
+                "activities": [
+                  "Free Day",
+                  "Preparation for Expeditions",
+                  "Ensuring Checklist items"
+                ]
+              },
+              {
+                "day": "06",
+                "title": "Skardu- Askoli  (6-7 hours)",
+                "activities": [
+                  "Shiger Valley",
+                  "Jeep drive to Askoli",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "07",
+                "title": "Askoli to Jhula Trek (5-7 hours)",
+                "activities": [
+                  "Biafo Glacier",
+                  "Braldu River",
+                  "Jhola",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "08",
+                "title": "Jhula to Paiyu Trek (5-7 Hours)",
+                "activities": [
+                  "View of Trango Tower",
+                  "Paiyu",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "09",
+                "title": "Paiyu - Free day for Acclimatization",
+                "activities": [
+                  "Rest Day",
+                  "Acclimatization Walk",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "10",
+                "title": "Paiyu to Khoburste Trek (5-7 hours)",
+                "activities": ["Liligo", "Khoburste", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "11",
+                "title": "Khoburste to Urdukas Trek (5-6 hours)",
+                "activities": ["Urdukas", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "12",
+                "title": "Urdukas to Goro II Trek (6-8 hours) ",
+                "activities": [
+                  "Masherbrum view",
+                  "Goro II",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "13",
+                "title": "Goro II to Concordia Trek (5-7 hours)",
+                "activities": [
+                  "View, K2, Broad Peak, Gasherbrum, Mitre Peak, and many other peaks.",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "14",
+                "title": " Concordia – K2 Base Camp Trek (4-6 hours)",
+                "activities": [
+                  "Godwin Austin Glacier Trek",
+                  "Art Gilkey Memorial",
+                  "K2 Base Camp",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "15",
+                "title": "Day 50 Climbing the Mighty K2 (Summit Push)",
+                "activities": [
+                  "Base Camp Setup",
+                  "Acclimatization Rotations",
+                  "Base Camp full Services",
+                  "Summit Push",
+                  "Night Stay: Dome Tent)"
+                ]
+              },
+              {
+                "day": "51",
+                "title": " K2 Base Camp to Concordia",
+                "activities": [
+                  "After Successful K2 Summit trek to Concordia",
+                  "Rest",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "52",
+                "title": "Concordia- Ali Camp",
+                "activities": [
+                  "Ali Camp",
+                  "Gondgoro La crossing Briefing",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "53",
+                "title": "Ali Camp- Gondgoro La",
+                "activities": [
+                  "Gondgoro La",
+                  "Gondgoro Glacier",
+                  "Trinity Glacier",
+                  "Night Stay: Dome Tent"
+                ]
+              },
+              {
+                "day": "54",
+                "title": "Trinity Glacier- Siacho",
+                "activities": ["Trek to Siacho", "Night Stay: Dome Tent"]
+              },
+              {
+                "day": "55",
+                "title": "Siacho- Hushe- Skardu",
+                "activities": [
+                  "Trek to Hushe",
+                  "Drive to Skardu",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "56",
+                "title": " Debriefing at Skardu ",
+                "activities": [
+                  "Debriefing by Tourism Department",
+                  "Night Stay: Hotel"
+                ]
+              },
+              {
+                "day": "57",
+                "title": "Fly to Islamabad/ Drive to Chilas",
+                "activities": ["Islamabad Market/Chilas"]
+              },
+              {
+                "day": "58",
+                "title": "Islamabd",
+                "activities": [
+                  "Chilas to Islamabad",
+                  "Sightseeing in Islamabad"
+                ]
+              },
+              {
+                "day": "59",
+                "title": "Islamabad",
+                "activities": ["City Walk", "Shopping"]
+              },
+              {
+                "day": "60",
+                "title": "Departure",
+                "activities": ["Islambad Airport"]
+              }
+            ],
+            "whatsIncluded": {
+              "transport": "Transportation",
+              "airportPickup": "Airport Transfers",
+              "hotel": "Hotel Accommodation in Pakistan",
+              "meals": "Meals (Breakfast, Lunch, Dinner)",
+              "water": "Water",
+              "guides": "Government Licensed expert  Guides",
+              "staff": "Support Staff",
+              "safety": "Basic First Aid Kit",
+              "covid": "Covid-19  Essentials ( Hand Sanitizer, Masks, Gloves)",
+              "certificates": "Tour Completion Certificate"
+            },
+            "whatsNotIncluded": {
+              "earlyArival": "Early Arrival Expenses",
+              "insurance": "Insurance (Medical, High-Altitude Insurance, Accident Insurance) Mandatory",
+              "personalItems": "Personal Use Items",
+              "rescueEvacuations": "Rescue Evacuation (Emergency Rescue Cost- If required)",
+              "tips": "Tips to guide and support staff",
+              "items": "Personal Expenses (Filming)",
+              "else": "Anything not mentioned above"
+            }
+          },
+          {
             "url": "batura-glacier-trek",
             "title": "Batura Glacier Trek",
             "mainImageUrl": "",

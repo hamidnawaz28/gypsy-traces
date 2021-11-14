@@ -65,7 +65,7 @@ const siteLinks: any = [
   },
 ];
 
-const email = "info.grpsytours@gmail.pk";
+const email = "info.grpsytours@gmail.com";
 const waLink = "https://wa.me/message/BQNERPAFPKHYE1";
 const qrUrl = "./others/qr-code.jpg";
 const qrAlt = "Gypsy Traces QR";

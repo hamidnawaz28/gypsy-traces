@@ -4,7 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-/public/details
+/public/details/Compressed
+/public/details/honeymoon/*/all-images
+/public/details/sightseeing/*/all-images
+/public/details/trekking/*/all-images
+/public/details/cultural-and-heritage/*/all-images
+
 # testing
 /coverage
 

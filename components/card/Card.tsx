@@ -24,16 +24,7 @@ const useStyles = makeStyles((theme: Theme) => {
     },
     cardImage: {
       width: "100%",
-
-      [theme.breakpoints.down("xs")]: {
-        height: "100px",
-      },
-      [theme.breakpoints.down("sm")]: {
-        height: "150px",
-      },
-      [theme.breakpoints.up("sm")]: {
-        height: "200px",
-      },
+      aspectRatio: "1.6",
       borderRadius: "5px 5px 0px 0px",
     },
   };

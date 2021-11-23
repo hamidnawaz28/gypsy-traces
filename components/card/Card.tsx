@@ -58,7 +58,7 @@ export default function ImgCard({
 }: ImgCardProps) {
   const { root, cardImage, content } = useStyles();
   const url = `/details/${typeUrl}/${packageUrl}`;
-  const imgPath = `/details/${typeUrl}/${packageUrl}/thumbnail.png`;
+  const imgPath = `/details/${typeUrl}/${packageUrl}/thumbnail.jpg`;
 
   return (
     <div className={root}>

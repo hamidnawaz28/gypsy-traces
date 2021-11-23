@@ -31,7 +31,11 @@ const MainImage = ({ src, title }: ImageInterface) => {
   const { headingText } = globalClasses();
   return (
     <div className={root}>
-      <img src={src} width="100%"></img>
+      <img
+        src={`/${src}/main.jpg`}
+        width="100%"
+        style={{ height: "100vh" }}
+      ></img>
       <Typography className={[imageTitle, headingText].join(" ")}>
         {title}
       </Typography>

@@ -67,18 +67,18 @@ const Details: NextPage = () => {
         url: item,
       };
     }) || [];
-
+  const mainUrl = `details/${type}/${tour}`;
   return (
     <>
       <Seo
         description={description}
         pageTitle="Details"
         contentTitle={title}
-        pageUrl={`details/${type}/${tour}`}
+        pageUrl={mainUrl}
         imageUrl={mainImageUrl}
       />
       <main>
-        <MainImage src={mainImageUrl} title={title} />
+        <MainImage src={mainUrl} title={title} />
 
         <Grid container className={detailContainer}>
           <Grid item xs={12} sm={12} md={8} lg={8} xl={8} className={overview}>

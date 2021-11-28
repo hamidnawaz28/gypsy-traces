@@ -60,13 +60,13 @@ const teamDetails = [
   {
     img: "bakhsh-ur-rehman.jpg",
     name: "Bakhsh Ur Rehman",
-    designation: "Dir. Opera",
+    designation: "OPS",
     linkedin: "bakhsh-ur-rehman",
   },
   {
     img: "hamid-nawaz.jpg",
     name: "Hamid Nawaz",
-    designation: "Tech / Mark.",
+    designation: "Tech/Mktg",
     linkedin: "hamidnawaz-",
   },
 ];

@@ -1,1 +1,1 @@
-export { default as TripAdvisor } from "./tripAdvisor";
+export { default as TripAdvisor } from "./TripAdvisor";

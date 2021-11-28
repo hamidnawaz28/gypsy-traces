@@ -9,7 +9,6 @@ import { AccordionGroup } from "../../../components/accordion";
 import enUS from "../../../components/internationalization/en-US.json";
 import { Grid } from "@mui/material";
 import { KeyValues } from "../../../components/keyValues";
-import SimpleImageSlider from "react-simple-image-slider";
 import { MainImage } from "../../../components/main-image";
 import { CheckCircle, Cancel } from "@mui/icons-material";
 import { Snapshot } from "../../../components/card";

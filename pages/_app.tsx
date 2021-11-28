@@ -20,6 +20,10 @@ const useStyles = makeStyles((theme: Theme) => {
       bottom: 10,
       width: 40,
       height: 40,
+      [theme.breakpoints.down("sm")]: {
+        width: 80,
+        height: 80,
+      },
       "&:hover": {
         cursor: "pointer",
       },

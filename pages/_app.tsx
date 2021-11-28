@@ -18,12 +18,8 @@ const useStyles = makeStyles((theme: Theme) => {
       position: "fixed",
       right: 10,
       bottom: 10,
-      width: 40,
-      height: 40,
-      [theme.breakpoints.down("sm")]: {
-        width: 80,
-        height: 80,
-      },
+      width: 50,
+      height: 50,
       "&:hover": {
         cursor: "pointer",
       },

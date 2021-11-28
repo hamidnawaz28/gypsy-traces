@@ -10,6 +10,15 @@ import {
 } from "@mui/icons-material";
 import { makeStyles } from "@mui/styles";
 import { Theme } from "@mui/system";
+import {
+  gypsyWhatsAppLink,
+  whatsAppQrUrl,
+  gypsyEmail,
+  pakistanMapUrl,
+  gypsyContacts,
+  siteAddress,
+} from "../../data/constants";
+import { TripAdvisor } from "../../components/trip-adviser";
 
 const useStyles = makeStyles((theme: Theme) => {
   return {
@@ -65,14 +74,7 @@ const siteLinks: any = [
   },
 ];
 
-const email = "info.grpsytours@gmail.com";
-const waLink = "https://wa.me/message/BQNERPAFPKHYE1";
-const qrUrl = "./others/qr-code.jpg";
 const qrAlt = "Gypsy Traces QR";
-const address = [
-  "Flat 6D/1, Askari Towers-II",
-  "Sector D, DHA-II, Islamabad Pakistan",
-];
 
 export default function Footer() {
   const { grid, footer, copyright, footerContainer, link } = useStyles();
@@ -107,11 +109,23 @@ export default function Footer() {
   return (
     <footer className={footer}>
       <Grid container className={footerContainer}>
-        <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
+        {/* <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Location</h3>
-          {address.map((el, id) => (
+          {siteAddress.map((el, id) => (
             <p key={id}>{el}</p>
           ))}
+        </Grid> */}
+        <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
+          <h3>Trip Advisor</h3>
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <TripAdvisor />
+          </div>
         </Grid>
         <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Social Media</h3>
@@ -143,10 +157,10 @@ export default function Footer() {
         </Grid>
         <Grid xs={6} sm={6} md={3} lg={3} xl={3} item className={grid}>
           <h3>Contact</h3>
-          <a href={waLink} target="_black">
-            <img src={qrUrl} alt={qrAlt} width="60px" height="60px" />
+          <a href={gypsyWhatsAppLink} target="_black">
+            <img src={whatsAppQrUrl} alt={qrAlt} width="60px" height="60px" />
           </a>
-          <p style={{ textDecoration: "none" }}>{email}</p>
+          <p style={{ textDecoration: "none" }}>{gypsyEmail}</p>
         </Grid>
       </Grid>
       <Typography align="center" className={copyright}>

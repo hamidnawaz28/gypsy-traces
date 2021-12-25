@@ -14,12 +14,15 @@ const useStyles = makeStyles((theme: Theme) => {
   return {
     whatsAppIcon: {
       verticalAlign: "middle",
-      color: "#06d755",
+      color: "#FFFFFFFF",
+      backgroundColor: "#06d755",
+      borderRadius: "50%",
       position: "fixed",
+      padding: 5,
       right: 10,
       bottom: 10,
-      width: 50,
-      height: 50,
+      width: 60,
+      height: 60,
       "&:hover": {
         cursor: "pointer",
       },
@@ -30,6 +33,7 @@ const useStyles = makeStyles((theme: Theme) => {
 function MyApp({ Component, pageProps }: AppProps) {
   const [data, getData] = useState({});
   const { whatsAppIcon } = useStyles();
+
   const getIPData = async () => {
     try {
       const request = await fetch(
@@ -44,7 +48,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   };
 
   useEffect(() => {
-    getIPData();
+    if (process.env.NODE_ENV != "development") getIPData();
   }, []);
 
   return (

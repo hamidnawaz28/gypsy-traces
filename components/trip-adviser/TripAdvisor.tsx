@@ -21,7 +21,7 @@ export default function TripAdvisor() {
             >
               <img
                 src="https://www.tripadvisor.com/img/cdsi/img2/badges/ollie-11424-2.gif"
-                alt="TripAdvisor"
+                alt="Trip Advisor"
               />
             </Link>
           </li>

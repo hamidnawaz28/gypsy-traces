@@ -60,7 +60,7 @@ const Details: NextPage = () => {
     title = "",
   } = filteredTour || [];
 
-  const siteimages =
+  const siteImages =
     siteImagesUrl?.map((item) => {
       return {
         url: item,
@@ -91,7 +91,7 @@ const Details: NextPage = () => {
         <Grid container>
           <Grid item sm={6}>
             <AccordionGroup dataArr={itinerary} />
-            {/* <SimpleImageSlider width={300} height={200} images={siteimages} /> */}
+            {/* <SimpleImageSlider width={300} height={200} images={siteImages} /> */}
           </Grid>
           <Grid item sm={6} className={packageDetails}>
             <KeyValues

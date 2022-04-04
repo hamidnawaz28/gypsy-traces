@@ -1,0 +1,1 @@
+export  { default as Articales } from './Articales'

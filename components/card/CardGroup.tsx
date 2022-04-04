@@ -1,5 +1,5 @@
 import Card from "./Card";
-import { Grid, Typography } from "@mui/material";
+import { Grid } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import { CategoryHeader } from "../../containers/categoryHeader";
 import { Theme } from "@mui/system";

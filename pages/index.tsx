@@ -11,6 +11,7 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import { Grid } from "@mui/material";
+import { Articales } from "../components/articales";
 
 const useStyles = makeStyles({
   root: {},
@@ -30,6 +31,7 @@ const Home: NextPage = () => {
         pageUrl={``}
       />
       <main>
+        {/* <Articales /> */}
         <HomeAnimation />
         <CardGroup dataArr={packages} />
       </main>

@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme: Theme) => {
       backgroundColor: "#06d755",
       borderRadius: "50%",
       position: "fixed",
-      padding: 5,
+      padding: 10,
       right: 10,
       bottom: 10,
       width: 60,
